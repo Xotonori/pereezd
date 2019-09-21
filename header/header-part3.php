@@ -15,13 +15,13 @@
                 <div class="modal-body">
                     <div class="form-group">
                         <label for="name">Ваше имя</label>
-                        <input type="text" class="form-control" name="name" id="header-name"
+                        <input type="text" class="form-control" name="name" data-id="name" id="header-name"
                                placeholder="Ваше имя">
                         <small class="text-danger"></small>
                     </div>
                     <div class="form-group">
                         <label for="phone-number">Ваш телефон</label>
-                        <input type="tel" class="form-control" name="tel" id="header-tel"
+                        <input type="tel" class="form-control" name="tel" data-id="tel" id="header-tel"
                                placeholder="+79210000000">
                         <small class="text-danger"></small>
                     </div>

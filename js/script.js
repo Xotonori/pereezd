@@ -3,8 +3,8 @@ $(document).ready(function () {
 //Check submit/////////////////////////////////////////////////////////////////////////////////////////////
     $('.js-modal').submit(function (e) {
         e.preventDefault();
-        let formData = $(this).serializeArray();
-        if(formValidation(formData, $(this))) {
+        let formInputs = $(this).find('input, textarea, checkbox');
+        if(formValidation(formInputs, $(this))) {
             $(this).unbind('submit').submit();
         }
     });
@@ -14,7 +14,6 @@ $(document).ready(function () {
     $('.js-podrobno').on('click', function () {
 
         let textButton = $(this).find('span').text();
-
         if (textButton === 'Подробно') {
             $(this).find('span').text('Свернуть');
             $(this).find('img').css({
@@ -32,27 +31,10 @@ $(document).ready(function () {
     });
 //Shorter text-end/////////////////////////////////////////////////////////////////////////////////////////////
 
-
     $('.carousel').carousel({
         interval: false
     });
-
-
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 //Check submit/////////////////////////////////////////////////////////////////////////////////////////////
 function phoneValidation (value) {
@@ -67,12 +49,12 @@ function stringValidation (value) {
     return value.length > 0;
 }
 
-function formValidation(formData, form) {
+function formValidation(formInputs, form) {
     let errors = [];
 
-    $.each(formData,function() {
-        let inputName = this.name;
-        let inputValue = this.value;
+    $.each(formInputs,function() {
+        let inputName = $(this).data('id');
+        let inputValue = $(this).val();
 
         switch (inputName) {
             case 'tel':
@@ -106,9 +88,12 @@ function formValidation(formData, form) {
 
     if (errors.length > 0) {
         for (let i = 0; i < errors.length; i++) {
-            let input = form.find('input[name=' + errors[i].name +']');
+            let input = form.find('input[data-id=' + errors[i].name +']');
+            let textarea = form.find('textarea[data-id=' + errors[i].name +']');
             input.removeClass('is-valid').addClass('is-invalid');
+            textarea.removeClass('is-valid').addClass('is-invalid');
             input.siblings('.text-danger').text(errors[i].error);
+            textarea.siblings('.text-danger').text(errors[i].error);
         }
 
         return false;

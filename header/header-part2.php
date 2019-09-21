@@ -324,7 +324,7 @@
                      data-toggle="collapse" data-target="#current-city"
                      aria-controls="wrap-current-city" aria-expanded="false"
                      aria-label="Toggle navigation">
-                    <a class="nav-link text-left" href="#"><?php echo $city ?: 'Санкт-Петербург'; ?></a>
+                    <a class="nav-link text-left" href="#"><?php echo isset($city) ? $city : 'Санкт-Петербург'; ?></a>
                     <img src="/images/header/city-triangle.png" alt="треугольник">
                 </div>
                 <div class="collapse navbar-collapse wrap-current-city" id="current-city">
