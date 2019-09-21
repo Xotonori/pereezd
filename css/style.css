@@ -67,7 +67,7 @@ body h5 {
   font-size: 1.125rem;
   font-weight: 700; }
 
-body .apartment .carousel, body .video .carousel, body .winner .winner-call {
+body .apartment .carousel, body .video .carousel, body .person-page .person-page-call {
   -webkit-box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.1); }
 
@@ -374,21 +374,21 @@ body {
     body .video .author {
       font-size: 1.125rem;
       font-weight: 600; }
-  body .winner {
+  body .person-page {
     position: relative; }
-    body .winner .winner-price {
+    body .person-page .person-page-price {
       height: 380px;
       position: relative; }
-      body .winner .winner-price .left-bush {
+      body .person-page .person-page-price .left-bush {
         top: 95px; }
-      body .winner .winner-price .right-bush {
+      body .person-page .person-page-price .right-bush {
         top: 40px; }
-      body .winner .winner-price .wall-picture {
+      body .person-page .person-page-price .wall-picture {
         top: 30px;
         margin-left: -113.5px; }
-      body .winner .winner-price .sofa {
+      body .person-page .person-page-price .sofa {
         margin-left: -177px; }
-    body .winner .winner-call {
+    body .person-page .person-page-call {
       position: relative;
       left: 0;
       right: 0;
@@ -397,16 +397,16 @@ body {
       background-color: #fff;
       padding: 25px;
       border-radius: 5px; }
-      body .winner .winner-call .man {
+      body .person-page .person-page-call .man {
         position: absolute;
         right: 0;
         left: 0;
         top: -210px; }
-      body .winner .winner-call ._header-6 {
+      body .person-page .person-page-call ._header-6 {
         margin-top: 0; }
-      body .winner .winner-call .additional-info2 a {
+      body .person-page .person-page-call .additional-info2 a {
         font-size: 1.5rem; }
-      body .winner .winner-call .additional-info2 a:hover {
+      body .person-page .person-page-call .additional-info2 a:hover {
         text-decoration: none;
         color: #ff0000; }
   body table {
@@ -589,5 +589,13 @@ body {
     color: #00b5ff; }
   body .kvartirnyy-pereezd-main .professional-relocation .paragraph {
     padding: 0; }
+  body .kvartirnyy-pereezd-main .person-page .person-page-price {
+    height: 450px; }
+    body .kvartirnyy-pereezd-main .person-page .person-page-price .back-office {
+      left: 50%;
+      bottom: -60px;
+      margin-left: -180px; }
+  body .kvartirnyy-pereezd-main .person-page .person-page-call .man {
+    top: -218px; }
 
 /*# sourceMappingURL=style.css.map */

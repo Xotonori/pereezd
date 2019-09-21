@@ -1056,15 +1056,15 @@
         </div>
     </div>
 
-<!--////WINNER-PRICE/////////////////////////////////////////////////////////////////////////////////////////////-->
-    <div class="winner">
-        <div class="container-fluid header-main-theme winner-price">
+<!--////person-page-PRICE/////////////////////////////////////////////////////////////////////////////////////////////-->
+    <div class="person-page">
+        <div class="container-fluid header-main-theme person-page-price">
             <img class="sofa" src="/images/sofa2.png" alt="диван">
             <img class="wall-picture" src="/images/picture.png" alt="картина">
             <img class="left-bush" src="/images/header/left-bush.png" alt="левый куст">
             <img class="right-bush" src="/images/header/right-bush.png" alt="правый куст">
         </div>
-        <div class="winner-call">
+        <div class="person-page-call">
             <img class="man mx-auto" src="/images/men-price.png" alt="победитель по жизни">
             <h6 class="_header-6 text-center">
                 Мы готовы <span class="important">побить любую цену</span> конкурентов
@@ -1075,9 +1075,24 @@
         </div>
     </div>
 
-
-
-
+<!--////QUESTION/////////////////////////////////////////////////////////////////////////////////////////////-->
+    <div class="person-page">
+        <div class="container-fluid header-main-theme person-page-price">
+            <h3 class="_header-3 mt-3 text-center"><span class="important">Задайте вопрос</span><br>специалисту</h3>
+            <img class="back-office" src="/images/back-office.png" alt="диван">
+        </div>
+        <div class="person-page-call">
+            <img class="man mx-auto" src="/images/manager.png" alt="менеджер">
+            <h6 class="_header-6 text-center">
+                Николай Денисов
+            </h6>
+            <div class="additional-info2 text-center mt-2">
+                Специализация: переезды
+                по Санкт-Петербургу "под ключ"<br>
+                +7 (812) 982-88-58
+            </div>
+        </div>
+    </div>
 <!--////VIDEO///////////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="bd-example video">
         <div id="videoCaption1" class="carousel slide" data-ride="carousel">
