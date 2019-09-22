@@ -1034,6 +1034,40 @@ body {
     }
   }
 
+  .professional-relocation {
+    .paragraph {
+      padding: 0;
+    }
+  }
+
+  .person-page {
+    .person-page-price {
+      height: 450px;
+
+      .back-office {
+        left: 50%;
+        bottom: -60px;
+        margin-left: -180px;
+      }
+    }
+
+    .person-page-call {
+      .man {
+        top: -218px;
+      }
+
+      .double-quotes {
+        top: 30%;
+      }
+
+      .request-call {
+        position: relative;
+        margin: 15px;
+      }
+    }
+
+  }
+
 
 
 
@@ -1053,39 +1087,21 @@ body {
       color: $main-blue;
     }
 
-    .professional-relocation {
-      .paragraph {
-        padding: 0;
+
+
+    #recommendationCaption1 {
+      .carousel-item {
+        h5 {
+          color: #000;
+        }
+
+        img {
+          max-height: 175px;
+        }
       }
     }
 
-    .person-page {
-      .person-page-price {
-        height: 450px;
 
-        .back-office {
-          left: 50%;
-          bottom: -60px;
-          margin-left: -180px;
-        }
-      }
-
-      .person-page-call {
-        .man {
-          top: -218px;
-        }
-
-        .double-quotes {
-          top: 30%;
-        }
-
-        .request-call {
-          position: relative;
-          margin: 15px;
-        }
-      }
-
-    }
 
   }
 

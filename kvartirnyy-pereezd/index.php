@@ -1,8 +1,11 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
 <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<h1>Квартирный<br>переезд</h1>
+<img class="sofa" src="/images/header/sofa.png" alt="диван">
+<img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
+<h1>Квартирный<br>переезд</h1>
+<?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
 
 
@@ -1148,6 +1151,56 @@
                 </div>
             </div>
 
+        </div>
+    </div>
+<!--////RECOMMENDATION/////////////////////////////////////////////////////////////////////////////////////////////-->
+    <div class="recommendation container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-12 text-center">
+                <h3 class="_header-3">Нас<span class="important"> рекомендуют</span></h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="bd-example">
+        <div id="recommendationCaption1" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="/images/recom1.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Синюгин Константин</h5>
+                        <p class="text-left text-xs-center">
+                            В первый раз заказывал у вас переезд на другую квартиру. Отличная служба! Всё сделали быстро, аккуратно, культурно. Точно назвали цену, условия оплаты и какое время потребуется на переезд моей трехкомнатной квартиры по городу. В общем, всё отлично.
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/recom2.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Баранов С.В.</h5>
+                        <p>
+                            Обратились в вашу компанию «Переезд без хлопот» по рекомендации друзей. Занялись ремонтом в квартире, решили заказать вывоз мебели. Все хорошо. Все понравилось.
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/recom3.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Полозова И.С.</h5>
+                        <p>
+                            Я офисный сотрудник. Работы много и нет времени на самостоятельный переезд. Нашла вас, изучая частные объявления в сети. Приехали ребята, собрали всю мою мебель и перевезли. Я довольна как прошел квартирный переезд, рекомендую обращаться. Здесь фиксированный прайс, лучшие грузчики и водители!
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
+                <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
+                <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                <span class="sr-only">Next</span>
+            </a>
         </div>
     </div>
 <!--////VIDEO///////////////////////////////////////////////////////////////////////////////////////////////////-->
