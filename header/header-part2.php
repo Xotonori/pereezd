@@ -288,7 +288,7 @@
                                 <a class="nav-link text-center" href="#">Отзывы от физ.лиц</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-center" href="#">Отзывы от компаний</a>
+                                <a class="nav-link text-center" href="/reference">Отзывы от компаний</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link text-center" href="#">Видео отзывы</a>

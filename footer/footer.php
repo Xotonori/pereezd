@@ -66,7 +66,7 @@
                 <div class="row footer-pages">
                     <a href="#" class="col-lg-2 text-center">О компании</a>
                     <a href="#" class="col-lg-2 text-center">Автопарк</a>
-                    <a href="#" class="col-lg-2 text-center">Статьи</a>
+                    <a href="/articles" class="col-lg-2 text-center">Статьи</a>
                     <a href="#" class="col-lg-2 text-center">Цены</a>
                     <a href="#" class="col-lg-2 text-center">Склады</a>
                     <a href="#" class="col-lg-2 text-center">Контакты</a>
