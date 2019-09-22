@@ -1098,6 +1098,16 @@ body {
         img {
           max-height: 175px;
         }
+
+        .transportation-parameters {
+          .h-param {
+            font-weight: 600;
+          }
+
+          .b-param {
+            font-size: .875rem;
+          }
+        }
       }
     }
 
