@@ -644,21 +644,6 @@ body {
 
     .carousel-indicators {
       top: 245px;
-      bottom: auto;
-
-      li {
-        bottom: auto;
-        width: 8px;
-        height: 8px;
-        margin-right: 4px;
-        margin-left: 4px;
-        border-radius: 50%;
-        background-color: #808080;
-      }
-
-      .active {
-        background-color: $main-blue;
-      }
     }
 
     .important-text-blue1 {
@@ -1087,8 +1072,6 @@ body {
       color: $main-blue;
     }
 
-
-
     #recommendationCaption1 {
       .carousel-item {
         h5 {
@@ -1100,14 +1083,74 @@ body {
         }
       }
     }
-
-
-
   }
 
+  .carousel {
+    .carousel-indicators {
+      bottom: auto;
+      flex-wrap: wrap;
 
-  
-  
+      li {
+        bottom: auto;
+        width: 8px;
+        height: 8px;
+        margin-right: 4px;
+        margin-left: 4px;
+        border-radius: 50%;
+        background-color: #808080;
+      }
+
+      .active {
+        background-color: $main-blue;
+      }
+    }
+    ._carousel-control {
+      width: 100px;
+      opacity: 1;
+    }
+  }
+
+  .client-reviews {
+    .carousel-container {
+      position: relative;
+      width: 100%;
+
+      .modal-dialog {
+        max-width: max-content;
+        width: 100%;
+
+        .review-full-img {
+          img {
+            width: 100%;
+            margin: 0 auto;
+          }
+        }
+      }
+    }
+    .carousel-inner {
+      img {
+        border: 2px solid #cfcfcf;
+        max-height: 300px;
+        margin: 0 auto;
+        cursor: pointer;
+      }
+    }
+
+    .carousel-indicators {
+      bottom: 0;
+      max-width: 150px;
+      position: initial;
+      margin-top: 10px;
+    }
+
+    .carousel {
+      position: initial;
+
+      ._carousel-control {
+        margin-top: -122px;
+      }
+    }
+  }
 }
 
 

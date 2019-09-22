@@ -15,7 +15,6 @@
                 <p>Оформить заказ переезда на сайте можно в любое удобное для вас время. После отправки заполненной формы вам больше не придется ничего делать: получив заявку, наши специалисты сами свяжутся с вами. Такой заказ ни к чему вас не обязывает. После получения бесплатной консультации вы сможете решить, будете ли пользоваться нашими услугами.</p>
             </div>
             <div class="form-block mx-auto">
-<!--                <form action="https://pereezdy-spb.ru/zakaz/#usermessage2b" id="cforms2form" class="js-modal">-->
                 <form action="https://pereezdy-spb.ru/zakaz/#usermessage2b" id="cforms2form" method="post" class="js-modal">
                     <div class="modal-body">
                         <div class="form-group">
