@@ -1,10 +1,13 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
+<meta name="description" itemprop="description" content="Наши цены на организацию офисных и квартирных переездов под ключ одни из самых низких в Санкт-Петербурге."/>
+<meta name="keywords" itemprop="keywords" content="" />
+<title>Цены на переезд под ключ</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
-<h1>Квартирный<br>переезд</h1>
+<h1>Цены на переезд под ключ</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
 <main>

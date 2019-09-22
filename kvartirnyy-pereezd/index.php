@@ -1,4 +1,7 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
+<meta name="description" itemprop="description" content="Квартирный Переезд Без Хлопот для вас в Санкт-Петербурге и области - оставьте все заботы нам, мы всё организуем!"/>
+<meta name="keywords" itemprop="keywords" content="квартирный переезд квартиры перевозка спб санкт петербург недорого дешево заказать в новую цены" />
+<title>Квартирный переезд в Санкт-Петербурге, недорогой переезд квартиры без хлопот в СПБ</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">

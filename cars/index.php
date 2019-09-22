@@ -1,5 +1,8 @@
 <?php $city = 'Гатчино'; ?>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
+    <meta name="description" itemprop="description" content="Автопарк машин для переезда компании Переезд Без Хлопот в Санкт-Петербурге"/>
+    <meta name="keywords" itemprop="keywords" content="" />
+    <title>Автопарк</title>
     <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
     <img class="sofa" src="/images/header/sofa.png" alt="диван">

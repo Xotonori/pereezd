@@ -1,10 +1,13 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
+<meta name="description" itemprop="description" content="Калькулятор стоимости услуг по переезду от компании Переезд Без Хлопот в Санкт-Петербурге"/>
+<meta name="keywords" itemprop="keywords" content="" />
+<title>Калькулятор переезда</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
-<h1>Квартирный<br>переезд</h1>
+<h1>Калькулятор переезда</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
 <script type='text/javascript' src='https://pereezdy-spb.ru/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
