@@ -10,7 +10,7 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>О компании</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
-    <div class="container cars">
+    <div class="container">
         <div class="row">
             <div class="col-12">
                 <p class="paragraph">«Переезд без Хлопот»&nbsp; — &nbsp;одна из первых мувинговых компаний, оказывающих полный комплекс соответствующих услуг в Санкт-Петербурге с 2006 года. Мы&nbsp; — &nbsp;команда профессионалов, слаженно работающих для того, чтобы любой переезд стал для вашего дома, магазина, офиса или предприятия по-настоящему радостным событием, началом нового этапа в жизни и профессиональной деятельности.</p>

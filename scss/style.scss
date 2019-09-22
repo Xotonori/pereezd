@@ -472,9 +472,10 @@ body {
     }
 
     .request-call {
-      top: 200px;
-      margin-top: 10px;
-      left: -92px;
+      margin: 0 auto;
+      display: block;
+      position: initial;
+      margin-top: 35px;
     }
   }
 
@@ -1106,7 +1107,7 @@ body {
   .marker {
     li {
       list-style: none;
-      background: url('/images/arr_1.png') left 3px no-repeat;
+      background: url('/images/arr_1.png') left 6px no-repeat;
       padding: 0 0 0 20px;
     }
   }

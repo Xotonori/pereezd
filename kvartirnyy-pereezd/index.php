@@ -1093,19 +1093,19 @@
                                     <div class="modal-body">
                                         <div class="form-group">
                                             <label for="question1-name">Ваше имя</label>
-                                            <input type="text" class="form-control" name="name" id="question1-name"
+                                            <input type="text" class="form-control" name="name" data-id="name" id="question1-name"
                                                    placeholder="Ваше имя">
                                             <small class="text-danger"></small>
                                         </div>
                                         <div class="form-group">
                                             <label for="question1-tel">Ваш телефон</label>
-                                            <input type="tel" class="form-control" name="tel" id="question1-tel"
+                                            <input type="tel" class="form-control" name="tel" data-id="tel" id="question1-tel"
                                                    placeholder="+79210000000">
                                             <small class="text-danger"></small>
                                         </div>
                                         <div class="form-group">
                                             <label for="question1-question">Ваш вопрос</label>
-                                            <textarea class="form-control" name="question" id="question1-question"
+                                            <textarea class="form-control" name="question" data-id="question" id="question1-question"
                                                       placeholder="Ваш вопрос?"></textarea>
                                             <small class="text-danger"></small>
                                         </div>
