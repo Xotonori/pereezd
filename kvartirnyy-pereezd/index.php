@@ -1169,27 +1169,105 @@
                     <img src="/images/recom1.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Синюгин Константин</h5>
-                        <p class="text-left text-xs-center">
+                        <p class="text-left text-sm-center">
                             В первый раз заказывал у вас переезд на другую квартиру. Отличная служба! Всё сделали быстро, аккуратно, культурно. Точно назвали цену, условия оплаты и какое время потребуется на переезд моей трехкомнатной квартиры по городу. В общем, всё отлично.
                         </p>
+                        <div class="transportation-parameters">
+                            <p class="param">
+                                <span class="h-param">Маршрут:</span><br>
+                                <span class="b-param">ул. Кубинская - ул. Коллонтай</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Вещи:</span><br>
+                                <span class="b-param">Мебель, техника, 15 коробок с вещами</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Дата:</span><br>
+                                <span class="b-param">12.04.2018</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Грузчики:</span><br>
+                                <span class="b-param">3 чел.</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Транспорт:</span><br>
+                                <span class="b-param">Mercedes с гидролопатой</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Стоимость:</span><br>
+                                <span class="b-param">12 200 руб.</span>
+                            </p>
+                        </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="/images/recom2.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Баранов С.В.</h5>
-                        <p>
+                        <p class="text-left text-sm-center">
                             Обратились в вашу компанию «Переезд без хлопот» по рекомендации друзей. Занялись ремонтом в квартире, решили заказать вывоз мебели. Все хорошо. Все понравилось.
                         </p>
+                        <div class="transportation-parameters">
+                            <p class="param">
+                                <span class="h-param">Маршрут:</span><br>
+                                <span class="b-param">ул. Магинская - ул. Садовая</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Вещи:</span><br>
+                                <span class="b-param">Мебель, 6 коробок с вещами</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Дата:</span><br>
+                                <span class="b-param">18.03.2018</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Грузчики:</span><br>
+                                <span class="b-param">2 чел.</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Транспорт:</span><br>
+                                <span class="b-param">Газель-Next</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Стоимость:</span><br>
+                                <span class="b-param">6 200 руб.</span>
+                            </p>
+                        </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="/images/recom3.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Полозова И.С.</h5>
-                        <p>
+                        <p class="text-left text-sm-center">
                             Я офисный сотрудник. Работы много и нет времени на самостоятельный переезд. Нашла вас, изучая частные объявления в сети. Приехали ребята, собрали всю мою мебель и перевезли. Я довольна как прошел квартирный переезд, рекомендую обращаться. Здесь фиксированный прайс, лучшие грузчики и водители!
                         </p>
+                        <div class="transportation-parameters">
+                            <p class="param">
+                                <span class="h-param">Маршрут:</span><br>
+                                <span class="b-param">ул. Бабушкина - пр. Маршала Жукова</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Вещи:</span><br>
+                                <span class="b-param">Мебель, 16 коробок с вещами</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Дата:</span><br>
+                                <span class="b-param">16.02.2018</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Грузчики:</span><br>
+                                <span class="b-param">3 чел.</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Транспорт:</span><br>
+                                <span class="b-param">Газель-Next</span>
+                            </p>
+                            <p class="param">
+                                <span class="h-param">Стоимость:</span><br>
+                                <span class="b-param">9 400 руб.</span>
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
