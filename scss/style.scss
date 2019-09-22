@@ -521,6 +521,7 @@ body {
       .h-hint {
         font-size: 1.25rem;
         font-weight: 800;
+        margin: 20px 0;
       }
 
       .blue-ancor {
@@ -529,6 +530,7 @@ body {
 
       img {
         height: 125px;
+        margin-top: 15px;
       }
     }
   }
@@ -680,10 +682,12 @@ body {
 
   .video {
     margin-top: 35px;
+    margin-bottom: 35px;
 
     .carousel {
       box-shadow: none;
       padding-top: 0;
+      padding-bottom: 0;
     }
 
     .carousel-indicators {
@@ -729,6 +733,15 @@ body {
     @extend %font-size18;
     font-weight: 600;
     padding-left: 4%;
+  }
+
+  .send-button {
+    color: #fff;
+    cursor: pointer;
+  }
+
+  .send-button:hover {
+    color: #fff;
   }
 }
 
@@ -1104,13 +1117,6 @@ body {
     }
   }
 
-
-
-
-
-
-//kvartirnyy-pereezd.............................................................................................
-
   .kvartirnyy-pereezd-main {
 
     .how-much-description {
@@ -1123,26 +1129,10 @@ body {
       color: $main-blue;
     }
 
-    #recommendationCaption1 {
-      .carousel-item {
-        h5 {
-          color: #000;
-        }
-
-        img {
-          max-height: 175px;
-        }
-
-        .transportation-parameters {
-          .h-param {
-            font-weight: 600;
-          }
-
-          .b-param {
-            @extend %font-size14;
-          }
-        }
-      }
+    ._carousel-control {
+      height: 70px;
+      top: 145px;
+      margin-top: 0 !important;
     }
   }
 
@@ -1173,6 +1163,7 @@ body {
 
   .wrap-infographics {
     position: relative;
+    margin-bottom: 35px;
 
     .ribbon {
       position: absolute;
@@ -1208,6 +1199,7 @@ body {
   }
 
   .client-reviews {
+
     .carousel-container {
       position: relative;
       width: 100%;
@@ -1248,6 +1240,36 @@ body {
       }
     }
   }
+
+  #recommendationCaption1 {
+    .carousel-item {
+      h5 {
+        color: #000;
+      }
+
+      img {
+        max-height: 175px;
+      }
+
+      .transportation-parameters {
+        .h-param {
+          font-weight: 600;
+        }
+
+        .b-param {
+          @extend %font-size14;
+        }
+      }
+    }
+  }
+
+
+
+
+
+
+
+
 }
 
 
