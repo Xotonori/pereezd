@@ -97,6 +97,23 @@ $number-color: #2698b5;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
 }
 
+%font-size36 {
+  font-size: 2.25rem;
+}
+
+%font-size24 {
+  font-size: 1.5rem;
+}
+
+%font-size18 {
+  font-size: 1.125rem;
+}
+
+%font-size14 {
+  font-size: .875rem;
+}
+
+
 * {
   margin: 0;
   padding: 0;
@@ -277,7 +294,7 @@ body {
 
       .amount-shipping {
         text-align: center;
-        font-size: 1.125rem;
+        @extend %font-size18;
         font-weight: 800;
         padding-top: 30px;
 
@@ -326,7 +343,7 @@ body {
           padding-bottom: 20px;
 
           a {
-            font-size: 1.125rem;
+            @extend %font-size18;
           }
         }
 
@@ -334,12 +351,12 @@ body {
           padding-bottom: 10px;
           a {
             text-decoration: underline;
-            font-size: .875rem;
+            @extend %font-size14;
           }
 
           .bottom-footer-phone {
             text-decoration: none;
-            font-size: 1.5rem;
+            @extend %font-size24;
           }
         }
       }
@@ -391,7 +408,7 @@ body {
     }
 
     .phone {
-      font-size: .875rem;
+      @extend %font-size14;
       margin-left: 15px;
       color: #000;
     }
@@ -410,7 +427,7 @@ body {
 
       .nav-link {
         padding: 0 0 10px 10px;
-        font-size: .875rem;
+        @extend %font-size14;
         display: inline-block;
         color: $main-blue;
         margin-right: 5px;
@@ -430,7 +447,7 @@ body {
       .nav-link {
         color: $main-blue;
         background-color: #fff;
-        font-size: .875rem;
+        @extend %font-size14;
         padding-left: 10px;
       }
 
@@ -450,7 +467,7 @@ body {
     .urgent-call {
       text-align: center;
       margin-top: 15px;
-      font-size: 1.125rem;
+      @extend %font-size18;
       font-weight: 400;
     }
 
@@ -466,11 +483,11 @@ body {
   }
 
   ._header-3 {
-    font-size: 2.25rem;
+    @extend %font-size36;
     margin-top: 50px;
   }
   ._header-6 {
-    font-size: 1.5rem;
+    @extend %font-size24;
     margin-top: 20px;
   }
 
@@ -480,7 +497,7 @@ body {
 
   .important-text-blue1 {
     color: $dark-blue;
-    font-size: 1.5rem;
+    @extend %font-size24;
   }
 
   .red-bold {
@@ -491,7 +508,7 @@ body {
   .big-red {
     color: #ff0000;
     font-weight: 600;
-    font-size: 2.25rem;
+    @extend %font-size36;
   }
 
 
@@ -612,7 +629,7 @@ body {
   }
 
   .additional-info2 {
-    font-size: 1.125rem;
+    @extend %font-size18;
   }
 
 
@@ -635,11 +652,7 @@ body {
 
     .gray-price {
       color: #a1a1a1;
-      font-size: 1.125rem;
-    }
-
-    .big-price {
-      font-size: 2.25rem;
+      @extend %font-size18;
     }
 
     .carousel-indicators {
@@ -655,8 +668,12 @@ body {
     }
   }
 
+  .big-price {
+    @extend %font-size36;
+  }
+
   .additional-info1 {
-    font-size: .875rem;
+    @extend %font-size14;
     font-style: italic;
     margin-top: 20px;
   }
@@ -709,8 +726,9 @@ body {
     }
 
   .author {
-    font-size: 1.125rem;
+    @extend %font-size18;
     font-weight: 600;
+    padding-left: 4%;
   }
 }
 
@@ -763,7 +781,7 @@ body {
 
       .additional-info2 {
         a {
-          font-size: 1.5rem;
+          @extend %font-size24;
         }
 
         a:hover {
@@ -1088,7 +1106,7 @@ body {
           }
 
           .b-param {
-            font-size: .875rem;
+            @extend %font-size14;
           }
         }
       }
@@ -1117,6 +1135,42 @@ body {
     ._carousel-control {
       width: 100px;
       opacity: 1;
+    }
+  }
+
+  .wrap-infographics {
+    position: relative;
+
+    .ribbon {
+      position: absolute;
+    }
+
+    .left-ribbon {
+      left: 0;
+      bottom: 14%;
+    }
+
+    .right-ribbon {
+      right: 0;
+      top: 5%;
+    }
+
+    .infographic {
+
+      .h-infographic {
+        font-weight: 300;
+        @extend %font-size24;
+
+        .important {
+          font-weight: 600;
+          @extend %font-size36;
+        }
+      }
+
+      .b-infographic {
+        font-weight: 500;
+        @extend %font-size18;
+      }
     }
   }
 
