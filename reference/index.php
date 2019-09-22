@@ -1,4 +1,3 @@
-<?php $city = 'Гатчино'; ?>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
     <meta name="description" itemprop="description" content="Отзывы клиентов компании Переезд Без Хлопот в Санкт-Петербурге" />
     <meta name="keywords" itemprop="keywords" content="" />

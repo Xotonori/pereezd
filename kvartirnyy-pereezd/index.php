@@ -82,8 +82,8 @@
                     </div>
                     <p class="h-hint col-12 text-center">Положительные рекомендации от заказчиков</p>
                     <p class="hint col-12 text-center">На сайте Вы узнаете отзывы людей, которые уже
-                        воспользовались нашими услугами. <a href="#" class="blue-ancor">Почитайте</a> и убедитесь, что нам можно доверять.
-                        Посмотрите <a href="#" class="blue-ancor">видео отзывы</a> и увидите модель Вашего будущего переезда.</p>
+                        воспользовались нашими услугами. <a href="/articles" class="blue-ancor">Почитайте</a> и убедитесь, что нам можно доверять.
+                        Посмотрите <a href="/video_reference" class="blue-ancor">видео отзывы</a> и увидите модель Вашего будущего переезда.</p>
                 </div>
             </div>
         </div>
@@ -92,7 +92,7 @@
     <div class="professional-relocation container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 text-center">
-                <h3 class="_header-3"><span class="important">Проф подход</span> в пеерезде квартир</h3>
+                <h2 class="_header-3"><span class="important">Проф подход</span> в пеерезде квартир</h2>
             </div>
             <div class="col-11">
                 <p class="paragraph mt-3">У нас Вы можете заказать комплексный квартирный переезд в СПб «под ключ» или
@@ -253,7 +253,7 @@
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-11 text-center">
-                <h3 class="_header-3 mt-3"><span class="important">Сколько стоит</span> переезд квартиры</h3>
+                <h2 class="_header-3 mt-3"><span class="important">Сколько стоит</span> переезд квартиры</h2>
             </div>
             <div class="col-11 js-long-text container how-much-description">
                 <div class="row">
@@ -988,7 +988,7 @@
     <div class="container wrap-benefits">
         <div class="row">
             <div class="col-12 text-center">
-                <h3 class="_header-3">Узнать <span class="important">стоимость переезда</span> квартиры клиенты обращаются к нам</h3>
+                <h2 class="_header-3">Узнать <span class="important">стоимость переезда</span> квартиры клиенты обращаются к нам</h2>
             </div>
         </div>
         <div class="row">
@@ -1050,7 +1050,7 @@
 <!--////QUESTION/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="person-page">
         <div class="container-fluid header-main-theme person-page-price">
-            <h3 class="_header-3 mt-3 text-center"><span class="important">Задайте вопрос</span><br>специалисту</h3>
+            <h2 class="_header-3 mt-3 text-center"><span class="important">Задайте вопрос</span><br>специалисту</h2>
             <img class="back-office" src="/images/back-office.png" alt="диван">
         </div>
         <div class="person-page-call">
@@ -1125,7 +1125,7 @@
     <div class="recommendation container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 text-center">
-                <h3 class="_header-3">Нас<span class="important"> рекомендуют</span></h3>
+                <h2 class="_header-3">Нас<span class="important"> рекомендуют</span></h2>
             </div>
         </div>
     </div>
@@ -1258,7 +1258,7 @@
                 <li data-target="#videoCaption1" data-slide-to="3"></li>
             </ol>
             <div class="carousel-inner">
-                <h3 class="_header-3 mt-3 text-center">Наши<br><span class="important"> видео отзывы</span></h3>
+                <h2 class="_header-3 mt-3 text-center">Наши<br><span class="important"> видео отзывы</span></h2>
                 <div class="carousel-item active">
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
@@ -1704,7 +1704,7 @@
         <img class="ribbon right-ribbon" src="/images/ribbon-right.png" alt="правая лента">
         <div class="row">
             <div class="col-12 text-center">
-                <h3 class="_header-3">Переезд без хлопот в <span class="important">цифрах</span></h3>
+                <h2 class="_header-3">Переезд без хлопот в <span class="important">цифрах</span></h2>
             </div>
         </div>
         <div class="row">
