@@ -279,9 +279,6 @@
             </div>
         </div>
     </div>
-
-
-
 <!--////APARTAMENT/////////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="container">
         <div class="row">
@@ -1169,7 +1166,7 @@
                     <img src="/images/recom1.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Синюгин Константин</h5>
-                        <p class="text-left text-sm-center">
+                        <p class="text-left">
                             В первый раз заказывал у вас переезд на другую квартиру. Отличная служба! Всё сделали быстро, аккуратно, культурно. Точно назвали цену, условия оплаты и какое время потребуется на переезд моей трехкомнатной квартиры по городу. В общем, всё отлично.
                         </p>
                         <div class="transportation-parameters">
@@ -1204,7 +1201,7 @@
                     <img src="/images/recom2.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Баранов С.В.</h5>
-                        <p class="text-left text-sm-center">
+                        <p class="text-left">
                             Обратились в вашу компанию «Переезд без хлопот» по рекомендации друзей. Занялись ремонтом в квартире, решили заказать вывоз мебели. Все хорошо. Все понравилось.
                         </p>
                         <div class="transportation-parameters">
@@ -1239,7 +1236,7 @@
                     <img src="/images/recom3.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Полозова И.С.</h5>
-                        <p class="text-left text-sm-center">
+                        <p class="text-left">
                             Я офисный сотрудник. Работы много и нет времени на самостоятельный переезд. Нашла вас, изучая частные объявления в сети. Приехали ребята, собрали всю мою мебель и перевезли. Я довольна как прошел квартирный переезд, рекомендую обращаться. Здесь фиксированный прайс, лучшие грузчики и водители!
                         </p>
                         <div class="transportation-parameters">
@@ -1499,6 +1496,57 @@
             </div>
         </div>
     </div>
+
+<!--////infographics///////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <div class="container-fluid wrap-infographics">
+        <img class="ribbon left-ribbon" src="/images/ribbon-left.png" alt="левая лента">
+        <img class="ribbon right-ribbon" src="/images/ribbon-right.png" alt="правая лента">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h3 class="_header-3">Переезд без хлопот в <span class="important">цифрах</span></h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-2 benefit text-center mt-4">
+                    <p class="infographic">
+                        <span class="h-infographic"><span class="important">10</span><br>лет</span><br>
+                        <span class="b-infographic">на рынке услуг по организации переездов</span>
+                    </p>
+            </div>
+            <div class="col-lg-2 benefit text-center mt-4">
+                    <p class="infographic">
+                        <span class="h-infographic"><span class="important">24</span><br>часа</span><br>
+                        <span class="b-infographic">работаем круглосуточно</span>
+                    </p>
+            </div>
+            <div class="col-lg-2 benefit text-center mt-4">
+                    <p class="infographic">
+                        <span class="h-infographic"><span class="important">20</span><br>и более</span><br>
+                        <span class="b-infographic">переездов по Санкт-Петербургу в день</span>
+                    </p>
+            </div>
+            <div class="col-lg-2 benefit text-center mt-4">
+                    <p class="infographic">
+                        <span class="h-infographic"><span class="important">7</span><br>складов</span><br>
+                        <span class="b-infographic">где вы сможете хранить мебель</span>
+                    </p>
+            </div>
+            <div class="col-lg-2 benefit text-center mt-4">
+                    <p class="infographic">
+                        <span class="h-infographic"><span class="important">30</span><br>человек</span><br>
+                        <span class="b-infographic">штат своих грузчиков специалистов</span>
+                    </p>
+            </div>
+            <div class="col-lg-2 benefit text-center mt-4">
+                    <p class="infographic">
+                        <span class="h-infographic"><span class="important">10 000</span><br>коробок</span><br>
+                        <span class="b-infographic">+ стеллажисамый большой перевозимый нами архив</span>
+                    </p>
+            </div>
+        </div>
+    </div>
+
 
 
 
