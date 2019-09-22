@@ -1083,6 +1083,7 @@
         </div>
         <div class="person-page-call">
             <img class="man mx-auto" src="/images/manager.png" alt="менеджер">
+            <img class="man double-quotes mx-auto" src="/images/double-quotes.png" alt="менеджер">
             <h6 class="_header-6 text-center">
                 Николай Денисов
             </h6>
@@ -1091,6 +1092,62 @@
                 по Санкт-Петербургу "под ключ"<br>
                 +7 (812) 982-88-58
             </div>
+            <div class="col-11 js-long-text container how-much-description">
+                <div class="row">
+                    <p class="col-12 paragraph text-left">
+                        Мне приятно работать в компании «Переезд без хлопот» и помогать людям справляться с житейскими проблемами. Перевозка квартиры дело достаточно хлопотное, особенно для неподготовленного человека. Возникает масса вопросов: где взять машину для грузоперевозки, как правильно разобрать мебель, кто поможет перенести диван или шкаф, особенно если они очень большие, как правильно их перевезти? У тех, кто решает оставить заявку и заказать переезд квартиры у нас, никаких проблем не возникает – ведь здесь работают профессионалы. Мы сами продумываем все решения и нюансы – от подбора транспорта до утилизации использованной упаковки. С нами переезд квартиры в Санкт-Петербурге и по России действительно проходит без хлопот!
+                    </p>
+                    <div class="col d-flex justify-content-center">
+                        <button class="js-podrobno">
+                            <span>Подробно</span>
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                        </button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 d-flex">
+                        <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#questionModal1">Задать вопрос</button>
+                    </div>
+                    <div class="modal fade" id="questionModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="questionModal1-title">Заказать квартирный переезд</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <form action="" class="js-modal" id="questionProfile1__info">
+                                    <div class="modal-body">
+                                        <div class="form-group">
+                                            <label for="question1-name">Ваше имя</label>
+                                            <input type="text" class="form-control" name="name" id="question1-name"
+                                                   placeholder="Ваше имя">
+                                            <small class="text-danger"></small>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="question1-tel">Ваш телефон</label>
+                                            <input type="tel" class="form-control" name="tel" id="question1-tel"
+                                                   placeholder="+79210000000">
+                                            <small class="text-danger"></small>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="question1-question">Ваш вопрос</label>
+                                            <textarea class="form-control" name="question" id="question1-question"
+                                                      placeholder="Ваш вопрос?"></textarea>
+                                            <small class="text-danger"></small>
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="submit" class="send-button">Отправить</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 <!--////VIDEO///////////////////////////////////////////////////////////////////////////////////////////////////-->

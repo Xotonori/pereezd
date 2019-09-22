@@ -257,7 +257,7 @@ body {
       font-weight: 700; }
     body .wrap-benefits .benefit img {
       height: 125px; }
-  body .js-long-text.show-all {
+  body .js-long-text .show-all {
     max-height: none; }
   body .js-long-text .js-podrobno {
     margin-top: 5px;
@@ -597,5 +597,10 @@ body {
       margin-left: -180px; }
   body .kvartirnyy-pereezd-main .person-page .person-page-call .man {
     top: -218px; }
+  body .kvartirnyy-pereezd-main .person-page .person-page-call .double-quotes {
+    top: 30%; }
+  body .kvartirnyy-pereezd-main .person-page .person-page-call .request-call {
+    position: relative;
+    margin: 15px; }
 
 /*# sourceMappingURL=style.css.map */
