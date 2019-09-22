@@ -15,7 +15,9 @@
                     <a class="tyu_0" href="tel:+79618018881">+7 (961) 801-88-81</a>
                 </p>
                 <div class="map">
-                    <img class="wp-image-346 size-full" src="/images/map_piter.png" alt="Схема проезда Санкт-Петербург">
+                    <div class="text-center">
+                        <img class="wp-image-346 size-full" src="/images/map_piter.png" alt="Схема проезда Санкт-Петербург">
+                    </div>
                     <p class="caption-text">Схема проезда<br>
                         <a href="http://maps.yandex.ru/-/CVbxJUpi" target="_blank">Посмотреть на Яндекс.Картах</a>
                     </p>
