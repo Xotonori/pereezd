@@ -517,7 +517,8 @@ body {
   }
 
   .js-long-text {
-      &.show-all {
+
+      .show-all {
         max-height: none;
       }
 
@@ -1036,6 +1037,8 @@ body {
 
 
 
+
+
 //kvartirnyy-pereezd.............................................................................................
 
   .kvartirnyy-pereezd-main {
@@ -1070,6 +1073,15 @@ body {
       .person-page-call {
         .man {
           top: -218px;
+        }
+
+        .double-quotes {
+          top: 30%;
+        }
+
+        .request-call {
+          position: relative;
+          margin: 15px;
         }
       }
 
