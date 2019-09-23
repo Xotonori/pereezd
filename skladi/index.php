@@ -1,4 +1,3 @@
-<?php $city = 'Гатчино'; ?>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
     <meta name="description" itemprop="description" content="Предлагаем услуги складов временного хранения товаров и вещей в Санкт-Петербурге. Выгодные цены. Адреса складов." />
 

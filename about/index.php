@@ -1,4 +1,3 @@
-<?php $city = 'Гатчино'; ?>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
     <meta name="description" itemprop="description" content="Служба «Переезд без Хлопот» оказывает полный комплекс услуг по организации переездов в Санкт-Петербурге и области."/>
     <meta name="keywords" itemprop="keywords" content="служба переезда" />
