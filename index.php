@@ -249,42 +249,11 @@
             <h6 class="_header-6 col-11 text-center"><span class="important">Закажите услугу</span> по переезду магазина и получите скидку!</h6>
             <span class="additional-info2 col-11 text-center mt-2">Скидка на упаковочный материал <br><span class="big-red">40%</span></span>
             <div class="col-12 d-flex">
-                <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#discountModal1">Заказать переезд</button>
+                <!-- Modal -->
+                <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
             </div>
         </div>
-        <!-- Modal -->
-        <div class="modal fade" id="discountModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="discountModal1-title">Заказать квартирный переезд</h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <form action="" class="js-modal" id="discountProfile1__info">
-                        <div class="modal-body">
-                            <div class="form-group">
-                                <label for="discount1-name">Ваше имя</label>
-                                <input type="text" class="form-control" name="name" id="discount1-name"
-                                       placeholder="Ваше имя">
-                                <small class="text-danger"></small>
-                            </div>
-                            <div class="form-group">
-                                <label for="discount1-tel">Ваш телефон</label>
-                                <input type="tel" class="form-control" name="tel" id="discount1-tel"
-                                       placeholder="+79210000000">
-                                <small class="text-danger"></small>
-                            </div>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="submit" class="send-button">Отправить</button>
-                        </div>
-                    </form>
-                </div>
             </div>
-        </div>
-    </div>
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-11 text-center">
@@ -521,7 +490,7 @@
                         <div class="modal-dialog modal-dialog-centered" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="questionModal1-title">Заказать квартирный переезд</h5>
+                                    <h5 class="modal-title" id="questionModal1-title">Отправить свой вопрос</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
@@ -530,19 +499,19 @@
                                     <div class="modal-body">
                                         <div class="form-group">
                                             <label for="question1-name">Ваше имя</label>
-                                            <input type="text" class="form-control" name="name" id="question1-name"
+                                            <input type="text" class="form-control" name="name" data-id="name" id="question1-name"
                                                    placeholder="Ваше имя">
                                             <small class="text-danger"></small>
                                         </div>
                                         <div class="form-group">
                                             <label for="question1-tel">Ваш телефон</label>
-                                            <input type="tel" class="form-control" name="tel" id="question1-tel"
+                                            <input type="tel" class="form-control" name="tel" data-id="tel" id="question1-tel"
                                                    placeholder="+79210000000">
                                             <small class="text-danger"></small>
                                         </div>
                                         <div class="form-group">
                                             <label for="question1-question">Ваш вопрос</label>
-                                            <textarea class="form-control" name="question" id="question1-question"
+                                            <textarea class="form-control" name="question" data-id="question" id="question1-question"
                                                       placeholder="Ваш вопрос?"></textarea>
                                             <small class="text-danger"></small>
                                         </div>

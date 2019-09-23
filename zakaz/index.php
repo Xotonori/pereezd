@@ -82,7 +82,7 @@
                         </div>
                         <div class="form-check">
                             <input type="checkbox" class="form-check-input" data-id="agree" name="p5">
-                            <label class="form-check-label" for="exampleCheck1">Я принимаю <a href="/soglasie_na_sbor_dannih.pdf" target="blank">соглашение на обработку персональных данных</a></label>
+                            <label class="form-check-label" for="exampleCheck1">Я принимаю <a href="/images/soglasie_na_sbor_dannih.pdf" target="blank">соглашение на обработку персональных данных</a></label>
                         </div>
                     </div>
                     <div class="modal-footer">

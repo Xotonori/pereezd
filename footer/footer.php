@@ -3,39 +3,8 @@
             <div class="gradient"></div>
             <h3 class="amount-shipping">Уже сделано уже более <br><span class="blue-text">10 050</span> перевозок</h3>
             <img class="elephant" src="/images/footer/elephant.png" alt="слон">
-            <button type="button" class="request-call" data-toggle="modal" data-target="#footer-modal">Отправить заявку</button>
             <!-- Modal -->
-            <div class="modal fade" id="footer-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                <div class="modal-dialog modal-dialog-centered" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="footer-modal-title">Заказать квартирный переезд</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <form action="" class="js-modal" id="footer-profile__info">
-                            <div class="modal-body">
-                                <div class="form-group">
-                                    <label for="name">Ваше имя</label>
-                                    <input type="text" class="form-control" name="name" data-id="name" id="footer-name"
-                                           placeholder="Ваше имя">
-                                    <small class="text-danger"></small>
-                                </div>
-                                <div class="form-group">
-                                    <label for="phone-number">Ваш телефон</label>
-                                    <input type="tel" class="form-control" name="tel" data-id="tel" id="footer-tel"
-                                           placeholder="+79210000000">
-                                    <small class="text-danger"></small>
-                                </div>
-                            </div>
-                            <div class="modal-footer">
-                                <button type="submit" class="send-button">Отправить</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
+            <button type="button" class="request-call" data-toggle="modal" data-target="#header-modal">Отправить заявку</button>
             <div class="enjoy">Присоединяйтесь:)</div>
             <div class="social container">
                 <div class="row d-flex justify-content-center">

@@ -214,39 +214,8 @@
             <h6 class="_header-6 col-11 text-center"><span class="important">Закажите услугу</span> по переезду магазина и получите скидку!</h6>
             <span class="additional-info2 col-11 text-center mt-2">Скидка на упаковочный материал <br><span class="big-red">40%</span></span>
             <div class="col-12 d-flex">
-                <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#discountModal1">Заказать переезд</button>
-            </div>
-        </div>
-        <!-- Modal -->
-        <div class="modal fade" id="discountModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="discountModal1-title">Заказать квартирный переезд</h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <form action="" class="js-modal" id="discountProfile1__info">
-                        <div class="modal-body">
-                            <div class="form-group">
-                                <label for="discount1-name">Ваше имя</label>
-                                <input type="text" class="form-control" name="name" id="discount1-name"
-                                       placeholder="Ваше имя">
-                                <small class="text-danger"></small>
-                            </div>
-                            <div class="form-group">
-                                <label for="discount1-tel">Ваш телефон</label>
-                                <input type="tel" class="form-control" name="tel" id="discount1-tel"
-                                       placeholder="+79210000000">
-                                <small class="text-danger"></small>
-                            </div>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="submit" class="send-button">Отправить</button>
-                        </div>
-                    </form>
-                </div>
+                <!-- Modal -->
+                <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
             </div>
         </div>
     </div>
@@ -315,38 +284,7 @@
                                     </span>
                                 </div>
                                 <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#oneRoomModal1">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="oneRoomModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="oneRoomModal1-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="oneRoomProfile1__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="oneRoom1-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="oneRoom1-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="oneRoom1-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="oneRoom1-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
                                 </div>
                             </div>
                             <div class="carousel-item">
@@ -390,38 +328,7 @@
                                     </span>
                                 </div>
                                 <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#oneRoomModal2">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="oneRoomModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="oneRoomModal3-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="oneRoomProfile2__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="oneRoom2-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="oneRoom2-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="oneRoom2-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="oneRoom2-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
                                 </div>
                             </div>
                             <div class="carousel-item">
@@ -469,38 +376,7 @@
                                     </span>
                                 </div>
                                 <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#oneRoomModal13">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="oneRoomModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="oneRoomModal3-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="oneRoomProfile3__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="oneRoom3-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="oneRoom3-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="oneRoom3-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="oneRoom3-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
                                 </div>
                             </div>
                         </div>
@@ -549,38 +425,7 @@
                                     </span>
                                 </div>
                                 <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#twoRoomModal1">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="twoRoomModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="twoRoomModal1-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="twoRoomProfile1__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="twoRoom1-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="twoRoom1-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="twoRoom1-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="twoRoom1-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
                                 </div>
                             </div>
                             <div class="carousel-item">
@@ -624,38 +469,7 @@
                                     </span>
                                 </div>
                                 <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#twoRoomModal2">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="twoRoomModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="twoRoomModal2-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="twoRoomProfile2__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="twoRoom2-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="twoRoom2-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="twoRoom2-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="twoRoom2-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
                                 </div>
                             </div>
                             <div class="carousel-item">
@@ -703,38 +517,7 @@
                                     </span>
                                 </div>
                                 <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#twoRoomModal3">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="twoRoomModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="twoRoomModal3-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="twoRoomProfile3__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="twoRoom3-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="twoRoom3-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="twoRoom3-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="twoRoom3-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
                                 </div>
                             </div>
                         </div>
@@ -783,38 +566,7 @@
                                     </span>
                                 </div>
                                 <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#threeRoomModal1">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="threeRoomModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="threeRoomModal1-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="threeRoomProfile1__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="threeRoom1-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="threeRoom1-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="threeRoom1-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="threeRoom1-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
                                 </div>
                             </div>
                             <div class="carousel-item">
@@ -858,38 +610,7 @@
                                     </span>
                                 </div>
                                 <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#threeRoomModal2">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="threeRoomModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="threeRoomModal2-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="threeRoomProfile2__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="threeRoom2-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="threeRoom2-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="threeRoom2-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="threeRoom2-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
                                 </div>
                             </div>
                             <div class="carousel-item">
@@ -937,38 +658,7 @@
                                     </span>
                                 </div>
                                 <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#threeRoomModal3">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="threeRoomModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="threeRoomModal3-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="threeRoomProfile3__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="threeRoom3-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="threeRoom3-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="threeRoom3-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="threeRoom3-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
                                 </div>
                             </div>
                         </div>
@@ -1084,7 +774,7 @@
                         <div class="modal-dialog modal-dialog-centered" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="questionModal1-title">Заказать квартирный переезд</h5>
+                                    <h5 class="modal-title" id="questionModal1-title">Отправить свой вопрос</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
