@@ -1,4 +1,3 @@
-<?php $city = 'Гатчино'; ?>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
     <meta name="description" itemprop="description" content="Контакты компании Переезд Без Хлопот: г. Санкт-Петербург, Левашовский пр-кт, д. 12. Телефон: +7 (812) 982-88-58 +7 (961) 801-88-81"/>
     <meta name="keywords" itemprop="keywords" content="" />

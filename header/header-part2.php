@@ -12,7 +12,7 @@
         <a class="col-10 logo" href="/">
             <img src="/images/header/logo.png" alt="логотип">
         </a>
-        <div class="col-2 d-flex justify-content-end align-items-center">
+        <div class="col-2 d-flex justify-content-end align-items-center __nav">
             <img class="_24-hours" src="/images/header/time-work.png" alt="24 часа">
 
             <!-- Collapse button -->

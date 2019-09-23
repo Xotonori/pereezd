@@ -41,7 +41,7 @@
     <div class="container wrap-benefits">
         <div class="row">
             <div class="col-12 text-center">
-                <h3 class="_header-3">Почему <span class="important">клиенты</span> обращаются к нам</h3>
+                <h2 class="_header-3">Почему <span class="important">клиенты</span> обращаются к нам</h2>
             </div>
         </div>
         <div class="row">
@@ -1466,6 +1466,7 @@
         </div>
     </div>
 <!--////photos////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <h2 class="_header-3 text-center">Фото</h2>
     <div class="container client-reviews">
         <div class="row">
             <div class="carousel-container mx-auto">

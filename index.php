@@ -30,7 +30,7 @@
     <div class="container wrap-benefits">
         <div class="row">
             <div class="col-12 text-center">
-                <h3 class="_header-3">Почему <span class="important">клиенты</span> обращаются к нам</h3>
+                <h2 class="_header-3">Почему <span class="important">клиенты</span> обращаются к нам</h2>
             </div>
         </div>
         <div class="row">
@@ -78,40 +78,80 @@
         </div>
     </div>
     <!--////PROF-RELOCATION/////////////////////////////////////////////////////////////////////////////////////////////-->
-    <h3 class="_header-3"><span class="important">Профессиональные</span> услуги по переезду</h3>
+    <h2 class="_header-3 text-center"><span class="important">Профессиональные</span> услуги по переезду</h2>
     <div class="professional-relocation container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 text-center">
-                <h6 class="_header-6 col-11 text-center"><span class="important">Закажите услугу</span> по переезду магазина и получите скидку!</h6>
-            </div>
-            <div class="col-11">
-                <p class="paragraph mt-3">У нас Вы сможете заказать организацию переезда под ключ или выбрать отдельные услуги на свое усмотрение.</p>
+                <h6 class="_header-6 text-center">Физическим лицам</h6>
             </div>
         </div>
     </div>
     <div class="bd-example">
         <div id="profRelocationCaption1" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
-
                 <div class="carousel-item active">
-                    <img src="/images/slider1-t2.jpg" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/main/1pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-mebeli">Перевозка мебели</a></h5>
+                        <h5><a href="/kvartirnyy-pereezd">Переезд квартиры под ключ</a></h5>
                         <p>
-                            Переезд квартир осуществляется с использованием специализированных мебельных фургонов, оборудованных креплениями, предотвращающими падение и самовольное перемещение мебели даже при передвижении по неровной дороге.
+                            Предлагаем все услуги переезда, которые могут Вам понадобиться: аккуратно разберем мебель, упакуем, погрузим и перевезем вещи, соберем и расставим предметы в новой квартире, вывезем использованную упаковку.
                         </p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/slider1-t3.jpg" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/main/2pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-bytovoy-tekhniki">Перевозка бытовой техники</a></h5>
+                        <h5><a href="/dachnyy-pereezd">Переезд на дачу</a></h5>
                         <p>
-                            Заказывая у нас дешевый квартирный переезд, Вы можете не переживать за сохранность бытовой техники. Мы надлежащим образом упакуем ее в мягкий пупырчатый полиэтилен, разместим в кузове и надежно зафиксируем во избежание повреждения при транспортировке.
+                            Организуем быстрый и бережный переезд из Санкт-Петербурга на дачу в любую точку области. Предоставим подходящий транспорт и упаковочные материалы, перевезем мебель, саженцы, личные вещи, технику.
                         </p>
                     </div>
                 </div>
-
+                <div class="carousel-item">
+                    <img src="/images/main/3pr.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5><a href="/perestanovka-mebeli">Перевозка мебели с грузчиками</a></h5>
+                        <p>
+                            Наши грузчики – специалисты широкого профиля. Они не только перенесут мебель в кузов автомобиля или выгрузят ее после перевозки, но также аккуратно разберут, соберут, упакуют, промаркируют каждую деталь.
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/main/4pr.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5><a href="/perevozka-bytovoy-tekhniki">Перевозка бытовой техники</a></h5>
+                        <p>
+                            Перевозим любую технику, включая холодильники любой высоты, морозильные камеры, газовые плиты, духовые шкафы. По Вашему заказу не только перевезем технику, но и подготовим ее к транспортировке: закрепим детали, упакуем и пр.
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/main/5pr.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5><a href="/perevozka-veshej">Перевозка личных вещей</a></h5>
+                        <p>
+                            Вы можете упаковать личные вещи для перевозки самостоятельно или же доверить это нашим специалистам. Они тщательно упакуют все необходимое в коробки и промаркируют их, чтобы Вы смогли без труда найти всё после окончания переезда.
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/main/5pr.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5><a href="/perevozka-divana">Перевозка дивана</a></h5>
+                        <p>
+                            Перевозим диваны с любым механизмом трансформации, включая крупные угловые модели. В комплекс услуг уходит подбор и использование упаковочных материалов: с их помощью мы защитим обивку от грязи и повреждений.
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/main/7pr.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5><a href="/perevozka-antikvar">Перевозка антиквариата</a></h5>
+                        <p>
+                            Организуем бережную упаковку и транспортировку любых предметов антиквариата, включая мебель, декоративные элементы, посуду. Несем материальную ответственность за все перевозимые вещи и гарантируем их сохранность.
+                        </p>
+                    </div>
+                </div>
             </div>
             <a class="_carousel-control carousel-control-prev" href="#profRelocationCaption1" role="button" data-slide="prev">
                 <img src="/images/left-arrow-type1.png" alt="стрелка влево">
@@ -127,42 +167,74 @@
     <div class="professional-relocation container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 text-center">
-                <h3 class="_header-3"><span class="important">Профессиональные</span> услуги по переезду</h3>
-            </div>
-            <div class="col-11">
-                <p class="paragraph mt-3">У нас Вы сможете заказать организацию переезда под ключ или выбрать отдельные услуги на свое усмотрение.</p>
+                <h6 class="_header-6 text-center">Организациям</h6>
             </div>
         </div>
     </div>
     <div class="bd-example">
-        <div id="profRelocationCaption1" class="carousel slide" data-ride="carousel">
+        <div id="profRelocationCaption2" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <img src="/images/slider1-t2.jpg" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/main/8pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-mebeli">Перевозка мебели</a></h5>
+                        <h5><a href="/ofisnyy-pereezd">Переезд офиса под ключ</a></h5>
                         <p>
-                            Переезд квартир осуществляется с использованием специализированных мебельных фургонов, оборудованных креплениями, предотвращающими падение и самовольное перемещение мебели даже при передвижении по неровной дороге.
+                            Организация переезда полностью ложится на нас. Разберем мебель, упакуем офисную технику, документы, оборудование. После перевозки расставим предметы так, как Вы укажете, вывезем использованные упаковочные материалы.
                         </p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/slider1-t3.jpg" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/main/9pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-bytovoy-tekhniki">Перевозка бытовой техники</a></h5>
+                        <h5><a href="/pereezd-sklada">Переезд склада</a></h5>
                         <p>
-                            Заказывая у нас дешевый квартирный переезд, Вы можете не переживать за сохранность бытовой техники. Мы надлежащим образом упакуем ее в мягкий пупырчатый полиэтилен, разместим в кузове и надежно зафиксируем во избежание повреждения при транспортировке.
+                            Поможем организовать переезд от начала до конца: не только подберем транспорт и упаковку, но также составим подробный график работ. В список услуг входит демонтаж и установка складских стеллажей, оборудования.
                         </p>
                     </div>
                 </div>
-
+                <div class="carousel-item">
+                    <img src="/images/main/10pr.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5><a href="/pereezd_magazina">Переезд магазина</a></h5>
+                        <p>
+                            Проведем переезд качественно: гарантируем сохранность торгового оборудования, кассовых аппаратов, техники, мебели и товаров. Срок окончания работ рассчитывается точно: Вы сможете заранее спланировать открытие магазина.
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/main/11pr.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5><a href="/pereezd-predpriyatiya">Переезд предприятия</a></h5>
+                        <p>
+                            Предлагаем заказать переезд под ключ. В список услуг входят такелажные работы, демонтаж и установка оборудования, упаковка, предоставление транспорта. При необходимости поучаствуем в проведении пусконаладочных работ.
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/main/12pr.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5><a href="/perevozka_seyfov">Перевозка сейфов</a></h5>
+                        <p>
+                            Для бережной погрузки и выгрузки сейфов мы используем надежное оборудование. Такелажными работами занимаются опытные сотрудники – им под силу демонтировать и вынести сейф даже при отсутствии грузового лифта.
+                        </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/main/13pr.png" class="d-block mx-auto" alt="слайд">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5><a href="/perestanovka-mebeli">Перестановка мебели</a></h5>
+                        <p>
+                            Вы можете заказать у нас перестановку мебели в пределах одного кабинета, этажа или здания. В случае необходимости организуем разборку и сборку. Работаем с любой мебелью, включая архивные стеллажи и крупногабаритные шкафы.
+                        </p>
+                    </div>
+                </div>
             </div>
-            <a class="_carousel-control carousel-control-prev" href="#profRelocationCaption1" role="button" data-slide="prev">
+            <a class="_carousel-control carousel-control-prev" href="#profRelocationCaption2" role="button" data-slide="prev">
                 <img src="/images/left-arrow-type1.png" alt="стрелка влево">
                 <span class="sr-only">Previous</span>
             </a>
-            <a class="_carousel-control carousel-control-next" href="#profRelocationCaption1" role="button" data-slide="next">
+            <a class="_carousel-control carousel-control-next" href="#profRelocationCaption2" role="button" data-slide="next">
                 <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
                 <span class="sr-only">Next</span>
             </a>
@@ -216,12 +288,12 @@
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-11 text-center">
-                <h2 class="_header-3 mt-3"><span class="important">Сколько стоит</span> переезд квартиры</h2>
+                <h2 class="_header-3 mt-3"><span class="important">Сколько стоит</span> переезд по Санкт-Петербургу</h2>
             </div>
             <div class="col-11 js-long-text container how-much-description">
                 <div class="row">
                     <p class="col-12 paragraph">
-                        Цены на квартирный переезд в Санкт-Петербурге рассчитываются исходя из количества грузчиков, стоимости упаковочных материалов, вместимости и грузоподъемности автомобиля, состава заказанных услуг. Дороже всего обойдется быстрый переезд «под ключ», предусматривающий выполнение всего комплекса работ с использованием необходимых материалов, предоставляемых компанией. Самый дешевый квартирный переезд подразумевает только аренду транспорта – остальные работы, например, вынос вещей из квартиры или их занос в комнату, заказчик выполняет своими силами. В какую сумму обойдется недорогой квартирный переезд в СПб, можно рассчитать с помощью онлайн калькулятора или узнать по телефону +7 (812) 982-88-58. Убедитесь, что наши услуги стоят не так дорого, как вы могли бы подумать.
+                        Итоговая стоимость переезда зависит от объема и количества вещей, затрат на упаковочные материалы, от выбранного транспорта, количества грузчиков, расстояния, на которое нужно перевезти предметы, и длительности работ. Кроме того, учитывается набор услуг. Например, если нужно перевезти сейф или рояль, мы проведем такелажные работы и включим их в стоимость переезда. Чтобы определить примерную цену услуг, воспользуйтесь нашим онлайн-калькулятором. Менеджер рассчитает сумму точнее – обратитесь к специалисту, и он сообщит стоимость с учетом всех нюансов. Если вещей очень много, и определить их объем трудно, мы сможем сообщить окончательную стоимость после вызова оценщика.
                     </p>
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
@@ -233,718 +305,75 @@
             </div>
         </div>
     </div>
-    <!--////APARTAMENT/////////////////////////////////////////////////////////////////////////////////////////////////-->
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-4">
-                <!--////one-room///////////////////////////////////////////////////////////////////////////////////-->
-                <div class="bd-example one-room-apartment apartment">
-                    <div id="oneRoomCaption1" class="carousel slide" data-ride="carousel">
-                        <ol class="carousel-indicators">
-                            <li data-target="#oneRoomCaption1" data-slide-to="0" class="active"></li>
-                            <li data-target="#oneRoomCaption1" data-slide-to="1"></li>
-                            <li data-target="#oneRoomCaption1" data-slide-to="2"></li>
-                        </ol>
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img src="/images/room1.png" class="d-block mx-auto" alt="слайд">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Однокомнатная квартира</h5>
-                                    <span class="important-text-blue1 d-block">Эконом</span>
-                                    <div class="col-11 js-long-text container how-much-description">
-                                        <div class="row">
-                                            <p class="col-12 paragraph text-left">
-                                                Газель 3м, 10м³ + 2 грузчика<br><br>
-                                                На все время переезда 3 часа работы<br><br>
-                                                Грузчики 2 человека по 400р/ч*3часа = 2400 рублей<br><br>
-                                                Газель 3м 400 р/ч = 4 часа * 3 часа работы + 1 час подачи = 1600 рублей<br><br>
-                                                погрузка;<br>
-                                                транспортировка;<br>
-                                                разгрузка.
-                                            </p>
-                                            <div class="col d-flex justify-content-end">
-                                                <button class="js-podrobno">
-                                                    <span>Подробно</span>
-                                                    <img src="/images/header/city-triangle.png" alt="треугольник">
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <span class="gray-price d-block text-center">
-                                        Цена<br>
-                                        <span class="red-bold">
-                                            <span class="big-red">4000</span> руб
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#oneRoomModal1">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="oneRoomModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="oneRoomModal1-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="oneRoomProfile1__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="oneRoom1-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="oneRoom1-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="oneRoom1-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="oneRoom1-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img src="/images/room1.png" class="d-block mx-auto" alt="слайд">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Однокомнатная квартира</h5>
-                                    <span class="important-text-blue1 d-block">Премиум</span>
-                                    <div class="col-11 js-long-text container how-much-description">
-                                        <div class="row">
-                                            <p class="col-12 paragraph text-left">
-                                                Газель 3м, 10м³ + 3 грузчика<br><br>
-                                                На все время переезда 4 часа работы<br><br>
-                                                Грузчики 3 человека по 300р/ч*4часа = 3600 рублей<br><br>
-                                                Газель 3м 400 р/ч = 5 часов * 4 часа работы + 1 час подачи = 2000 рублей<br><br>
-                                                пузырчатая пленка - 20 м*1,5 м (для корпусной мебели)<br>
-                                                картонные коробки - 10 шт. (для личных вещей)<br>
-                                                стрейч-пленка - 2 рулона (для мягкой мебели и т.п.)<br>
-                                                скотч упаковочный - 4 шт.<br>
-                                                = 2350 рублей.<br><br>
-                                                <strong>Бесплатно:</strong><br>
-                                                разборка мебели;<br>
-                                                работы по упаковке мебели;<br>
-                                                погрузка;<br>
-                                                транспортировка;<br>
-                                                разгрузка;<br>
-                                                сборка мебели
-                                            </p>
-                                            <div class="col d-flex justify-content-end">
-                                                <button class="js-podrobno">
-                                                    <span>Подробно</span>
-                                                    <img src="/images/header/city-triangle.png" alt="треугольник">
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <span class="gray-price d-block text-center">
-                                        Цена<br>
-                                        <span class="red-bold">
-                                            <span class="big-red">7950</span> руб
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#oneRoomModal2">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="oneRoomModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="oneRoomModal3-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="oneRoomProfile2__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="oneRoom2-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="oneRoom2-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="oneRoom2-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="oneRoom2-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img src="/images/room1.png" class="d-block mx-auto" alt="слайд">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Однокомнатная квартира</h5>
-                                    <span class="important-text-blue1 d-block">ЛЮКС (Под ключ)</span>
-                                    <div class="col-11 js-long-text container how-much-description">
-                                        <div class="row">
-                                            <p class="col-12 paragraph text-left">
-                                                Газель 4м, 18м³ + 4 грузчика<br><br>
-                                                На все время переезда 5 часов работы<br><br>
-                                                Грузчики 4 человека по 300р/ч*5часов = 6000 рублей<br><br>
-                                                Газель 4м 500 р/ч = 6 часов * 5 часов работы + 1 час подачи = 3000 рублей<br><br>
-                                                пузырчатая пленка - 50 м*1,5 м (для корпусной мебели)<br>
-                                                картонные коробки - 10 шт. (для личных вещей)<br>
-                                                стрейч-пленка - 2 рулона (для мягкой мебели и т.п.)<br>
-                                                скотч упаковочный - 5 шт.<br>
-                                                = 3525 рублей.<br><br>
-                                                <strong>Бесплатно:</strong><br>
-                                                разборка мебели;<br>
-                                                работы по упаковке мебели;<br>
-                                                погрузка;<br>
-                                                транспортировка;<br>
-                                                разгрузка;<br>
-                                                сборка мебели;<br>
-                                                расстановка мебели;<br>
-                                                дополнительные работы;<br>
-                                                индивидуальная оценка стоимости переезда;<br>
-                                                выезд оценщика (бесплатно!).
-                                            </p>
-                                            <div class="col d-flex justify-content-end">
-                                                <button class="js-podrobno">
-                                                    <span>Подробно</span>
-                                                    <img src="/images/header/city-triangle.png" alt="треугольник">
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <span class="gray-price d-block text-center">
-                                        Цена<br>
-                                        <span class="red-bold">
-                                            <span class="big-red">12525</span> руб
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#oneRoomModal13">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="oneRoomModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="oneRoomModal3-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="oneRoomProfile3__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="oneRoom3-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="oneRoom3-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="oneRoom3-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="oneRoom3-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <!--////two-room///////////////////////////////////////////////////////////////////////////////////-->
-                <div class="bd-example two-room-apartment apartment">
-                    <div id="twoRoomCaption1" class="carousel slide" data-ride="carousel">
-                        <ol class="carousel-indicators">
-                            <li data-target="#twoRoomCaption1" data-slide-to="0" class="active"></li>
-                            <li data-target="#twoRoomCaption1" data-slide-to="1"></li>
-                            <li data-target="#twoRoomCaption1" data-slide-to="2"></li>
-                        </ol>
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img src="/images/room2.png" class="d-block mx-auto" alt="слайд">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Двухкомнатная квартира</h5>
-                                    <span class="important-text-blue1 d-block">Эконом</span>
-                                    <div class="col-11 js-long-text container how-much-description">
-                                        <div class="row">
-                                            <p class="col-12 paragraph text-left">
-                                                Газель 4м, 18м³ + 3 грузчика<br><br>
-                                                На все время переезда 4 часа работы<br><br>
-                                                Грузчики 3 человека по 300р/ч*4часа = 3600 рублей<br><br>
-                                                Газель 4м 500 р/ч = 5 часов * 4 часа работы + 1 час подачи = 2500 рублей<br><br>
-                                                погрузка;<br>
-                                                транспортировка;<br>
-                                                разгрузка.
-                                            </p>
-                                            <div class="col d-flex justify-content-end">
-                                                <button class="js-podrobno">
-                                                    <span>Подробно</span>
-                                                    <img src="/images/header/city-triangle.png" alt="треугольник">
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <span class="gray-price d-block text-center">
-                                        Цена<br>
-                                        <span class="red-bold">
-                                            <span class="big-red">6100</span> руб
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#twoRoomModal1">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="twoRoomModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="twoRoomModal1-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="twoRoomProfile1__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="twoRoom1-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="twoRoom1-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="twoRoom1-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="twoRoom1-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img src="/images/room2.png" class="d-block mx-auto" alt="слайд">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Двухкомнатная квартира</h5>
-                                    <span class="important-text-blue1 d-block">Премиум</span>
-                                    <div class="col-11 js-long-text container how-much-description">
-                                        <div class="row">
-                                            <p class="col-12 paragraph text-left">
-                                                Газель 5м, 23м³ + 4 грузчика<br><br>
-                                                На все время переезда 5 часа работы<br><br>
-                                                Грузчики 4 человека по 300р/ч*5часов = 6000 рублей<br><br>
-                                                Газель 5м 550 р/ч = 6 часов * 5 часов работы + 1 час подачи = 3300 рублей<br><br>
-                                                пузырчатая пленка - 60 м*1,5 м (для корпусной мебели)<br>
-                                                картонные коробки - 10 шт. (для личных вещей)<br>
-                                                стрейч-пленка - 2 рулона (для мягкой мебели и т.п.)<br>
-                                                скотч упаковочный - 5 шт.<br>
-                                                = 3900 рублей.<br><br>
-                                                <strong>Бесплатно:</strong><br>
-                                                разборка мебели;<br>
-                                                работы по упаковке мебели;<br>
-                                                погрузка;<br>
-                                                транспортировка;<br>
-                                                разгрузка;<br>
-                                                сборка мебели
-                                            </p>
-                                            <div class="col d-flex justify-content-end">
-                                                <button class="js-podrobno">
-                                                    <span>Подробно</span>
-                                                    <img src="/images/header/city-triangle.png" alt="треугольник">
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <span class="gray-price d-block text-center">
-                                        Цена<br>
-                                        <span class="red-bold">
-                                            <span class="big-red">13200</span> руб
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#twoRoomModal2">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="twoRoomModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="twoRoomModal2-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="twoRoomProfile2__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="twoRoom2-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="twoRoom2-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="twoRoom2-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="twoRoom2-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img src="/images/room2.png" class="d-block mx-auto" alt="слайд">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Двухкомнатная квартира</h5>
-                                    <span class="important-text-blue1 d-block">ЛЮКС (Под ключ)</span>
-                                    <div class="col-11 js-long-text container how-much-description">
-                                        <div class="row">
-                                            <p class="col-12 paragraph text-left">
-                                                Мерседес 6,2м, 30м³ + 5 грузчиков<br><br>
-                                                На все время переезда 6 часов работы<br><br>
-                                                Грузчики 5 человек по 300р/ч*6часов = 9000 рублей<br><br>
-                                                Мерседес 6,2м 650 р/ч = 6 часов * 5 часов работы + 1 час подачи (подача машины на 2 часа позже) = 3900 рублей<br><br>
-                                                пузырчатая пленка - 80 м*1,5 м (для корпусной мебели)<br>
-                                                картонные коробки - 15 шт. (для личных вещей)<br>
-                                                стрейч-пленка - 2 рулона (для мягкой мебели и т.п.)<br>
-                                                скотч упаковочный - 7 шт.<br>
-                                                = 5100 рублей.<br><br>
-                                                <strong>Бесплатно:</strong><br>
-                                                разборка мебели;<br>
-                                                работы по упаковке мебели;<br>
-                                                погрузка;<br>
-                                                транспортировка;<br>
-                                                разгрузка;<br>
-                                                сборка мебели;<br>
-                                                расстановка мебели;<br>
-                                                дополнительные работы;<br>
-                                                индивидуальная оценка стоимости переезда;<br>
-                                                выезд оценщика (бесплатно!).
-                                            </p>
-                                            <div class="col d-flex justify-content-end">
-                                                <button class="js-podrobno">
-                                                    <span>Подробно</span>
-                                                    <img src="/images/header/city-triangle.png" alt="треугольник">
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <span class="gray-price d-block text-center">
-                                        Цена<br>
-                                        <span class="red-bold">
-                                            <span class="big-red">19000</span> руб
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#twoRoomModal3">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="twoRoomModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="twoRoomModal3-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="twoRoomProfile3__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="twoRoom3-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="twoRoom3-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="twoRoom3-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="twoRoom3-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <!--////three-room///////////////////////////////////////////////////////////////////////////////////-->
-                <div class="bd-example three-room-apartment apartment">
-                    <div id="threeRoomCaption1" class="carousel slide" data-ride="carousel">
-                        <ol class="carousel-indicators">
-                            <li data-target="#threeRoomCaption1" data-slide-to="0" class="active"></li>
-                            <li data-target="#threeRoomCaption1" data-slide-to="1"></li>
-                            <li data-target="#threeRoomCaption1" data-slide-to="2"></li>
-                        </ol>
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img src="/images/room3.png" class="d-block mx-auto" alt="слайд">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Трехкомнатная квартира</h5>
-                                    <span class="important-text-blue1 d-block">Эконом</span>
-                                    <div class="col-11 js-long-text container how-much-description">
-                                        <div class="row">
-                                            <p class="col-12 paragraph text-left">
-                                                Мерседес 6,2м, 30м³ + 4 грузчика<br><br>
-                                                На все время переезда 5 часа работы<br><br>
-                                                Грузчики 4 человека по 300р/ч*5часов = 6000 рублей<br><br>
-                                                Газель 3м 400 р/ч = 4 часа * 3 часа работы + 1 час подачи = 1600 рублей<br><br>
-                                                погрузка;<br>
-                                                транспортировка;<br>
-                                                разгрузка.
-                                            </p>
-                                            <div class="col d-flex justify-content-end">
-                                                <button class="js-podrobno">
-                                                    <span>Подробно</span>
-                                                    <img src="/images/header/city-triangle.png" alt="треугольник">
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <span class="gray-price d-block text-center">
-                                        Цена<br>
-                                        <span class="red-bold">
-                                            <span class="big-red">9900</span> руб
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#threeRoomModal1">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="threeRoomModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="threeRoomModal1-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="threeRoomProfile1__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="threeRoom1-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="threeRoom1-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="threeRoom1-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="threeRoom1-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img src="/images/room3.png" class="d-block mx-auto" alt="слайд">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Трехкомнатная квартира</h5>
-                                    <span class="important-text-blue1 d-block">Премиум</span>
-                                    <div class="col-11 js-long-text container how-much-description">
-                                        <div class="row">
-                                            <p class="col-12 paragraph text-left">
-                                                Ман 6,2м, 35м³ + 5 грузчиков<br><br>
-                                                На все время переезда 6 часа работы<br><br>
-                                                Грузчики 5 человек по 300р/ч*6часов = 9000 рублей<br><br>
-                                                Ман 6,2м³ 800 р/ч = 7 часов * 6 часов работы + 1 час подачи = 5600 рублей<br><br>
-                                                пузырчатая пленка - 80 м*1,5 м (для корпусной мебели)<br>
-                                                картонные коробки - 15 шт. (для личных вещей)<br>
-                                                стрейч-пленка - 3 рулона (для мягкой мебели и т.п.)<br>
-                                                скотч упаковочный - 7 шт.<br>
-                                                = 5450 рублей.<br><br>
-                                                <strong>1000руб.:</strong><br>
-                                                разборка мебели;<br>
-                                                работы по упаковке мебели;<br>
-                                                погрузка;<br>
-                                                транспортировка;<br>
-                                                разгрузка;<br>
-                                                сборка мебели
-                                            </p>
-                                            <div class="col d-flex justify-content-end">
-                                                <button class="js-podrobno">
-                                                    <span>Подробно</span>
-                                                    <img src="/images/header/city-triangle.png" alt="треугольник">
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <span class="gray-price d-block text-center">
-                                        Цена<br>
-                                        <span class="red-bold">
-                                            <span class="big-red">21050</span> руб
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#threeRoomModal2">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="threeRoomModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="threeRoomModal2-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="threeRoomProfile2__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="threeRoom2-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="threeRoom2-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="threeRoom2-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="threeRoom2-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img src="/images/room3.png" class="d-block mx-auto" alt="слайд">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Трехкомнатная квартира</h5>
-                                    <span class="important-text-blue1 d-block">ЛЮКС (Под ключ)</span>
-                                    <div class="col-11 js-long-text container how-much-description">
-                                        <div class="row">
-                                            <p class="col-12 paragraph text-left">
-                                                Ман 7,2м, 45м³ + 6 грузчиков<br><br>
-                                                На все время переезд 7 часов работы<br><br>
-                                                Грузчики 6 человек по 300р/ч*7часов = 12600 рублей<br><br>
-                                                Ман 7,2м³ 850 р/ч = 8 часов * 7 часов работы + 1 час подачи = 6800 рублей<br><br>
-                                                пузырчатая пленка - 100 м*1,5 м (для корпусной мебели)<br>
-                                                картонные коробки - 20 шт. (для личных вещей)<br>
-                                                стрейч-пленка - 3 рулона (для мягкой мебели и т.п.)<br>
-                                                скотч упаковочный - 10 шт.<br>
-                                                = 6700 рублей.<br><br>
-                                                <strong>1000руб.:</strong><br>
-                                                разборка мебели;<br>
-                                                работы по упаковке мебели;<br>
-                                                погрузка;<br>
-                                                транспортировка;<br>
-                                                разгрузка;<br>
-                                                сборка мебели;<br>
-                                                расстановка мебели;<br>
-                                                дополнительные работы;<br>
-                                                индивидуальная оценка стоимости переезда;<br>
-                                                выезд оценщика (бесплатно!).
-                                            </p>
-                                            <div class="col d-flex justify-content-end">
-                                                <button class="js-podrobno">
-                                                    <span>Подробно</span>
-                                                    <img src="/images/header/city-triangle.png" alt="треугольник">
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <span class="gray-price d-block text-center">
-                                        Цена<br>
-                                        <span class="red-bold">
-                                            <span class="big-red">27100</span> руб
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-12 d-flex">
-                                    <button type="button" class="request-call mx-auto" data-toggle="modal" data-target="#threeRoomModal3">Заказать переезд</button>
-                                </div>
-                                <div class="modal fade" id="threeRoomModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="threeRoomModal3-title">Заказать квартирный переезд</h5>
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <form action="" class="js-modal" id="threeRoomProfile3__info">
-                                                <div class="modal-body">
-                                                    <div class="form-group">
-                                                        <label for="threeRoom3-name">Ваше имя</label>
-                                                        <input type="text" class="form-control" name="name" id="threeRoom3-name"
-                                                               placeholder="Ваше имя">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                    <div class="form-group">
-                                                        <label for="threeRoom3-tel">Ваш телефон</label>
-                                                        <input type="tel" class="form-control" name="tel" id="threeRoom3-tel"
-                                                               placeholder="+79210000000">
-                                                        <small class="text-danger"></small>
-                                                    </div>
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="submit" class="send-button">Отправить</button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+    <!--////TABLE/////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <div class="container mt-5">
+        <h3 class="text-center">Цены на квартирный переезд под ключ</h3>
+        <div class="prices">
+            <table class="tariff">
+                <tbody>
+                <tr class="tariff-title">
+                    <td valign="top"><b>Квартира</b></td>
+                    <td valign="top"><b>Грузчики</b></td>
+                    <td valign="top"><b>Автотранспорт</b></td>
+                    <td valign="top"><b>Перечень работ</b></td>
+                    <td valign="top"><b>Цена, руб</b></td>
+                </tr>
+                <tr>
+                    <td>1- комнатная</td>
+                    <td>3-4 чел.</td>
+                    <td>18-25 м3</td>
+                    <td rowspan="3">Разборка мебели, работа по упаковке
+                        мебели, погрузка и перевозка мебели,
+                        разгрузка, сборка мебели</td>
+                    <td>от 14400</td>
+                </tr>
+                <tr>
+                    <td>2- комнатная</td>
+                    <td>4-6 чел.</td>
+                    <td>30-36 м3</td>
+                    <td valign="top">от 19650</td>
+                </tr>
+                <tr>
+                    <td>3- комнатная</td>
+                    <td>6-8 чел.</td>
+                    <td>36-48 м3</td>
+                    <td>от 26250</td>
+                </tr>
+                </tbody>
+            </table>
         </div>
-        <div class="row additional-info1 d-flex justify-content-center">
-            <div class="col-11">• В таблице приведена стоимость по квартирному переезду из расчета среднего объёма перевозимых вещей,
-                количества грузчиков, автотранспорта, а также времени и предлагаемого количества видов работ.
-                Набор пакетного инструмента предоставляется бесплатно.
-            </div>
-            <div class="col-11">• Средня сумма оплаты за грузчиков, указана при условии спуска и подъема на лифте, или не выше 3-го этажа.</div>
+        <h3 class="text-center">Цены на офисный переезд под ключ</h3>
+        <div class="prices">
+            <table class="tariff">
+                <tbody>
+                <tr class="tariff-title">
+                    <td valign="top" width="100"><b>Переезд офиса</b></td>
+                    <td valign="top" width="72"><b>Грузчики</b></td>
+                    <td valign="top" width="80"><b>Транспорт</b></td>
+                    <td valign="top"><b>Перечень работ</b></td>
+                    <td valign="top" width="120"><b>Цена, руб</b></td>
+                </tr>
+                <tr>
+                    <td width="114">5 рабочих мест</td>
+                    <td width="72">2-4 чел.</td>
+                    <td width="80">12-17м3</td>
+                    <td rowspan="3" width="309">Разборка, работа по упаковке мебели и оргтехники, погрузка вещей в транспорт, перевозка в новый офис, разгрузка и сборка мебели</td>
+                    <td width="73">от 9500</td>
+                </tr>
+                <tr>
+                    <td width="114">12 рабочих мест</td>
+                    <td valign="top" width="72">6-8 чел.</td>
+                    <td width="80">25-30 м3</td>
+                    <td width="73">от 21660</td>
+                </tr>
+                <tr>
+                    <td width="114">20 рабочих мест</td>
+                    <td width="72">8-10 чел.</td>
+                    <td width="80">36-42 м3</td>
+                    <td width="73">от 34200</td>
+                </tr>
+                </tbody>
+            </table>
         </div>
     </div>
     <!--////KNOW-HOW-MUCH/////////////////////////////////////////////////////////////////////////////////////////////-->
@@ -992,21 +421,66 @@
         </div>
     </div>
 
-    <!--////person-page-PRICE/////////////////////////////////////////////////////////////////////////////////////////////-->
-    <div class="person-page">
-        <div class="container-fluid header-main-theme person-page-price">
-            <img class="sofa" src="/images/sofa2.png" alt="диван">
-            <img class="wall-picture" src="/images/picture.png" alt="картина">
-            <img class="left-bush" src="/images/header/left-bush.png" alt="левый куст">
-            <img class="right-bush" src="/images/header/right-bush.png" alt="правый куст">
+    <!--////stages/////////////////////////////////////////////////////////////////////////////////////////////-->
+    <h2 class="_header-3 text-center"><span class="important">Организовать переезд</span> - это просто</h2>
+    <div class="container">
+        <div class="row d-flex justify-content-center">
+            <div class="col-12 text-center">
+                <p class="text-left">
+                    К Вашим услугам - организация переезда в Петербурге любого уровня сложности. Перевезем вещи в удобное для Вас время. Закажите переезд под ключ в нашей компании!
+                </p>
+            </div>
         </div>
-        <div class="person-page-call">
-            <img class="man mx-auto" src="/images/men-price.png" alt="победитель по жизни">
-            <h6 class="_header-6 text-center">
-                Мы готовы <span class="important">побить любую цену</span> конкурентов
-            </h6>
-            <div class="additional-info2 text-center mt-2">Позвоните и убедитесь сами<br>
-                <a href="tel:+79618018881" class="text-center red-bold">+7 (961) 801-88-81</a>
+    </div>
+    <div class="container-fluid">
+        <div class="bd-example stages">
+            <div id="stagesCaption1" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="/images/kak-my-rabotaem1.png" class="d-block mx-auto" alt="слайд">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5 class="text-uppercase">заявка</h5>
+                            <p>
+                                Вы заполняете форму или звоните по телефону
+                            </p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/images/kak-my-rabotaem2.png" class="d-block mx-auto" alt="слайд">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5 class="text-uppercase">оценка</h5>
+                            <p>
+                                В течение 30-40 минут составляем предложение
+                            </p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/images/kak-my-rabotaem3.png" class="d-block mx-auto" alt="слайд">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5 class="text-uppercase">предоплата</h5>
+                            <p>
+                                Подписываем договор и выставляем счет
+                            </p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/images/kak-my-rabotaem4.png" class="d-block mx-auto" alt="слайд">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5 class="text-uppercase">переезд</h5>
+                            <p>
+                                Мы организуем переезд оповещая вас о событиях
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <a class="_carousel-control carousel-control-prev" href="#stagesCaption1" role="button" data-slide="prev">
+                    <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="_carousel-control carousel-control-next" href="#stagesCaption1" role="button" data-slide="next">
+                    <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                    <span class="sr-only">Next</span>
+                </a>
             </div>
         </div>
     </div>
@@ -1084,356 +558,23 @@
             </div>
         </div>
     </div>
-    <!--////RECOMMENDATION/////////////////////////////////////////////////////////////////////////////////////////////-->
-    <div class="recommendation container">
+    <!--////trast/////////////////////////////////////////////////////////////////////////////////////////////-->
+    <div class="trast container">
         <div class="row d-flex justify-content-center">
-            <div class="col-12 text-center">
-                <h2 class="_header-3">Нас<span class="important"> рекомендуют</span></h2>
+            <div class="col-12 text-left">
+                <h2 class="_header-3 text-center mb-4">Нам<span class="important"> доверяют</span></h2>
+                <p class="text-left">
+                    Нашей службе переезда доверяют крупнейшие компании Петербурга и области. Многие из фирм СПб заказывают наши услуги уже на протяжении нескольких лет.
+                </p>
             </div>
         </div>
     </div>
-    <div class="bd-example">
-        <div id="recommendationCaption1" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="/images/recom1.png" class="d-block mx-auto" alt="слайд">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h5>Синюгин Константин</h5>
-                        <p class="text-left">
-                            В первый раз заказывал у вас переезд на другую квартиру. Отличная служба! Всё сделали быстро, аккуратно, культурно. Точно назвали цену, условия оплаты и какое время потребуется на переезд моей трехкомнатной квартиры по городу. В общем, всё отлично.
-                        </p>
-                        <div class="transportation-parameters">
-                            <p class="param">
-                                <span class="h-param">Маршрут:</span><br>
-                                <span class="b-param">ул. Кубинская - ул. Коллонтай</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Вещи:</span><br>
-                                <span class="b-param">Мебель, техника, 15 коробок с вещами</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Дата:</span><br>
-                                <span class="b-param">12.04.2018</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Грузчики:</span><br>
-                                <span class="b-param">3 чел.</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Транспорт:</span><br>
-                                <span class="b-param">Mercedes с гидролопатой</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Стоимость:</span><br>
-                                <span class="b-param">12 200 руб.</span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="/images/recom2.png" class="d-block mx-auto" alt="слайд">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h5>Баранов С.В.</h5>
-                        <p class="text-left">
-                            Обратились в вашу компанию «Переезд без хлопот» по рекомендации друзей. Занялись ремонтом в квартире, решили заказать вывоз мебели. Все хорошо. Все понравилось.
-                        </p>
-                        <div class="transportation-parameters">
-                            <p class="param">
-                                <span class="h-param">Маршрут:</span><br>
-                                <span class="b-param">ул. Магинская - ул. Садовая</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Вещи:</span><br>
-                                <span class="b-param">Мебель, 6 коробок с вещами</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Дата:</span><br>
-                                <span class="b-param">18.03.2018</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Грузчики:</span><br>
-                                <span class="b-param">2 чел.</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Транспорт:</span><br>
-                                <span class="b-param">Газель-Next</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Стоимость:</span><br>
-                                <span class="b-param">6 200 руб.</span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="/images/recom3.png" class="d-block mx-auto" alt="слайд">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h5>Полозова И.С.</h5>
-                        <p class="text-left">
-                            Я офисный сотрудник. Работы много и нет времени на самостоятельный переезд. Нашла вас, изучая частные объявления в сети. Приехали ребята, собрали всю мою мебель и перевезли. Я довольна как прошел квартирный переезд, рекомендую обращаться. Здесь фиксированный прайс, лучшие грузчики и водители!
-                        </p>
-                        <div class="transportation-parameters">
-                            <p class="param">
-                                <span class="h-param">Маршрут:</span><br>
-                                <span class="b-param">ул. Бабушкина - пр. Маршала Жукова</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Вещи:</span><br>
-                                <span class="b-param">Мебель, 16 коробок с вещами</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Дата:</span><br>
-                                <span class="b-param">16.02.2018</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Грузчики:</span><br>
-                                <span class="b-param">3 чел.</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Транспорт:</span><br>
-                                <span class="b-param">Газель-Next</span>
-                            </p>
-                            <p class="param">
-                                <span class="h-param">Стоимость:</span><br>
-                                <span class="b-param">9 400 руб.</span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                <img src="/images/left-arrow-type1.png" alt="стрелка влево">
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
-    </div>
-    <!--////VIDEO///////////////////////////////////////////////////////////////////////////////////////////////////-->
-    <div class="bd-example video">
-        <div id="videoCaption1" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#videoCaption1" data-slide-to="0" class="active"></li>
-                <li data-target="#videoCaption1" data-slide-to="1"></li>
-                <li data-target="#videoCaption1" data-slide-to="2"></li>
-                <li data-target="#videoCaption1" data-slide-to="3"></li>
-            </ol>
-            <div class="carousel-inner">
-                <h2 class="_header-3 mt-3 text-center">Наши<br><span class="important"> видео отзывы</span></h2>
-                <div class="carousel-item active">
-                    <div class="carousel-caption d-none d-md-block">
-                        <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
-                            <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
-                        </div>
-                        <h5>Переезд квартиры на склад временного хранения</h5>
-                        <div class="col-11 js-long-text container">
-                            <div class="row">
-                                <p class="col-12 paragraph text-left">
-                                    Чувствовалось, что работает одна команда и что у них отличная подготовка. Люди приятные в общении. Я довольна: переезд обошелся не так дорого. Так бы еще ремонт прошел! Так что всем советую.
-                                </p>
-                                <div class="col d-flex justify-content-end">
-                                    <button class="js-podrobno">
-                                        <span>Подробно</span>
-                                        <img src="/images/header/city-triangle.png" alt="треугольник">
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                        <span class="author d-block text-left">
-                            Мухина А.В.
-                        </span>
-                    </div>
-                    <div class="modal fade" id="videoModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="videoModal1-title">Переезд квартиры на склад временного хранения</h5>
-                                    <span id="playYoutube1"></span>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" id="pauseYoutube1">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <iframe class="w-100 h-100" src="https://www.youtube.com/embed/cSdP19WRaiY?rel=0&enablejsapi=1" frameborder="0" allowfullscreen id="Youtube1"></iframe>
-                                    <script>
-                                        function onYouTubePlayerAPIReady() {
-                                            player1 = new YT.Player('Youtube1', {
-                                                events: {'onReady': onPlayerReady}
-                                            });
 
-                                            player2 = new YT.Player('Youtube2', {
-                                                events: {'onReady': onPlayerReady}
-                                            });
-
-                                            player3 = new YT.Player('Youtube3', {
-                                                events: {'onReady': onPlayerReady}
-                                            });
-
-                                            player4 = new YT.Player('Youtube4', {
-                                                events: {'onReady': onPlayerReady}
-                                            });
-                                        }
-                                        function onPlayerReady(event) {
-                                            document.getElementById("playYoutube1").addEventListener("click", function() {player1.playVideo();});
-                                            document.getElementById("pauseYoutube1").addEventListener("click", function() {player1.pauseVideo();});
-                                            document.getElementById("videoModal1").addEventListener("click", function() {player1.pauseVideo();});
-
-                                            document.getElementById("playYoutube2").addEventListener("click", function() {player2.playVideo();});
-                                            document.getElementById("pauseYoutube2").addEventListener("click", function() {player2.pauseVideo();});
-                                            document.getElementById("videoModal2").addEventListener("click", function() {player2.pauseVideo();});
-
-                                            document.getElementById("playYoutube3").addEventListener("click", function() {player3.playVideo();});
-                                            document.getElementById("pauseYoutube3").addEventListener("click", function() {player3.pauseVideo();});
-                                            document.getElementById("videoModal3").addEventListener("click", function() {player3.pauseVideo();});
-
-                                            document.getElementById("playYoutube4").addEventListener("click", function() {player4.playVideo();});
-                                            document.getElementById("pauseYoutube4").addEventListener("click", function() {player4.pauseVideo();});
-                                            document.getElementById("videoModal4").addEventListener("click", function() {player4.pauseVideo();});
-                                        }
-                                    </script>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="carousel-caption d-none d-md-block">
-                        <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
-                            <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal2">
-                        </div>
-                        <h5>Квартирный переезд</h5>
-                        <div class="col-11 js-long-text container">
-                            <div class="row">
-                                <p class="col-12 paragraph text-left">
-                                    Вот обратились в вашу компанию «Переезд без хлопот» по рекомендации друзей, которым вы помогали осуществить домашний переезд на новую квартиру в Красносельский. Занялись ремонтом в квартире, решили вывезти мебель. Все хорошо. Все понравилось, особенно расценки и чистый новенький фургон. Вы — надежный партнер!
-                                </p>
-                                <div class="col d-flex justify-content-end">
-                                    <button class="js-podrobno">
-                                        <span>Подробно</span>
-                                        <img src="/images/header/city-triangle.png" alt="треугольник">
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                        <span class="author d-block text-left">
-                            Баранов С.В.
-                        </span>
-                    </div>
-                    <div class="modal fade" id="videoModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="videoModal2-title">Переезд квартиры на склад временного хранения</h5>
-                                    <span id="playYoutube2"></span>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"  id="pauseYoutube2">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <iframe class="w-100 h-100" src="https://www.youtube.com/embed/gYmN0vfhyrQ?rel=0&enablejsapi=1" frameborder="0" allowfullscreen id="Youtube2"></iframe>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="carousel-caption d-none d-md-block">
-                        <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
-                            <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal3">
-                        </div>
-                        <h5>Переезд 3х комнатной квартиры</h5>
-                        <div class="col-11 js-long-text container">
-                            <div class="row">
-                                <p class="col-12 paragraph text-left">
-                                    Мне очень понравилась организация переезда моей однушки без посредников, потому что, наверное транспортная компания «Переезд без хлопот», поэтому и переезд без хлопот. Что я просто сидела и спокойно смотрела, как работают потрясающие ребята.
-                                </p>
-                                <div class="col d-flex justify-content-end">
-                                    <button class="js-podrobno">
-                                        <span>Подробно</span>
-                                        <img src="/images/header/city-triangle.png" alt="треугольник">
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                        <span class="author d-block text-left">
-                            Лобанова С.Л.
-                        </span>
-                    </div>
-                    <div class="modal fade" id="videoModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="videoModal3-title">Переезд квартиры на склад временного хранения</h5>
-                                    <span id="playYoutube3"></span>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"  id="pauseYoutube3">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <iframe class="w-100 h-100" src="https://www.youtube.com/embed/wuQICJ6LeWA?rel=0&enablejsapi=1" frameborder="0" allowfullscreen id="Youtube3"></iframe>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="carousel-caption d-none d-md-block">
-                        <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
-                            <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal4">
-                        </div>
-                        <h5>Переезд 1 комнатной квартиры "под ключ" </h5>
-                        <div class="col-11 js-long-text container">
-                            <div class="row">
-                                <p class="col-12 paragraph text-left">
-                                    Было сделано все хорошо: бережно, оперативно, качественно и все доставлено на место исключительно. Спасибо большое компании за вашу топ-услугу. Скоро закажу у вас и дачные перевозки.
-                                </p>
-                                <div class="col d-flex justify-content-end">
-                                    <button class="js-podrobno">
-                                        <span>Подробно</span>
-                                        <img src="/images/header/city-triangle.png" alt="треугольник">
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                        <span class="author d-block text-left">
-                            Александрова Г.М.
-                        </span>
-                    </div>
-                    <div class="modal fade" id="videoModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="videoModal4-title">Переезд квартиры на склад временного хранения</h5>
-                                    <span id="playYoutube4"></span>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"  id="pauseYoutube4">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <iframe class="w-100 h-100" src="https://www.youtube.com/embed/omR4AWmINgc?rel=0&enablejsapi=1" frameborder="0" allowfullscreen id="Youtube4"></iframe>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="d-flex justify-content-center">
-            <a href="/video_reference" class="mx-auto send-button">Смотреть все</a>
-        </div>
-    </div>
-    <!--////photos////////////////////////////////////////////////////////////////////////////////////////////////-->
-    <div class="container client-reviews">
+    <div class="container-fluid client-reviews">
         <div class="row">
             <div class="carousel-container mx-auto">
-                <!--modal-review-1-->
-                <div class="modal fade" id="review-1" tabindex="-1" role="dialog" aria-hidden="true">
+                <!--modal-partner1-->
+                <div class="modal fade" id="partner1" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -1443,15 +584,15 @@
                             </div>
                             <div class="modal-body">
                                 <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo1.jpg" alt="Фото 1">
+                                    <img class="d-block" src="/images/trast/vtb24.png" alt="партнер 1">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/modal-review-1-->
-                <!--modal-review-2-->
-                <div class="modal fade" id="review-2" tabindex="-1" role="dialog" aria-hidden="true">
+                <!--/modal-partner1-->
+                <!--modal-partner2-->
+                <div class="modal fade" id="partner2" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -1461,15 +602,15 @@
                             </div>
                             <div class="modal-body">
                                 <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo2.jpg" alt="Фото 2">
+                                    <img class="d-block" src="/images/trast/megafon.png" alt="партнер 2">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/modal-review-2-->
-                <!--modal-review-3-->
-                <div class="modal fade" id="review-3" tabindex="-1" role="dialog" aria-hidden="true">
+                <!--/modal-partner2-->
+                <!--modal-partner3-->
+                <div class="modal fade" id="partner3" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -1479,15 +620,15 @@
                             </div>
                             <div class="modal-body">
                                 <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo3.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/trast/rostelecom.png" alt="партнер 3">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/modal-review-3-->
-                <!--modal-review-4-->
-                <div class="modal fade" id="review-4" tabindex="-1" role="dialog" aria-hidden="true">
+                <!--/modal-partner3-->
+                <!--modal-partner4-->
+                <div class="modal fade" id="partner4" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -1497,15 +638,15 @@
                             </div>
                             <div class="modal-body">
                                 <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo4.jpg" alt="Фото 4">
+                                    <img class="d-block" src="/images/trast/miratorg.png" alt="партнер 4">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/modal-review-4-->
-                <!--modal-review-5-->
-                <div class="modal fade" id="review-5" tabindex="-1" role="dialog" aria-hidden="true">
+                <!--/modal-partner4-->
+                <!--modal-partner5-->
+                <div class="modal fade" id="partner5" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -1515,15 +656,15 @@
                             </div>
                             <div class="modal-body">
                                 <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo5.jpg" alt="Фото 5">
+                                    <img class="d-block" src="/images/trast/asko.png" alt="партнер 5">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/modal-review-5-->
-                <!--modal-review-6-->
-                <div class="modal fade" id="review-6" tabindex="-1" role="dialog" aria-hidden="true">
+                <!--/modal-partner5-->
+                <!--modal-partner6-->
+                <div class="modal fade" id="partner6" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -1533,15 +674,15 @@
                             </div>
                             <div class="modal-body">
                                 <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo6.jpg" alt="Фото 6">
+                                    <img class="d-block" src="/images/trast/bks.png" alt="партнер 6">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/modal-review-6-->
-                <!--modal-review-7-->
-                <div class="modal fade" id="review-7" tabindex="-1" role="dialog" aria-hidden="true">
+                <!--/modal-partner6-->
+                <!--modal-partner7-->
+                <div class="modal fade" id="partner7" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -1551,15 +692,15 @@
                             </div>
                             <div class="modal-body">
                                 <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo7.jpg" alt="Фото 7">
+                                    <img class="d-block" src="/images/trast/bmz.png" alt="партнер 7">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/modal-review-7-->
-                <!--modal-review-8-->
-                <div class="modal fade" id="review-8" tabindex="-1" role="dialog" aria-hidden="true">
+                <!--/modal-partner7-->
+                <!--modal-partner8-->
+                <div class="modal fade" id="partner8" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -1569,15 +710,15 @@
                             </div>
                             <div class="modal-body">
                                 <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo8.jpg" alt="Фото 8">
+                                    <img class="d-block" src="/images/trast/centralbox.png" alt="партнер 8">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/modal-review-8-->
-                <!--modal-review-9-->
-                <div class="modal fade" id="review-9" tabindex="-1" role="dialog" aria-hidden="true">
+                <!--/modal-partner8-->
+                <!--modal-partner9-->
+                <div class="modal fade" id="partner9" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -1587,15 +728,15 @@
                             </div>
                             <div class="modal-body">
                                 <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo9.jpg" alt="Фото 9">
+                                    <img class="d-block" src="/images/trast/elteco.png" alt="партнер 9">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/modal-review-9-->
-                <!--modal-review-10-->
-                <div class="modal fade" id="review-10" tabindex="-1" role="dialog" aria-hidden="true">
+                <!--/modal-partner9-->
+                <!--modal-partner10-->
+                <div class="modal fade" id="partner10" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -1605,62 +746,455 @@
                             </div>
                             <div class="modal-body">
                                 <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo10.jpg" alt="Фото 10">
+                                    <img class="d-block" src="/images/trast/ghelamco.png" alt="партнер 10">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/modal-review-10-->
-                <div id="client-reviews" class="carousel slide mx-auto mt-4 mb-4">
+                <!--/modal-partner10-->
+                <!--modal-partner11-->
+                <div class="modal fade" id="partner11" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/trast/kartoshka.png" alt="партнер 11">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-partner11-->
+                <!--modal-partner12-->
+                <div class="modal fade" id="partner12" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/trast/kladovochka.png" alt="партнер 12">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-partner12-->
+                <!--modal-partner13-->
+                <div class="modal fade" id="partner13" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/trast/libher.png" alt="партнер 13">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-partner13-->
+                <!--modal-partner14-->
+                <div class="modal fade" id="partner14" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/trast/medskan.png" alt="партнер 14">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-partner14-->
+                <!--modal-partner15-->
+                <div class="modal fade" id="partner15" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/trast/minisklad.png" alt="партнер 15">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-partner15-->
+                <!--modal-partner16-->
+                <div class="modal fade" id="partner16" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/trast/mobius.png" alt="партнер 16">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-partner16-->
+                <!--modal-partner17-->
+                <div class="modal fade" id="partner17" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/trast/postrus.png" alt="партнер 17">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-partner17-->
+                <!--modal-partner18-->
+                <div class="modal fade" id="partner18" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/trast/redbox.png" alt="партнер 18">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-partner18-->
+                <!--modal-partner19-->
+                <div class="modal fade" id="partner19" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/trast/roscvet.png" alt="партнер 19">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-partner19-->
+                <!--modal-partner20-->
+                <div class="modal fade" id="partner20" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/trast/shatura.png" alt="партнер 20">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-partner20-->
+                <div id="partners" class="carousel slide mx-auto mt-4 mb-4">
+
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo1.jpg" alt="Фото 1" data-toggle="modal" data-target="#review-1">
+                            <img class="d-block" src="/images/trast/vtb24.png" alt="партнер 1" data-toggle="modal" data-target="#partner1">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo2.jpg" alt="Фото 2" data-toggle="modal" data-target="#review-2">
+                            <img class="d-block" src="/images/trast/megafon.png" alt="партнер 2" data-toggle="modal" data-target="#partner2">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo3.jpg" alt="Фото 3" data-toggle="modal" data-target="#review-3">
+                            <img class="d-block" src="/images/trast/rostelecom.png" alt="партнер 3" data-toggle="modal" data-target="#partner3">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo4.jpg" alt="Фото 4" data-toggle="modal" data-target="#review-4">
+                            <img class="d-block" src="/images/trast/miratorg.png" alt="партнер 4" data-toggle="modal" data-target="#partner4">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo5.jpg" alt="Фото 5" data-toggle="modal" data-target="#review-5">
+                            <img class="d-block" src="/images/trast/asko.png" alt="партнер 5" data-toggle="modal" data-target="#partner5">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo6.jpg" alt="Фото 6" data-toggle="modal" data-target="#review-6">
+                            <img class="d-block" src="/images/trast/bks.png" alt="партнер 6" data-toggle="modal" data-target="#partner6">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo7.jpg" alt="Фото 7" data-toggle="modal" data-target="#review-7">
+                            <img class="d-block" src="/images/trast/bmz.png" alt="партнер 7" data-toggle="modal" data-target="#partner7">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo8.jpg" alt="Фото 8" data-toggle="modal" data-target="#review-8">
+                            <img class="d-block" src="/images/trast/centralbox.png" alt="партнер 8" data-toggle="modal" data-target="#partner8">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo9.jpg" alt="Фото 9" data-toggle="modal" data-target="#review-9">
+                            <img class="d-block" src="/images/trast/elteco.png" alt="партнер 9" data-toggle="modal" data-target="#partner9">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo10.jpg" alt="Фото 10" data-toggle="modal" data-target="#review-10">
+                            <img class="d-block" src="/images/trast/ghelamco.png" alt="партнер 10" data-toggle="modal" data-target="#partner10">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="/images/trast/kartoshka.png" alt="партнер 11" data-toggle="modal" data-target="#partner11">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="/images/trast/kladovochka.png" alt="партнер 12" data-toggle="modal" data-target="#partner12">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="/images/trast/libher.png" alt="партнер 13" data-toggle="modal" data-target="#partner13">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="/images/trast/medskan.png" alt="партнер 14" data-toggle="modal" data-target="#partner14">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="/images/trast/minisklad.png" alt="партнер 15" data-toggle="modal" data-target="#partner15">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="/images/trast/mobius.png" alt="партнер 16" data-toggle="modal" data-target="#partner16">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="/images/trast/postrus.png" alt="партнер 17" data-toggle="modal" data-target="#partner17">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="/images/trast/redbox.png" alt="партнер 18" data-toggle="modal" data-target="#partner18">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="/images/trast/roscvet.png" alt="партнер 19" data-toggle="modal" data-target="#partner19">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="/images/trast/shatura.png" alt="партнер 20" data-toggle="modal" data-target="#partner20">
                         </div>
                     </div>
+
+                    <a class="_carousel-control carousel-control-prev" href="#partners" role="button" data-slide="prev">
+                        <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="_carousel-control carousel-control-next" href="#partners" role="button" data-slide="next">
+                        <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                        <span class="sr-only">Next</span>
+                    </a>
+
                     <ol class="carousel-indicators mx-auto">
-                        <li data-target="#client-reviews" data-slide-to="0" class="active"></li>
-                        <li data-target="#client-reviews" data-slide-to="1"></li>
-                        <li data-target="#client-reviews" data-slide-to="2"></li>
-                        <li data-target="#client-reviews" data-slide-to="3"></li>
-                        <li data-target="#client-reviews" data-slide-to="4"></li>
-                        <li data-target="#client-reviews" data-slide-to="5"></li>
-                        <li data-target="#client-reviews" data-slide-to="6"></li>
-                        <li data-target="#client-reviews" data-slide-to="7"></li>
-                        <li data-target="#client-reviews" data-slide-to="8"></li>
-                        <li data-target="#client-reviews" data-slide-to="9"></li>
+                        <li data-target="#partners" data-slide-to="0" class="active"></li>
+                        <li data-target="#partners" data-slide-to="1"></li>
+                        <li data-target="#partners" data-slide-to="2"></li>
+                        <li data-target="#partners" data-slide-to="3"></li>
+                        <li data-target="#partners" data-slide-to="4"></li>
+                        <li data-target="#partners" data-slide-to="5"></li>
+                        <li data-target="#partners" data-slide-to="6"></li>
+                        <li data-target="#partners" data-slide-to="7"></li>
+                        <li data-target="#partners" data-slide-to="8"></li>
+                        <li data-target="#partners" data-slide-to="9"></li>
+                        <li data-target="#partners" data-slide-to="10"></li>
+                        <li data-target="#partners" data-slide-to="11"></li>
+                        <li data-target="#partners" data-slide-to="12"></li>
+                        <li data-target="#partners" data-slide-to="13"></li>
+                        <li data-target="#partners" data-slide-to="14"></li>
+                        <li data-target="#partners" data-slide-to="15"></li>
+                        <li data-target="#partners" data-slide-to="16"></li>
+                        <li data-target="#partners" data-slide-to="17"></li>
+                        <li data-target="#partners" data-slide-to="18"></li>
+                        <li data-target="#partners" data-slide-to="19"></li>
                     </ol>
+
                 </div>
             </div>
         </div>
     </div>
+    <!--////RECOMMENDATION/////////////////////////////////////////////////////////////////////////////////////////////-->
+    <div class="container-fluid client-reviews recommendation mt-5">
+        <div class="row">
+            <div class="carousel-container mx-auto">
+                <!--modal-recom-1-->
+                <div class="modal fade" id="recom1" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/recommendation/recom-letter1.jpg" alt="рекомендация 1">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-recom-1-->
+                <!--modal-recom-2-->
+                <div class="modal fade" id="recom2" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/recommendation/recom-letter2.jpg" alt="рекомендация 2">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-recom-2-->
+                <!--modal-recom-3-->
+                <div class="modal fade" id="recom3" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/recommendation/recom-letter3.jpg" alt="рекомендация 3">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-recom-3-->
+                <!--modal-recom-4-->
+                <div class="modal fade" id="recom4" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/recommendation/recom-letter4.jpg" alt="рекомендация 4">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-recom-4-->
+                <!--modal-recom-5-->
+                <div class="modal fade" id="recom5" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="review-full-img">
+                                    <img class="d-block" src="/images/recommendation/recom-letter5.jpg" alt="рекомендация 5">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/modal-recom-5-->
+                <div id="recom-reviews" class="carousel slide mx-auto">
+                    <div class="carousel-inner">
+
+                        <div class="carousel-item active">
+                            <img src="/images/recom4.png" class="d-block mx-auto" alt="слайд">
+                            <div class="carousel-caption d-none d-md-block mt-5">
+                                <h5>Алексей</h5>
+                                <p class="text-left text-sm-center">
+                                    На этой неделе у меня был очередной переезд в Питере, третий вообще и первый с этой фирмой. Ну и лучший заодно! У меня вещей не слишком много, езжу по съемным квартирам. Но все равно жаль, если что-то ломается. Этот переезд был единственным, когда все доехало в целости. Аккуратно довезли даже гитару и сабвуфер. В общем, мне все понравилось, рекомендую.
+                                </p>
+                            </div>
+                            <a href="#" class="d-block text-center" data-toggle="modal" data-target="#recom1">Скан отзыва</a>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/images/recom5.png" class="d-block mx-auto" alt="слайд">
+                            <div class="carousel-caption d-none d-md-block mt-5">
+                                <h5>Максим</h5>
+                                <p class="text-left text-sm-center">
+                                    Мы с моими бизнес-партнерами решили расшириться и переехать поближе к центру. Новый офис нашли быстро. Получилось так, что нужно было срочно заказать переезд, потому что иначе возникали проблемы с арендной платой. Обратились в эту компанию утром, а вечером уже все было готово.
+                                </p>
+                            </div>
+                            <a href="#" class="d-block text-center" data-toggle="modal" data-target="#recom2">Скан отзыва</a>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/images/recom6.png" class="d-block mx-auto" alt="слайд">
+                            <div class="carousel-caption d-none d-md-block mt-5">
+                                <h5>Валентина</h5>
+                                <p class="text-left text-sm-center">
+                                    Замечательная служба переезда, я очень довольна! Уже дважды перевозили мне вещи – один раз на дачу, второй с дачи в центр города. Грузчики очень приветливые и аккуратные. За все время ни разу не сходили на перекур, не услышала от них ни одного грубого слова. Сделали все ровно к тому времени как обещали. Очень благодарна!
+                                </p>
+                            </div>
+                            <a href="#" class="d-block text-center" data-toggle="modal" data-target="#recom3">Скан отзыва</a>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/images/recom3.png" class="d-block mx-auto" alt="слайд">
+                            <div class="carousel-caption d-none d-md-block mt-5">
+                                <h5>Кристина</h5>
+                                <p class="text-left text-sm-center">
+                                    Благодарю персонал компании за профессиональные услуги по переезду офиса. Вся работа была выполнена в точно установленные сроки. Грузчики аккуратные. Ни одна вещь не потерялась и не сломалась, оргтехника и мебель в том же состоянии, в каком их вывозили из старого офиса. Буду рекомендовать вас при случае.
+                                </p>
+                            </div>
+                            <a href="#" class="d-block text-center" data-toggle="modal" data-target="#recom4">Скан отзыва</a>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/images/recom7.png" class="d-block mx-auto" alt="слайд">
+                            <div class="carousel-caption d-none d-md-block mt-5">
+                                <h5>Олег</h5>
+                                <p class="text-left text-sm-center">
+                                    Мой переезд в СПб прошел без проблем благодаря этой компании. Речь шла о большом количестве вещей, много мебели. Плюс расстояние внушительное, не просто в соседний район перевезти. Но справились на ура. И получилось недорого. Сумму мне назвали еще при заключении договора, она уже не менялась, так что я точно знал, на что рассчитывать. Это удобно.
+                                </p>
+                            </div>
+                            <a href="#" class="d-block text-center" data-toggle="modal" data-target="#recom5">Скан отзыва</a>
+                        </div>
+                    </div>
+                    <a class="_carousel-control carousel-control-prev" href="#recom-reviews" role="button" data-slide="prev">
+                        <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="_carousel-control carousel-control-next" href="#recom-reviews" role="button" data-slide="next">
+                        <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!--////infographics////////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="container-fluid wrap-infographics">
         <img class="ribbon left-ribbon" src="/images/ribbon-left.png" alt="левая лента">

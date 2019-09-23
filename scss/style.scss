@@ -113,6 +113,13 @@ $number-color: #2698b5;
   font-size: .875rem;
 }
 
+%_controls-v1 {
+  height: 70px;
+  top: 115px;
+  margin: 0;
+  transition: all .2s;
+}
+
 
 * {
   margin: 0;
@@ -128,6 +135,11 @@ body {
 
     .navbar {
       padding: 0;
+      margin-right: 0;
+
+      .__nav {
+        padding-right: 0;
+      }
 
       ._24-hours {
         height: 36px;
@@ -1263,6 +1275,56 @@ body {
       }
     }
   }
+
+  .stages {
+    @extend %shadow-block1;
+    padding-top: 75px;
+  }
+
+  #partners {
+    .carousel-indicators {
+      max-width: none;
+    }
+
+    ._carousel-control {
+      @extend %_controls-v1;
+      top: 55px;
+    }
+
+    ._carousel-control:hover {
+      opacity: .7;
+    }
+  }
+
+  .recommendation {
+    #recom-reviews {
+
+      ._carousel-control {
+        @extend %_controls-v1;
+      }
+
+      ._carousel-control:hover {
+        opacity: .7;
+      }
+
+      .carousel-caption {
+        position: relative;
+        color: #000;
+        right: auto;
+        left: auto;
+        padding-bottom: 0;
+
+        p {
+          margin-bottom: 0;
+        }
+      }
+
+    }
+
+
+
+  }
+
 
 
 

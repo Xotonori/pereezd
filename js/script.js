@@ -32,7 +32,7 @@ $(document).ready(function () {
 //Shorter text-end/////////////////////////////////////////////////////////////////////////////////////////////
 
     $('.carousel').carousel({
-        interval: false
+        touch: true
     });
 });
 
