@@ -79,7 +79,7 @@
                                             <a class="nav-link text-center" href="/pereezd-vystavki">Переезд выставки</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Переезд банка</a>
+                                            <a class="nav-link text-center" href="/pereezd-banka">Переезд банка</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Пререзды по области</a>

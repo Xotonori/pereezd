@@ -1,13 +1,13 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
-<meta name="description" itemprop="description" content="Офисный Переезд Без Хлопот в Санкт-Петербурге станет для вас быстрым, удобным и легким процессом с нашей компанией! Заказывайте переезд офиса на выгодных" />
-<meta name="keywords" itemprop="keywords" content="офисный переезд,переезд офиса,недорого,спб,санкт-петербург,перевозка  офиса,цена,заказать,стоимость,услуга" />
-<title>Офисный переезд в Санкт-Петербурге, переезд офиса недорого, перевозка офисов в СПБ</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/ofisnyy-pereezd/"/>
+<meta name="description" itemprop="description" content="Компания «ПереездБезХлопот» осуществит профессиональный переезд банка в кратчайшие сроки. Выгодные цены на перевозку банка." />
+<meta name="keywords" itemprop="keywords" content="переезд банка,перевозка банка,Санкт-Петербург" />
+<title>Переезд банка в Санкт-Петербурге, заказать перевозку банка</title>
+<link rel="canonical" href="https://pereezdy-spb.ru/pereezd-banka/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
-<h1>Офисный переезд в Санкт-Петербурге</h1>
+<h1>Переезд банка</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
 
@@ -22,7 +22,7 @@
             <div class="col-11 js-long-text container how-much-description">
                 <div class="row">
                     <p class="col-12 paragraph pt-0">
-                        Для нас офисные переезды являются приоритетным направлением деятельности. К работе с корпоративными заказчиками привлекаются только специалисты высокой квалификации с большим стажем. Если Вам нужен профессиональный переезд в Санкт-Петербурге, обращайтесь в нашу компанию. Мы предлагаем различные форматы сотрудничества – от комплексной услуги «под ключ» до помощи в проведении отдельных этапов мероприятия. С нами переезд офиса пройдет быстро при низком уровне затрат. Все работы проводятся строго в согласованные сроки. Возможна перевозка в ночное время, выходные и праздничные дни. Это позволяет не останавливать деятельность предприятия. Наличие большого штата сотрудников и собственного парка фургонов различной вместимости дает нам возможность перевезти дешевле, чем конкуренты, при сохранении Высокого качества услуг.
+                        Мы быстро и качественно осуществим переезд банка в новое помещение. В зависимости от пожеланий заказчика специалисты компании выполнят работы «под ключ» или окажут согласованный набор услуг. Мы располагаем собственным парком специализированных мебельных фургонов и штатом квалифицированных работников, что позволяет гарантировать 100% сохранность имущества заказчика при транспортировке.
                     </p>
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
@@ -34,6 +34,7 @@
             </div>
         </div>
     </div>
+
     <!--////Benefits/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="container wrap-benefits">
         <div class="row">
@@ -85,14 +86,15 @@
             </div>
         </div>
     </div>
+
     <!--////PROF-RELOCATION/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="professional-relocation container">
         <div class="row d-flex justify-content-center">
             <div class="col-12 text-center">
-                <h2 class="_header-3"><span class="important">Проф подход</span> в пеерезде офиса</h2>
+                <h2 class="_header-3"><span class="important">Эксперты</span> в перевозке банков</h2>
             </div>
             <div class="col-11">
-                <p class="paragraph mt-3">Мы оказываем профессиональные услуги по организации переездов офисов любого масштаба – от малых, на несколько рабочих мест, до крупных корпораций со штатом, насчитывающим сотни или тысячи сотрудников. Вы смело можете доверить нам упаковку документов, разборку мебели, демонтаж техники и сейфов – проще говоря, все виды работ, выполняемых при перевозке компаний в СПб.</p>
+                <p class="paragraph mt-3">Переезд банка начинается с детального планирования операции: от определения нужного количества и состава упаковочных материалов, до подбора рабочих, инструмента, транспорта, необходимых для своевременного и качественного исполнения согласованного объема работ. Тщательная подготовка позволяет избежать проблем в ходе оказания услуги.</p>
             </div>
         </div>
     </div>
@@ -102,45 +104,45 @@
                 <div class="carousel-item active">
                     <img src="/images/slider1-t1.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/sborka_i_razborka_mebeli/">Сборка/разборка и перестановка мебели</a></h5>
+                        <h5><a>Сборка/разборка мебели</a></h5>
                         <p>
-                            Профессиональная разборка и сборка мебели позволит не только защитить ее от повреждений, но и перевезти офис на машине меньшей вместимости за меньшее количество рейсов, сэкономив время и денежные средства.
+                            Наши специалисты хорошо знакомы с конструкцией, отличительными особенностями шкафов, столов, тумб и другой мебели отечественного или зарубежного производства из всех ценовых сегментов, что позволяет производить разборку/сборку без повреждений.
                         </p>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="/images/ofisnyy-pereezd/102td.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="#">Упаковка и перевозка оргтехники</a></h5>
+                        <h5><a>Упаковка и перевозка оргтехники</a></h5>
                         <p>
-                            Каждый офисный переезд в Санкт-Петербурге предусматривает перевозку оргтехники. Ее грамотная упаковка и маркировка предотвращает повреждение ценного имущества, а также упрощает установку и подключение в новом помещении.
+                            Принтеры, мониторы, системные блоки, копировальные машины, другая оргтехника бережно упаковывается с применением воздушно-пузырчатой пленки и гофрокартона. Это позволяет исключить риск поломки дорогостоящего имущества при транспортировке.
                         </p>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="/images/slider1-t4.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-veshej/">Упаковка и перевозка личных вещей сотрудников</a></h5>
+                        <h5><a>Перевозка личных вещей</a></h5>
                         <p>
-                            Переезд пройдет быстро и без эксцессов, если упаковку личных вещей сотрудников доверить профессионалам. Мы промаркируем коробки и составим опись, чтобы ничего не пропало, а владельцы быстро нашли имущество на новом месте.
+                            Перевозка банка включает также перемещение личных вещей его сотрудников. Наши специалисты составят опись, промаркируют коробки, помогут уложить хрупкие предметы так, чтобы гарантировать их сохранность во время переезда.
                         </p>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="/images/ofisnyy-pereezd/104td.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="#">Перевозка серверной</a></h5>
+                        <h5><a>Перевозка оборудования</a></h5>
                         <p>
-                            Сегодня офисные переезды часто связаны с необходимостью транспортировки серверов компании. Мы имеем большой опыт в осуществлении подобных операций. Гарантируем, перевозка серверной будет выполнена с соблюдением всех мер безопасности.
+                            Работники компании достаточно хорошо знакомы со специфичным банковским оборудованием: счетчиками и сортировщиками банкнот, тестерами валют и т.п. Все устройства тщательно упаковываются и грузятся с учетом нормативов по предельно допустимой вертикальной нагрузке.
                         </p>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="/images/ofisnyy-pereezd/105td.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="#">Перевозка документации</a></h5>
+                        <h5><a>Перевозка документации</a></h5>
                         <p>
-                            Перевозка офиса подразумевает обеспечение конфиденциальности. Поэтому транспортировке документации мы уделяем особое внимание, чтобы исключить риск ее утери или попадания в чужие руки. Мы гарантируем безопасность вверенных нам архивов.
+                            Мы крайне ответственно относимся к документации кредитных организаций. Все архивы обязательно описываются, маркируются, после чего переносятся, грузятся и транспортируются таким образом, чтобы исключить доступ посторонних к содержимому коробок.
                         </p>
                     </div>
                 </div>
@@ -148,36 +150,9 @@
                 <div class="carousel-item">
                     <img src="/images/ofisnyy-pereezd/106td.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka_seyfov">Перевозка сейфов</a></h5>
+                        <h5><a>Перевозка сейфов</a></h5>
                         <p>
-                            Для многих компаний, планирующих офисный переезд в СПб, проблемой становится перевозка сейфов. Для их безопасной транспортировки требуется специальная оснастка и грузчики с хорошей физической подготовкой. Мы предоставим и то, и другое.
-                        </p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="/images/ofisnyy-pereezd/107td.png" class="d-block mx-auto" alt="слайд">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/kliningovye_uslugi">Клининговые услуги</a></h5>
-                        <p>
-                            Сказать, что переезд закончен, можно только после того, как наведен порядок и персонал готов приступить к работе. Мы соберем и утилизируем всю использованную упаковку и при необходимости выполним уборку помещения.
-                        </p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="/images/ofisnyy-pereezd/109td.png" class="d-block mx-auto" alt="слайд">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="#">Обустройство офиса</a></h5>
-                        <p>
-                            Специалисты компании соберут и расставят по местам мебель, распакуют архивы и разложат документы, подключат компьютерную, бытовую и климатическую технику.
-                        </p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="/images/slider1-t7.jpg" class="d-block mx-auto" alt="слайд">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/loaders">Услуги грузчиков</a></h5>
-                        <p>
-                            Если требуется недорогой офисный переезд, Вы можете провести подготовительные мероприятия самостоятельно, заказав у нас только транспорт и бригаду грузчиков. Привлечение профессионалов сэкономит время и позволит Вашим сотрудникам избежать травм.
+                            Перевозка ценностей банка редко обходится перемещения сейфов, банкоматов, депозитных ячеек. Мы располагаем оснасткой, позволяющей аккуратно и безопасно осуществлять переноску, погрузку/выгрузку, транспортировку тяжелого оборудования.
                         </p>
                     </div>
                 </div>
@@ -192,6 +167,7 @@
             </a>
         </div>
     </div>
+
     <!--////DISCOUNT/////////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="container-fluid header-main-theme discount-block mb-5">
         <div class="row justify-content-center">
@@ -206,15 +182,17 @@
             </div>
         </div>
     </div>
+
+    <!--////HOW_MUCH/////////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-11 text-center">
-                <h2 class="_header-3 mt-3"><span class="important">Сколько стоит</span> переезд офиса</h2>
+                <h2 class="_header-3 mt-3"><span class="important">Сколько стоит</span> переезд банка</h2>
             </div>
             <div class="col-11 js-long-text container how-much-description">
                 <div class="row">
                     <p class="col-12 paragraph">
-                        Для нас офисные переезды являются приоритетным направлением деятельности. К работе с корпоративными заказчиками привлекаются только специалисты высокой квалификации с большим стажем. Если Вам нужен профессиональный переезд в Санкт-Петербурге, обращайтесь в нашу компанию. Мы предлагаем различные форматы сотрудничества – от комплексной услуги «под ключ» до помощи в проведении отдельных этапов мероприятия. С нами переезд офиса пройдет быстро при низком уровне затрат. Все работы проводятся строго в согласованные сроки. Возможна перевозка в ночное время, выходные и праздничные дни. Это позволяет не останавливать деятельность предприятия. Наличие большого штата сотрудников и собственного парка фургонов различной вместимости дает нам возможность перевезти дешевле, чем конкуренты, при сохранении Высокого качества услуг.
+                        Наши цены на переезд банка в Санкт-Петербурге рассчитываются по фиксированным тарифам, исходя из состава, объема заказанных работ и услуг, а также количества и ассортимента упаковочных материалов. Чтобы уточнить стоимость заказа – отправьте заявку. Наши менеджеры оперативно свяжутся с вами, уточнять детали и произведут расчет.
                     </p>
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
@@ -441,7 +419,7 @@
     <div class="container wrap-benefits">
         <div class="row">
             <div class="col-12 text-center">
-                <h2 class="_header-3">Узнать <span class="important">стоимость переезда</span> офиса</h2>
+                <h2 class="_header-3">Узнать <span class="important">стоимость переезда</span> выставки</h2>
             </div>
         </div>
         <div class="row">
@@ -482,25 +460,6 @@
         </div>
     </div>
 
-    <!--////person-page-PRICE/////////////////////////////////////////////////////////////////////////////////////////////-->
-    <div class="person-page">
-        <div class="container-fluid header-main-theme person-page-price">
-            <img class="sofa" src="/images/sofa2.png" alt="диван">
-            <img class="wall-picture" src="/images/picture.png" alt="картина">
-            <img class="left-bush" src="/images/header/left-bush.png" alt="левый куст">
-            <img class="right-bush" src="/images/header/right-bush.png" alt="правый куст">
-        </div>
-        <div class="person-page-call">
-            <img class="man mx-auto" src="/images/men-price.png" alt="победитель по жизни">
-            <h6 class="_header-6 text-center">
-                Мы готовы <span class="important">побить любую цену</span> конкурентов
-            </h6>
-            <div class="additional-info2 text-center mt-2">Позвоните и убедитесь сами<br>
-                <a href="tel:+79618018881" class="text-center red-bold">+7 (961) 801-88-81</a>
-            </div>
-        </div>
-    </div>
-
     <!--////QUESTION/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="person-page">
         <div class="container-fluid header-main-theme person-page-price">
@@ -521,7 +480,7 @@
             <div class="col-11 js-long-text container how-much-description">
                 <div class="row">
                     <p class="col-12 paragraph text-left">
-                        Я горжусь, что являюсь сотрудником компании «Переезд без хлопот». Непосвященному человеку может казаться, что перевозка офиса - дело простое и не требует особых знаний и навыков. На самом деле подобное мнение очень ошибочно. Чтобы качественно организовать офисный переезд в Санкт-Петербурге, необходимо проделать большую подготовительную работу, учесть множество нюансов, включая загруженность городских магистралей, схему движения и т.д. Для клиентов вся наша внутренняя «кухня» остается незамеченной, и это правильно. Главное – конечный результат. А его мы гарантируем, что подтверждается многочисленными положительными отзывами от клиентов.
+                        Для любой кредитной организации вынужденный перерыв в работе неизбежно оборачивается упущенной выгодой. Чтобы свести простои, вызванные переездом отделения или головного офиса банка к минимуму, воспользуйтесь нашей помощью. Гарантируем – вам понравится наш профессионализм и надежность!
                     </p>
                     <div class="col d-flex justify-content-center">
                         <button class="js-podrobno">
@@ -658,6 +617,7 @@
             </a>
         </div>
     </div>
+
     <!--////VIDEO///////////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="bd-example video">
         <div id="videoCaption1" class="carousel slide" data-ride="carousel">
@@ -929,6 +889,56 @@
             <a href="/video_reference" class="mx-auto send-button">Смотреть все</a>
         </div>
     </div>
+
+    <!--////infographics////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <div class="container-fluid wrap-infographics">
+        <img class="ribbon left-ribbon" src="/images/ribbon-left.png" alt="левая лента">
+        <img class="ribbon right-ribbon" src="/images/ribbon-right.png" alt="правая лента">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="_header-3">Переезд без хлопот в <span class="important">цифрах</span></h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-2 benefit text-center mt-4">
+                <p class="infographic">
+                    <span class="h-infographic"><span class="important">10</span><br>лет</span><br>
+                    <span class="b-infographic">на рынке услуг по организации переездов</span>
+                </p>
+            </div>
+            <div class="col-lg-2 benefit text-center mt-4">
+                <p class="infographic">
+                    <span class="h-infographic"><span class="important">24</span><br>часа</span><br>
+                    <span class="b-infographic">работаем круглосуточно</span>
+                </p>
+            </div>
+            <div class="col-lg-2 benefit text-center mt-4">
+                <p class="infographic">
+                    <span class="h-infographic"><span class="important">20</span><br>и более</span><br>
+                    <span class="b-infographic">переездов по Санкт-Петербургу в день</span>
+                </p>
+            </div>
+            <div class="col-lg-2 benefit text-center mt-4">
+                <p class="infographic">
+                    <span class="h-infographic"><span class="important">7</span><br>складов</span><br>
+                    <span class="b-infographic">где вы сможете хранить мебель</span>
+                </p>
+            </div>
+            <div class="col-lg-2 benefit text-center mt-4">
+                <p class="infographic">
+                    <span class="h-infographic"><span class="important">30</span><br>человек</span><br>
+                    <span class="b-infographic">штат своих грузчиков специалистов</span>
+                </p>
+            </div>
+            <div class="col-lg-2 benefit text-center mt-4">
+                <p class="infographic">
+                    <span class="h-infographic"><span class="important">10 000</span><br>коробок</span><br>
+                    <span class="b-infographic">+ стеллажисамый большой перевозимый нами архив</span>
+                </p>
+            </div>
+        </div>
+    </div>
+
     <!--////photos////////////////////////////////////////////////////////////////////////////////////////////////-->
     <h2 class="_header-3 text-center">Фото</h2>
     <div class="container client-reviews">
@@ -1000,54 +1010,6 @@
                         <li data-target="#client-reviews" data-slide-to="9"></li>
                     </ol>
                 </div>
-            </div>
-        </div>
-    </div>
-    <!--////infographics////////////////////////////////////////////////////////////////////////////////////////////////-->
-    <div class="container-fluid wrap-infographics">
-        <img class="ribbon left-ribbon" src="/images/ribbon-left.png" alt="левая лента">
-        <img class="ribbon right-ribbon" src="/images/ribbon-right.png" alt="правая лента">
-        <div class="row">
-            <div class="col-12 text-center">
-                <h2 class="_header-3">Переезд без хлопот в <span class="important">цифрах</span></h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-2 benefit text-center mt-4">
-                <p class="infographic">
-                    <span class="h-infographic"><span class="important">10</span><br>лет</span><br>
-                    <span class="b-infographic">на рынке услуг по организации переездов</span>
-                </p>
-            </div>
-            <div class="col-lg-2 benefit text-center mt-4">
-                <p class="infographic">
-                    <span class="h-infographic"><span class="important">24</span><br>часа</span><br>
-                    <span class="b-infographic">работаем круглосуточно</span>
-                </p>
-            </div>
-            <div class="col-lg-2 benefit text-center mt-4">
-                <p class="infographic">
-                    <span class="h-infographic"><span class="important">20</span><br>и более</span><br>
-                    <span class="b-infographic">переездов по Санкт-Петербургу в день</span>
-                </p>
-            </div>
-            <div class="col-lg-2 benefit text-center mt-4">
-                <p class="infographic">
-                    <span class="h-infographic"><span class="important">7</span><br>складов</span><br>
-                    <span class="b-infographic">где вы сможете хранить мебель</span>
-                </p>
-            </div>
-            <div class="col-lg-2 benefit text-center mt-4">
-                <p class="infographic">
-                    <span class="h-infographic"><span class="important">30</span><br>человек</span><br>
-                    <span class="b-infographic">штат своих грузчиков специалистов</span>
-                </p>
-            </div>
-            <div class="col-lg-2 benefit text-center mt-4">
-                <p class="infographic">
-                    <span class="h-infographic"><span class="important">10 000</span><br>коробок</span><br>
-                    <span class="b-infographic">+ стеллажисамый большой перевозимый нами архив</span>
-                </p>
             </div>
         </div>
     </div>
