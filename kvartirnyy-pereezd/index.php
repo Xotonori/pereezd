@@ -244,8 +244,8 @@
         <div class="row">
             <div class="col-xl-4">
                 <!--////one-room///////////////////////////////////////////////////////////////////////////////////-->
-                <div class="bd-example one-room-apartment apartment">
-                    <div id="oneRoomCaption1" class="carousel slide" data-ride="carousel">
+                <div class="bd-example one-room-apartment">
+                    <div id="oneRoomCaption1" class="carousel slide offer" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#oneRoomCaption1" data-slide-to="0" class="active"></li>
                             <li data-target="#oneRoomCaption1" data-slide-to="1"></li>
@@ -385,8 +385,8 @@
             </div>
             <div class="col-xl-4">
                 <!--////two-room///////////////////////////////////////////////////////////////////////////////////-->
-                <div class="bd-example two-room-apartment apartment">
-                    <div id="twoRoomCaption1" class="carousel slide" data-ride="carousel">
+                <div class="bd-example two-room-apartment">
+                    <div id="twoRoomCaption1" class="carousel slide offer" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#twoRoomCaption1" data-slide-to="0" class="active"></li>
                             <li data-target="#twoRoomCaption1" data-slide-to="1"></li>
@@ -526,8 +526,8 @@
             </div>
             <div class="col-xl-4">
                 <!--////three-room///////////////////////////////////////////////////////////////////////////////////-->
-                <div class="bd-example three-room-apartment apartment">
-                    <div id="threeRoomCaption1" class="carousel slide" data-ride="carousel">
+                <div class="bd-example three-room-apartment">
+                    <div id="threeRoomCaption1" class="carousel slide offer" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#threeRoomCaption1" data-slide-to="0" class="active"></li>
                             <li data-target="#threeRoomCaption1" data-slide-to="1"></li>
@@ -826,7 +826,7 @@
                     <img src="/images/recom1.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Синюгин Константин</h5>
-                        <p class="text-left">
+                        <p class="text-left text-lg-center">
                             В первый раз заказывал у вас переезд на другую квартиру. Отличная служба! Всё сделали быстро, аккуратно, культурно. Точно назвали цену, условия оплаты и какое время потребуется на переезд моей трехкомнатной квартиры по городу. В общем, всё отлично.
                         </p>
                         <div class="transportation-parameters">
@@ -861,7 +861,7 @@
                     <img src="/images/recom2.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Баранов С.В.</h5>
-                        <p class="text-left">
+                        <p class="text-left text-lg-center">
                             Обратились в вашу компанию «Переезд без хлопот» по рекомендации друзей. Занялись ремонтом в квартире, решили заказать вывоз мебели. Все хорошо. Все понравилось.
                         </p>
                         <div class="transportation-parameters">
@@ -896,7 +896,7 @@
                     <img src="/images/recom3.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Полозова И.С.</h5>
-                        <p class="text-left">
+                        <p class="text-left text-lg-center">
                             Я офисный сотрудник. Работы много и нет времени на самостоятельный переезд. Нашла вас, изучая частные объявления в сети. Приехали ребята, собрали всю мою мебель и перевезли. Я довольна как прошел квартирный переезд, рекомендую обращаться. Здесь фиксированный прайс, лучшие грузчики и водители!
                         </p>
                         <div class="transportation-parameters">
@@ -1160,217 +1160,57 @@
     <div class="container client-reviews">
         <div class="row">
             <div class="carousel-container mx-auto">
-                <!--modal-review-1-->
-                <div class="modal fade" id="review-1" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo1.jpg" alt="Фото 1">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/modal-review-1-->
-                <!--modal-review-2-->
-                <div class="modal fade" id="review-2" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo2.jpg" alt="Фото 2">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/modal-review-2-->
-                <!--modal-review-3-->
-                <div class="modal fade" id="review-3" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo3.jpg" alt="Фото 3">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/modal-review-3-->
-                <!--modal-review-4-->
-                <div class="modal fade" id="review-4" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo4.jpg" alt="Фото 4">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/modal-review-4-->
-                <!--modal-review-5-->
-                <div class="modal fade" id="review-5" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo5.jpg" alt="Фото 5">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/modal-review-5-->
-                <!--modal-review-6-->
-                <div class="modal fade" id="review-6" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo6.jpg" alt="Фото 6">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/modal-review-6-->
-                <!--modal-review-7-->
-                <div class="modal fade" id="review-7" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo7.jpg" alt="Фото 7">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/modal-review-7-->
-                <!--modal-review-8-->
-                <div class="modal fade" id="review-8" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo8.jpg" alt="Фото 8">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/modal-review-8-->
-                <!--modal-review-9-->
-                <div class="modal fade" id="review-9" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo9.jpg" alt="Фото 9">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/modal-review-9-->
-                <!--modal-review-10-->
-                <div class="modal fade" id="review-10" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="review-full-img">
-                                    <img class="d-block" src="/images/kvartirnyy-pereezd/photo10.jpg" alt="Фото 10">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/modal-review-10-->
                 <div id="client-reviews" class="carousel slide mx-auto mt-4 mb-4">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo1.jpg" alt="Фото 1" data-toggle="modal" data-target="#review-1">
+                            <a href="/images/kvartirnyy-pereezd/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo1.jpg" alt="Фото 1">
+                            </a>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo2.jpg" alt="Фото 2" data-toggle="modal" data-target="#review-2">
+                            <a href="/images/kvartirnyy-pereezd/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo2.jpg" alt="Фото 2">
+                            </a>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo3.jpg" alt="Фото 3" data-toggle="modal" data-target="#review-3">
+                            <a href="/images/kvartirnyy-pereezd/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo3.jpg" alt="Фото 3">
+                            </a>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo4.jpg" alt="Фото 4" data-toggle="modal" data-target="#review-4">
+                            <a href="/images/kvartirnyy-pereezd/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo4.jpg" alt="Фото 4">
+                            </a>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo5.jpg" alt="Фото 5" data-toggle="modal" data-target="#review-5">
+                            <a href="/images/kvartirnyy-pereezd/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo5.jpg" alt="Фото 5">
+                            </a>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo6.jpg" alt="Фото 6" data-toggle="modal" data-target="#review-6">
+                            <a href="/images/kvartirnyy-pereezd/photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo6.jpg" alt="Фото 6">
+                            </a>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo7.jpg" alt="Фото 7" data-toggle="modal" data-target="#review-7">
+                            <a href="/images/kvartirnyy-pereezd/photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo7.jpg" alt="Фото 7">
+                            </a>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo8.jpg" alt="Фото 8" data-toggle="modal" data-target="#review-8">
+                            <a href="/images/kvartirnyy-pereezd/photo8.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo8.jpg" alt="Фото 8">
+                            </a>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo9.jpg" alt="Фото 9" data-toggle="modal" data-target="#review-9">
+                            <a href="/images/kvartirnyy-pereezd/photo9.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo9.jpg" alt="Фото 9">
+                            </a>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="/images/kvartirnyy-pereezd/photo10.jpg" alt="Фото 10" data-toggle="modal" data-target="#review-10">
+                            <a href="/images/kvartirnyy-pereezd/photo10.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo10.jpg" alt="Фото 10">
+                            </a>
                         </div>
                     </div>
                     <ol class="carousel-indicators mx-auto">

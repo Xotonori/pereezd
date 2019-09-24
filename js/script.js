@@ -34,6 +34,11 @@ $(document).ready(function () {
     $('.carousel').carousel({
         touch: true
     });
+
+    $(document).on("click", '[data-toggle="lightbox"]', function(event) {
+        event.preventDefault();
+        $(this).ekkoLightbox();
+    });
 });
 
 //Check submit/////////////////////////////////////////////////////////////////////////////////////////////
