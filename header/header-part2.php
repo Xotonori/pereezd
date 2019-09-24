@@ -70,7 +70,7 @@
                                             <a class="nav-link text-center" href="/pereezd_magazina">Переезд магазина</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Переезд предприятия</a>
+                                            <a class="nav-link text-center" href="/pereezd-predpriyatiya">Переезд предприятия</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Переезд завода</a>
