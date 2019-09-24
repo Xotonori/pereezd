@@ -826,7 +826,7 @@
                     <img src="/images/recom1.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Синюгин Константин</h5>
-                        <p class="text-left">
+                        <p class="text-left text-lg-center">
                             В первый раз заказывал у вас переезд на другую квартиру. Отличная служба! Всё сделали быстро, аккуратно, культурно. Точно назвали цену, условия оплаты и какое время потребуется на переезд моей трехкомнатной квартиры по городу. В общем, всё отлично.
                         </p>
                         <div class="transportation-parameters">
@@ -861,7 +861,7 @@
                     <img src="/images/recom2.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Баранов С.В.</h5>
-                        <p class="text-left">
+                        <p class="text-left text-lg-center">
                             Обратились в вашу компанию «Переезд без хлопот» по рекомендации друзей. Занялись ремонтом в квартире, решили заказать вывоз мебели. Все хорошо. Все понравилось.
                         </p>
                         <div class="transportation-parameters">
@@ -896,7 +896,7 @@
                     <img src="/images/recom3.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Полозова И.С.</h5>
-                        <p class="text-left">
+                        <p class="text-left text-lg-center">
                             Я офисный сотрудник. Работы много и нет времени на самостоятельный переезд. Нашла вас, изучая частные объявления в сети. Приехали ребята, собрали всю мою мебель и перевезли. Я довольна как прошел квартирный переезд, рекомендую обращаться. Здесь фиксированный прайс, лучшие грузчики и водители!
                         </p>
                         <div class="transportation-parameters">

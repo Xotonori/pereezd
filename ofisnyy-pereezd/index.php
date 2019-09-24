@@ -1,6 +1,5 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
 <meta name="description" itemprop="description" content="Офисный Переезд Без Хлопот в Санкт-Петербурге станет для вас быстрым, удобным и легким процессом с нашей компанией! Заказывайте переезд офиса на выгодных" />
-
 <meta name="keywords" itemprop="keywords" content="офисный переезд,переезд офиса,недорого,спб,санкт-петербург,перевозка  офиса,цена,заказать,стоимость,услуга" />
 <title>Офисный переезд в Санкт-Петербурге, переезд офиса недорого, перевозка офисов в СПБ</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/ofisnyy-pereezd/"/>
@@ -598,7 +597,7 @@
                     <img src="/images/ofisnyy-pereezd/libher.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Коновалов Е.А.<br><small>Начальник отдела</small></h5>
-                        <p class="text-left">
+                        <p class="text-left text-lg-center">
                             Все работы были выполнены профессионально, на высоком уровне и в оговоренные сроки. Сотрудники компании компетентны и вежливы, ни один предмет при переезде офиса не пострадал.
                         </p>
                         <a href="/images/client-reviews/84882121_199.jpg" data-toggle="lightbox" data-gallery="gallery">посмотреть отзыв</a>
@@ -607,8 +606,8 @@
                 <div class="carousel-item">
                     <img src="/images/ofisnyy-pereezd/megafon.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Калугин А.И.</h5><br><small>Административный директор</small></h5>
-                        <p class="text-left">
+                        <h5>Калугин А.И.<br><small>Административный директор</small></h5>
+                        <p class="text-left text-lg-center">
                             ОАО "Мегафон Ритейл" в лице административного директора Калугина А.И. выражает благодарность ООО "Трансдокер" за организацию переезда нашей компании.
                         </p>
                         <a href="/images/client-reviews/Megafon_212.jpg" data-toggle="lightbox" data-gallery="gallery">посмотреть отзыв</a>
@@ -617,8 +616,8 @@
                 <div class="carousel-item">
                     <img src="/images/ofisnyy-pereezd/casamia.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Кормилина Н.А.</h5><br><small>Директор по персоналу</small></h5>
-                        <p class="text-left">
+                        <h5>Кормилина Н.А.<br><small>Директор по персоналу</small></h5>
+                        <p class="text-left text-lg-center">
                             ООО «КазаМиа» в лице директора по персоналу Кормилиной Н.А. выражает благодарность ООО «Трансдокер» за качественную работу по организации переезда нашего офиса.
                         </p>
                         <a href="/images/client-reviews/Kaza_Mia_214.jpg" data-toggle="lightbox" data-gallery="gallery">посмотреть отзыв</a>
@@ -627,8 +626,8 @@
                 <div class="carousel-item">
                     <img src="/images/ofisnyy-pereezd/raskom.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Ганза Д.А.</h5><br><small>Директор Дирекции по продажам</small></h5>
-                        <p class="text-left">
+                        <h5>Ганза Д.А.<br><small>Директор Дирекции по продажам</small></h5>
+                        <p class="text-left text-lg-center">
                             ЗАО «РАСКОМ» выражает Вам свое почтение и благодарность за отличную организацию и оказание услуг по переезду офиса.
                         </p>
                         <a href="/images/client-reviews/Raskom_216.jpg" data-toggle="lightbox" data-gallery="gallery">посмотреть отзыв</a>
@@ -637,8 +636,8 @@
                 <div class="carousel-item">
                     <img src="/images/ofisnyy-pereezd/mobius.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Харченко Н.А.</h5><br><small>Генеральный директор</small></h5>
-                        <p class="text-left">
+                        <h5>Харченко Н.А.<br><small>Генеральный директор</small></h5>
+                        <p class="text-left text-lg-center">
                             Компания "Переезд без хлопот" все очень быстро оценили, организовали и переезд превратился из "второго пожара" в приятные хлопоты. Рады, что заказали услуги именно у вас.
                         </p>
                         <a href="/images/client-reviews/MOBIUS_220.jpg" data-toggle="lightbox" data-gallery="gallery">посмотреть отзыв</a>
@@ -647,8 +646,8 @@
                 <div class="carousel-item">
                     <img src="/images/ofisnyy-pereezd/ghelamco.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Стивен Уилсон</h5><br><small>Генеральный директор</small></h5>
-                        <p class="text-left">
+                        <h5>Стивен Уилсон<br><small>Генеральный директор</small></h5>
+                        <p class="text-left text-lg-center">
                             Компания Геламко в процессе переезда в новый офис сотрудничала с компанией ООО "Трансдокер" и выражает ей благодарность за осуществление переезда под ключ в максимально короткий срок.
                         </p>
                         <a href="/images/client-reviews/Gelamko_205.jpg" data-toggle="lightbox" data-gallery="gallery">посмотреть отзыв</a>

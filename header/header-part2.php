@@ -64,7 +64,7 @@
                                             <a class="nav-link text-center" href="/kvartirnyy-pereezd">Переезд квартиры</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Переезд склада</a>
+                                            <a class="nav-link text-center" href="/pereezd-sklada">Переезд склада</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Переезд магазина</a>
