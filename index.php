@@ -1005,6 +1005,7 @@
     </div>
     <!--////RECOMMENDATION/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="container-fluid client-reviews recommendation mt-5">
+        <h2 class="_header-3 mb-5 text-center"><span class="important">Нас</span> рекомендуют</h2>
         <div class="row">
             <div class="carousel-container mx-auto">
                 <!--modal-recom-1-->
