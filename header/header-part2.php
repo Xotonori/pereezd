@@ -82,7 +82,7 @@
                                             <a class="nav-link text-center" href="/pereezd-banka">Переезд банка</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Пререзды по области</a>
+                                            <a class="nav-link text-center" href="/pereezd-po-oblasti">Пререзды по области</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Междугородний переезд</a>
