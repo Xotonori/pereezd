@@ -13,7 +13,6 @@
 
 
 <main class="vsevologsk">
-
     <!--////PAGE-DESCRIPTION///////////////////////////////////////////////////////////////////////////////////////-->
     <div class="js-long-text container">
         <div class="row">
