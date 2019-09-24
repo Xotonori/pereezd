@@ -76,7 +76,7 @@
                                             <a class="nav-link text-center" href="/pereezd-zavoda">Переезд завода</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Переезд выставки</a>
+                                            <a class="nav-link text-center" href="/pereezd-vystavki">Переезд выставки</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Переезд банка</a>

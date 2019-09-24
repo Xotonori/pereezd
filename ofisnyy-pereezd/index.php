@@ -501,6 +501,7 @@
             </div>
         </div>
     </div>
+
     <!--////QUESTION/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="person-page">
         <div class="container-fluid header-main-theme person-page-price">
@@ -575,6 +576,7 @@
             </div>
         </div>
     </div>
+
     <!--////RECOMMENDATION/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="recommendation container">
         <div class="row d-flex justify-content-center">
