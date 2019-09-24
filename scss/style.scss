@@ -647,18 +647,30 @@ body {
     @extend %font-size18;
   }
 
+  .offer {
+    margin: 0 auto;
+    padding: 35px 0;
+    max-width: 320px;
 
-  .apartment, .video {
-    .carousel {
-      margin: 0 15px;
-      padding: 35px 0;
-      @extend %shadow-block1;
-    }
+    @extend %shadow-block1;
 
-    .carousel-caption {
-      h5 {
-        color: #000;
+    .offer-content {
+      padding: 20px;
+
+      .paragraph {
+        padding: 0;
       }
+
+      .important-text-blue1 {
+        text-align: center;
+      }
+    }
+  }
+
+  .offer, .video {
+    h5 {
+      color: #000;
+      text-align: center;
     }
 
     img {
@@ -798,7 +810,7 @@ body {
         position: absolute;
         right:0;
         left:0;
-        top: -210px;
+        bottom: 100%;
       }
 
       ._header-6 {
@@ -1081,9 +1093,6 @@ body {
     }
 
     .person-page-call {
-      .man {
-        top: -218px;
-      }
 
       .double-quotes {
         top: 30%;
