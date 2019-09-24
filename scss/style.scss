@@ -1322,6 +1322,37 @@ body {
   }
 
 
+  .wrap-range-of-services {
+
+    .range-of-services {
+      padding: 10px;
+
+      .check-mark {
+        margin-right: 20px;
+      }
+    }
+  }
+
+  .wrap-kv-gorod {
+    .red-bold {
+      @extend %font-size24;
+    }
+  }
+
+  .check-mark>img {
+    height: 30px !important;
+  }
+
+  .vsevologsk {
+     ._call-to-action {
+       height: auto;
+     }
+
+    .big-red:hover {
+      text-decoration: none;
+      color: #ff0000;
+    }
+  }
 
 
 
