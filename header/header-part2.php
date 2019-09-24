@@ -73,7 +73,7 @@
                                             <a class="nav-link text-center" href="/pereezd-predpriyatiya">Переезд предприятия</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Переезд завода</a>
+                                            <a class="nav-link text-center" href="/pereezd-zavoda">Переезд завода</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Переезд выставки</a>
