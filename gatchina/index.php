@@ -35,7 +35,7 @@
                         <img src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
-                        Переезд квартиры и офиса во Гатчина и за его пределы
+                        Переезд квартиры и офиса в Гатчина и за его пределы
                     </div>
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
