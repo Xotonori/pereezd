@@ -161,10 +161,10 @@
                                             <a class="nav-link text-center" href="/gazel-dlya-pereezda">Заказать Газель</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Экспедирование грузов</a>
+                                            <a class="nav-link text-center" href="/expedirovanie-gruzov">Экспедирование грузов</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Попутный груз</a>
+                                            <a class="nav-link text-center" href="/poputniy-gruz">Попутный груз</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Перевозка дивана</a>
