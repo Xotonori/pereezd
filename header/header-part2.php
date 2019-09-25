@@ -213,25 +213,25 @@
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Временное хранение</a>
+                                            <a class="nav-link text-center" href="/vremennoe-hranenie">Временное хранение</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Хранение вещей</a>
+                                            <a class="nav-link text-center" href="/vremennoe-hranenie-veschey">Хранение вещей</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Хранение мебели</a>
+                                            <a class="nav-link text-center" href="/hranenie-mebeli">Хранение мебели</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Хранение на время ремонта</a>
+                                            <a class="nav-link text-center" href="/hranenie-na-vremya-remonta">Хранение на время ремонта</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Хранение на время переезда</a>
+                                            <a class="nav-link text-center" href="/hranenie-na-vremya-pereezda">Хранение на время переезда</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Наши склады</a>
+                                            <a class="nav-link text-center" href="/skladi">Наши склады</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Индивидуальное хранение</a>
+                                            <a class="nav-link text-center" href="/individualnoe-hranenie">Индивидуальное хранение</a>
                                         </li>
                                     </ul>
                                 </div>
