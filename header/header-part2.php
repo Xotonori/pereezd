@@ -117,7 +117,7 @@
                                             <a class="nav-link text-center" href="/sborka_i_razborka_mebeli">Сборка и разборка мебели</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Разгрузка фур</a>
+                                            <a class="nav-link text-center" href="/razgruzka_fur/">Разгрузка фур</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Перестановка мебели</a>
