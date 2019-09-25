@@ -88,7 +88,7 @@
                                             <a class="nav-link text-center" href="/pereezd-mezhgorod">Междугородний переезд</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Дачный переезд</a>
+                                            <a class="nav-link text-center" href="/dachnyy-pereezd">Дачный переезд</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Эконом переезд</a>
