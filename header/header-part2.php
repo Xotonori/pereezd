@@ -94,7 +94,7 @@
                                             <a class="nav-link text-center" href="/pereezd-deshevo">Эконом переезд</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">VIP переезд</a>
+                                            <a class="nav-link text-center" href="/vip-pereezd">VIP переезд</a>
                                         </li>
                                     </ul>
                                 </div>
