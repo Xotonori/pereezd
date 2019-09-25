@@ -146,7 +146,7 @@
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Перевозка мебели</a>
+                                            <a class="nav-link text-center" href="/perevozka-mebeli">Перевозка мебели</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Перевозка бытовой техники</a>
