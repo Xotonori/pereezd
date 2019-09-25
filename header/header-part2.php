@@ -126,7 +126,7 @@
                                             <a class="nav-link text-center" href="/pereezd-s-gruzchikami">Переезд с грузчиками</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Квартирный переезд с грузчиками</a>
+                                            <a class="nav-link text-center" href="/kvartirniy_pereezd_s_gruzchikami">Квартирный переезд с грузчиками</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Вынос строительного мусора</a>
