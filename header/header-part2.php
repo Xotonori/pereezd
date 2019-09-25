@@ -120,7 +120,7 @@
                                             <a class="nav-link text-center" href="/razgruzka_fur/">Разгрузка фур</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Перестановка мебели</a>
+                                            <a class="nav-link text-center" href="/perestanovka-mebeli">Перестановка мебели</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Переезд с грузчиками</a>
