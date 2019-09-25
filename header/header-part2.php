@@ -155,7 +155,7 @@
                                             <a class="nav-link text-center" href="/perevozka-veshej">Перевозка личных вещей</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Вывоз старой мебели</a>
+                                            <a class="nav-link text-center" href="/utilizatsiya-mebeli">Вывоз старой мебели</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Заказать Газель</a>
