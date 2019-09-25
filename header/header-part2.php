@@ -158,7 +158,7 @@
                                             <a class="nav-link text-center" href="/utilizatsiya-mebeli">Вывоз старой мебели</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Заказать Газель</a>
+                                            <a class="nav-link text-center" href="/gazel-dlya-pereezda">Заказать Газель</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Экспедирование грузов</a>
