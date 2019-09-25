@@ -167,7 +167,7 @@
                                             <a class="nav-link text-center" href="/poputniy-gruz">Попутный груз</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Перевозка дивана</a>
+                                            <a class="nav-link text-center" href="/perevozka-divana">Перевозка дивана</a>
                                         </li>
                                     </ul>
                                 </div>
