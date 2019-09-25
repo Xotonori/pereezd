@@ -105,16 +105,16 @@
                                     data-toggle="collapse" data-target="#loaders"
                                     aria-controls="wrap-loaders" aria-expanded="false"
                                     aria-label="Toggle navigation">
-                                    <a class="nav-link text-center" href="/loaders">Грузчики</a>
+                                    <a class="nav-link text-center" href="#">Грузчики</a>
                                 </li>
                                 <div class="collapse navbar-collapse wrap-loaders" id="loaders">
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Услуги грузчиков</a>
+                                            <a class="nav-link text-center" href="/loaders">Услуги грузчиков</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Сборка и разборка мебели</a>
+                                            <a class="nav-link text-center" href="/sborka_i_razborka_mebeli">Сборка и разборка мебели</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Разгрузка фур</a>
