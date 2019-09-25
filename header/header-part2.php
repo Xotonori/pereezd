@@ -91,7 +91,7 @@
                                             <a class="nav-link text-center" href="/dachnyy-pereezd">Дачный переезд</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Эконом переезд</a>
+                                            <a class="nav-link text-center" href="/pereezd-deshevo">Эконом переезд</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">VIP переезд</a>
