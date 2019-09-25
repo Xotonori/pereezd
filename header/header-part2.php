@@ -105,7 +105,7 @@
                                     data-toggle="collapse" data-target="#loaders"
                                     aria-controls="wrap-loaders" aria-expanded="false"
                                     aria-label="Toggle navigation">
-                                    <a class="nav-link text-center" href="#">Грузчики</a>
+                                    <a class="nav-link text-center" href="/loaders">Грузчики</a>
                                 </li>
                                 <div class="collapse navbar-collapse wrap-loaders" id="loaders">
                                     <!-- Links -->
