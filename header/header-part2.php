@@ -152,7 +152,7 @@
                                             <a class="nav-link text-center" href="/perevozka-bytovoy-tekhniki">Перевозка бытовой техники</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Перевозка личных вещей</a>
+                                            <a class="nav-link text-center" href="/perevozka-veshej">Перевозка личных вещей</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Вывоз старой мебели</a>
