@@ -201,7 +201,6 @@
                 </div>
             </div>
         </div>
-
         <p class="_header-3 text-center">Фото</p>
         <div class="container client-reviews">
             <div class="row">
@@ -275,12 +274,6 @@
                 </div>
             </div>
         </div>
-
-
-
-
-
-
     </div>
 </main>
 
