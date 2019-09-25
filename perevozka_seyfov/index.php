@@ -10,7 +10,7 @@
 <h1>Перевозка сейфов</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
-<main class="perevozka-royalya">
+<main class="perevozka_seyfov">
     <div class="container">
         <div class="row d-flex justify-content-center mt-5">
             <div class="col-11 js-long-text container how-much-description">
