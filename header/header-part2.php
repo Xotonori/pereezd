@@ -123,7 +123,7 @@
                                             <a class="nav-link text-center" href="/perestanovka-mebeli">Перестановка мебели</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Переезд с грузчиками</a>
+                                            <a class="nav-link text-center" href="/pereezd-s-gruzchikami">Переезд с грузчиками</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Квартирный переезд с грузчиками</a>
