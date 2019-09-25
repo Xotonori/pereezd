@@ -141,7 +141,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img src="/images/belive1.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Доступные цены на квартирные переезды по Санкт-Петербургу</p>
+                        <p class="h-hint col-12 text-center">Доступные цены на квартирные переезды по Пушкину</p>
                         <p class="hint col-12 text-center">Мы покупаем упаковку оптовыми партиями, используем машины из
                             автопарка компании и не допускаем лишних расходов. У нас – дешевле!</p>
                     </div>
