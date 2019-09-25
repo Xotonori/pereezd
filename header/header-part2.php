@@ -184,19 +184,19 @@
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Такелажные работы</a>
+                                            <a class="nav-link text-center" href="/takelaj">Такелажные работы</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Перевозка пианино</a>
+                                            <a class="nav-link text-center" href="/perevozka_pianino">Перевозка пианино</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Перевозка рояля</a>
+                                            <a class="nav-link text-center" href="/perevozka-royalya">Перевозка рояля</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Перевозка сейфов</a>
+                                            <a class="nav-link text-center" href="/perevozka_seyfov">Перевозка сейфов</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Перевозка банкоматов</a>
+                                            <a class="nav-link text-center" href="/perevozka-bankomatov">Перевозка банкоматов</a>
                                         </li>
                                     </ul>
                                 </div>
