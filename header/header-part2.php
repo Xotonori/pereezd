@@ -149,7 +149,7 @@
                                             <a class="nav-link text-center" href="/perevozka-mebeli">Перевозка мебели</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Перевозка бытовой техники</a>
+                                            <a class="nav-link text-center" href="/perevozka-bytovoy-tekhniki">Перевозка бытовой техники</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="#">Перевозка личных вещей</a>
