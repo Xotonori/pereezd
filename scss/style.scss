@@ -113,6 +113,10 @@ $number-color: #2698b5;
   font-size: .875rem;
 }
 
+%font-size13 {
+  font-size: .8125rem;
+}
+
 %_controls-v1 {
   height: 70px;
   top: 115px;
@@ -515,6 +519,11 @@ body {
 
   .red-bold {
     color: #ff0000;
+    font-weight: 600;
+  }
+
+  .main-blue-bold {
+    color: $main-blue;
     font-weight: 600;
   }
 
@@ -1376,6 +1385,21 @@ body {
   .skudki-na-vse {
     height: 213px;
   }
+
+  .packing-material {
+    padding: 0;
+    max-width: 232px;
+    border-top: 2px solid $main-blue;
+
+    img {
+      height: 220px;
+    }
+
+    .marker {
+      @extend %font-size13;
+    }
+  }
+
 }
 
 

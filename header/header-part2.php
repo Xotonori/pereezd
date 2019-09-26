@@ -129,7 +129,7 @@
                                             <a class="nav-link text-center" href="/kvartirniy_pereezd_s_gruzchikami">Квартирный переезд с грузчиками</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Вынос строительного мусора</a>
+                                            <a class="nav-link text-center" href="/utilizatsiya-musora">Вынос строительного мусора</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -248,19 +248,19 @@
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Упаковочные материалы</a>
+                                            <a class="nav-link text-center" href="/upakovochnye-materialy">Упаковочные материалы</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Стрейч пленка</a>
+                                            <a class="nav-link text-center" href="/streich-plenka">Стрейч пленка</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Воздушно-пузырчатая пленка</a>
+                                            <a class="nav-link text-center" href="/vozdushno-puzyrchataya-plenka">Воздушно-пузырчатая пленка</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Картонные коробки</a>
+                                            <a class="nav-link text-center" href="/kartonnye-korobki">Картонные коробки</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="#">Скотч упаковочный</a>
+                                            <a class="nav-link text-center" href="/skotch-upakovochnyj">Скотч упаковочный</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -289,16 +289,16 @@
                         <!-- Links -->
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item">
-                                <a class="nav-link text-center" href="#">Отзывы от физ.лиц</a>
+                                <a class="nav-link text-center" href="/individual_reference">Отзывы от физ.лиц</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link text-center" href="/reference">Отзывы от компаний</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-center" href="#">Видео отзывы</a>
+                                <a class="nav-link text-center" href="/video_reference">Видео отзывы</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-center" href="#">Благотворительность</a>
+                                <a class="nav-link text-center" href="/turnir-azbuki-sporta">Благотворительность</a>
                             </li>
                         </ul>
                     </div>
