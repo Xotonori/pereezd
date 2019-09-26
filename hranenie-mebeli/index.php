@@ -11,7 +11,7 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
 
-<main class="vremennoe-hranenie-veschey">
+<main class="hranenie-mebeli">
     <div class="container">
         <div class="row d-flex justify-content-center mt-5">
             <div class="col-11 js-long-text container how-much-description">
@@ -242,9 +242,6 @@
             </div>
         </div>
     </div>
-
-
-
 
 </main>
 
