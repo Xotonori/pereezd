@@ -37,7 +37,7 @@
                         и писем на <a href="mailto:info@pereezdy-spb.ru">info@pereezdy-spb.ru</a>.
                     </p>
                 </div>
-                <h2 class="text-center">Реквизиты организации</h2>
+                <h2 class="text-center mt-5"><span class="important">Реквизиты</span> организации</h2>
                 <p>
                     ИНН 7720582274<br>
                     КПП 771601001<br>

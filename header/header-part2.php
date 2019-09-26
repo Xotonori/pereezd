@@ -28,10 +28,10 @@
             <!-- Links -->
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link text-center" href="#">О компании</a>
+                    <a class="nav-link text-center" href="/about">О компании</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-center" href="#">Автопарк</a>
+                    <a class="nav-link text-center" href="/cars">Автопарк</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-center" href="/price">Цены</a>
@@ -306,7 +306,7 @@
                 <!--/ .Reviews--->
 
                 <li class="nav-item">
-                    <a class="nav-link text-center" href="#">Контакты</a>
+                    <a class="nav-link text-center" href="/contacts">Контакты</a>
                 </li>
             </ul>
             <!-- Links -->

@@ -15,7 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="_header-3">Калькулятор переезда</h2>
+                <h2 class="_header-3"><span class="important">Калькулятор</span> переезда</h2>
                 <div class="calculator-box entry-content">
                     <div id="wrapper">
                         <div class="toggle-menu"><span></span><span></span><span></span></div>

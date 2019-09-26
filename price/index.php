@@ -14,7 +14,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h2 class="_header-3">Примерные цены на офисный переезд «под ключ»</h2>
+                <h2 class="_header-3"><span class="important">Примерные цены</span> на офисный переезд «под ключ»</h2>
                 <div class="prices">
                     <table class="tariff">
                         <tbody>
@@ -47,7 +47,7 @@
                         </tbody>
                     </table>
                 </div>
-                <h3>Цены на квартирные переезды люкс «под ключ»</h3>
+                <h3 class="_header-3"><span class="important">Цены</span> на квартирные переезды <span class="important">люкс «под ключ»</span></h3>
                 <div class="prices">
                     <table class="tariff">
                         <tbody>
@@ -82,7 +82,7 @@
                         </tbody>
                     </table>
                 </div>
-                <h3>Тарифы на услуги грузчиков</h3>
+                <h3 class="_header-3"><span class="important">Тарифы</span> на услуги грузчиков</h3>
                 <div class="prices">
                     <table class="tariff">
                         <tbody>
@@ -108,7 +108,7 @@
                         </tbody>
                     </table>
                 </div>
-                <h3>Тарифы на грузоперевозки по Санкт-Петербургу и области</h3>
+                <h3 class="_header-3"><span class="important">Тарифы</span> на грузоперевозки по <span class="important">Санкт-Петербургу и области</span></h3>
                 <div class="prices">
                     <table class="tariff">
                         <tbody>

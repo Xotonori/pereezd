@@ -33,17 +33,17 @@
             <div class="gradient"></div>
             <div class="container">
                 <div class="row footer-pages">
-                    <a href="#" class="col-lg-2 text-center">О компании</a>
-                    <a href="#" class="col-lg-2 text-center">Автопарк</a>
+                    <a href="/about" class="col-lg-2 text-center">О компании</a>
+                    <a href="/cars" class="col-lg-2 text-center">Автопарк</a>
                     <a href="/articles" class="col-lg-2 text-center">Статьи</a>
-                    <a href="#" class="col-lg-2 text-center">Цены</a>
-                    <a href="#" class="col-lg-2 text-center">Склады</a>
-                    <a href="#" class="col-lg-2 text-center">Контакты</a>
+                    <a href="/price" class="col-lg-2 text-center">Цены</a>
+                    <a href="/skladi" class="col-lg-2 text-center">Склады</a>
+                    <a href="/contacts" class="col-lg-2 text-center">Контакты</a>
                 </div>
                 <div class="row footer-documents">
                     <a href="tel:+78129828858" class="bottom-footer-phone col-lg-4 text-lg-left text-center">+7 (812) 982-88-58</a>
-                    <a href="#" class="agreement col-lg-4 text-center">Пользовательское соглашение</a>
-                    <a href="#" class="personal-data col-lg-4 text-center">Соглашение на обработку персональный данных</a>
+                    <a href="/images/sbor_dannih.pdf" class="agreement col-lg-4 text-center">Пользовательское соглашение</a>
+                    <a href="/images/soglasie_na_sbor_dannih.pdf" class="personal-data col-lg-4 text-center">Соглашение на обработку персональный данных</a>
                 </div>
             </div>
         </div>
