@@ -234,7 +234,7 @@
 
         <div class="row">
             <div class="col-12 text-center mb-4">
-                <h2 class="_header-3">Местоположение нашего<span class="important">склада</span></h2>
+                <h2 class="_header-3">Местоположение нашего <span class="important">склада</span></h2>
             </div>
             <div class="w-100 d-flex justify-content-center">
                 <div class="centruem sklad">

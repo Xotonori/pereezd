@@ -234,7 +234,7 @@
 
         <div class="row">
             <div class="col-12 text-center mb-4">
-                <h2 class="_header-3">Местоположение нашего<span class="important">склада</span></h2>
+                <h2 class="_header-3">Местоположение нашего <span class="important">склада</span></h2>
             </div>
             <div class="w-100 d-flex justify-content-center">
                 <div class="centruem sklad">
@@ -331,52 +331,52 @@
                     <div id="client-reviews" class="carousel slide mx-auto mt-4 mb-4">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <a href="/images/perevozka_pianino/piano1.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <a href="/images/vremennoe-hranenie-veschey/vrv1.jpg" data-toggle="lightbox" data-gallery="review-photo">
                                     <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv1.jpg" alt="Фото 1">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="/images/perevozka_pianino/piano2.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <a href="/images/vremennoe-hranenie-veschey/vrv2.jpg" data-toggle="lightbox" data-gallery="review-photo">
                                     <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv2.jpg" alt="Фото 2">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="/images/perevozka_pianino/piano3.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <a href="/images/vremennoe-hranenie-veschey/vrv3.jpg" data-toggle="lightbox" data-gallery="review-photo">
                                     <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv3.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="/images/perevozka_pianino/piano4.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <a href="/images/vremennoe-hranenie-veschey/vrv4.jpg" data-toggle="lightbox" data-gallery="review-photo">
                                     <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv4.jpg" alt="Фото 4">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="/images/perevozka_pianino/piano5.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <a href="/images/vremennoe-hranenie-veschey/vrv5.jpg" data-toggle="lightbox" data-gallery="review-photo">
                                     <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv5.jpg" alt="Фото 5">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="/images/perevozka_pianino/piano6.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <a href="/images/vremennoe-hranenie-veschey/vrv6.jpg" data-toggle="lightbox" data-gallery="review-photo">
                                     <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv6.jpg" alt="Фото 6">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="/images/perevozka_pianino/piano7.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <a href="/images/vremennoe-hranenie-veschey/vrv7.jpg" data-toggle="lightbox" data-gallery="review-photo">
                                     <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv7.jpg" alt="Фото 7">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="/images/perevozka_pianino/piano8.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <a href="/images/vremennoe-hranenie-veschey/vrv8.jpg" data-toggle="lightbox" data-gallery="review-photo">
                                     <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv8.jpg" alt="Фото 8">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="/images/perevozka_pianino/piano9.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <a href="/images/vremennoe-hranenie-veschey/vrv9.jpg" data-toggle="lightbox" data-gallery="review-photo">
                                     <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv9.jpg" alt="Фото 9">
                                 </a>
                             </div>
                             <div class="carousel-item">
-                                <a href="/images/perevozka_pianino/piano10.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <a href="/images/vremennoe-hranenie-veschey/vrv10.jpg" data-toggle="lightbox" data-gallery="review-photo">
                                     <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv10.jpg" alt="Фото 10">
                                 </a>
                             </div>
