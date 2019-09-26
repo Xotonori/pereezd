@@ -1,26 +1,26 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
-<meta name="description" itemprop="description" content="Переезд Без Хлопот в Санкт-Петербурге оказывает услуги хранения мебели и вещей на время ремонта"/>
+<meta name="description" itemprop="description" content="Переезд Без Хлопот в Санкт-Петербурге оказывает услуги хранения мебели и вещей на время переезда."/>
 <meta name="keywords" itemprop="keywords" content="хранение мебели на время ремонта вещей санкт-петербург" />
-<title>Хранение мебели на время ремонта, хранение вещей на время ремонта в Санкт-Петербурге</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/hranenie-na-vremya-remonta"/>
+<title>Хранение мебели на время переезда, хранение вещей на время переезда в Санкт-Петербурге</title>
+<link rel="canonical" href="https://pereezdy-spb.ru/hranenie-na-vremya-pereezda"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
-<h1>Хранение на время ремонта</h1>
+<h1>Хранение на время переезда</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
-<main class="hranenie-na-vremya-remonta">
+<main class="hranenie-na-vremya-pereezda">
     <div class="container">
         <div class="row d-flex justify-content-center mt-5 mb-5">
             <div class="col-11 js-long-text container how-much-description">
                 <div class="row">
                     <div class="col-12 paragraph pt-0">
                         <p>
-                            Хранение на время ремонта можно заказать, как в срочном, так и в плановом порядке.
+                            Хранение на время переезда можно заказать, как в срочном, так и в плановом порядке.
                         </p>
                         <p>
-                            Одна из основных проблем во время ремонта — как быть с мебелью и прочими вещами? Работать в комнате, заставленной мебелью, попросту невозможно, а, постоянно перетаскивая вещи с места на место, вы испачкаете и испортите их. Предлагаем воспользоваться услугой хранение на время ремонта в Санкт-Петербурге.Наши склады расположены в разных частях города, и мы подберём для ваших вещей модуль нужной площади на ближайшем из них.Мы возьмём на себя вывоз и хранение мебели на время ремонта, и вам не придётся беспокоиться о сохранности своих вещей!
+                            Переезд с места на место всегда связан с немалыми хлопотами. По тем или иным причинам зачастую возникает необходимость оставить где-то мебель на время. Самый простой способ решения проблемы — заказать услугу вывоз и хранение мебели на время переезда. Ваша мебель и личные вещи будут надёжно сохранены столь долго, сколько вам понадобится. Хранение на время переезда в Санкт-Петербурге на одном из наших складов поможет вам без спешки подготовить новую квартиру, и в нужный момент мы привезём мебель на новое место. Склады расположены в разных концах города, и мы выберем ближайший, чтобы не тратить лишнее время на перевозку.
                         </p>
                     </div>
                     <div class="col d-flex justify-content-end">
@@ -40,6 +40,7 @@
         </div>
 
         <div class="row d-flex justify-content-center">
+
             <div class="col-11 js-long-text container how-much-description mb-5">
                 <div class="row">
                     <div class="col-12 text-center mb-4">
@@ -47,7 +48,7 @@
                     </div>
                     <div class="col-12 paragraph pt-0">
                         <p>
-                            Хранение на время ремонта подразумевает складирование на оговоренный срок в модулях различной площади. Модули находятся внутри отапливаемых складов или на открытых площадках. Мы подберём наиболее подходящий модуль, соответствующий вашим пожеланиям и требованиям к условиям хранения вещей. На наших складах ваши личные вещи будут надёжно защищены от каких-либо неприятностей. Цены на хранение мебели и вещей на время ремонта зависят от площади выбранного модуля и срока аренды.
+                            Заказывая хранение мебели и вещей на время переезда, вы можете быть уверены в их полной сохранности и безопасности. Вещи будут упакованы и сложены в модуль подходящего размера. Модули для хранения имеют различную площадь и находятся в отапливаемых складских помещениях или на открытых охраняемых площадках. Мы подберём модуль, полностью отвечающий вашим требованиям относительно условий хранения вещей. Стоимость услуги зависит от фактически занимаемой площади и срока аренды
                         </p>
                     </div>
                     <div class="col d-flex justify-content-end">
@@ -116,7 +117,7 @@
         <div class="container wrap-benefits">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="_header-3">Почему <span class="important">клиенты</span> обращаются к нам</h2>
+                    <h2 class="_header-3">Нам можно <span class="important">доверить</span> хранение вещей!</h2>
                 </div>
             </div>
             <div class="row">
@@ -125,8 +126,10 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img src="/images/belive1.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Доступные цены</p>
-                        <p class="hint col-12 text-center">Временное хранение мебели на время ремонта не потребует существенных затрат. Мы используем собственные площади, и стоимость услуг минимальна</p>
+                        <p class="h-hint col-12 text-center">Низкая стоимость</p>
+                        <p class="hint col-12 text-center">
+                            Мы понимаем, что смена места жительства и без того требует финансовых затрат. Поэтому сделали так, чтобы временное хранение мебели на время переезда не стало для вас дорогой услугой!
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit2 benefit container">
@@ -134,8 +137,10 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img src="/images/nadejnoe.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Надёжное хранение</p>
-                        <p class="hint col-12 text-center">Надёжная упаковка, использование современных охранных систем гарантируют безопасность и сохранность ваших вещей.</p>
+                        <p class="h-hint col-12 text-center">Гарантии безопасности</p>
+                        <p class="hint col-12 text-center">
+                            Ваши вещи будут надёжно упакованы и размещены в складских помещениях, оборудованных современными охранными системами.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit3 benefit container">
@@ -143,8 +148,10 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img src="/images/belive3.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Аккуратность</p>
-                        <p class="hint col-12 text-center">Перевозка и хранение мебели на время ремонта требуют бережного отношения. Мы аккуратно погрузим и перевезём ваши вещи, позаботившись об их сохранности.</p>
+                        <p class="h-hint col-12 text-center">Гарантии сохранности</p>
+                        <p class="hint col-12 text-center">
+                            Перевозка и хранение мебели на время переезда будут проведены с максимальной осторожностью и аккуратностью. Мы не повредим ваши вещи во время погрузки, перевозки и хранения.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit4 benefit container">
@@ -152,8 +159,10 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img src="/images/belive4.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Положительные отзывы</p>
-                        <p class="hint col-12 text-center">Все, кому доводилось пользоваться нашими услугами, отмечают их высокое качество. Мы уверены, что и ваш отзыв о нашей работе будем положительным!</p>
+                        <p class="h-hint col-12 text-center">Хорошие отзывы</p>
+                        <p class="hint col-12 text-center">
+                            Тысячи клиентов остались довольны качеством наших услуг. Мы постараемся, чтобы и вам понравилось сотрудничать с нами!
+                        </p>
                     </div>
                 </div>
             </div>
@@ -191,38 +200,38 @@
                 <div class="carousel-inner">
 
                     <div class="carousel-item active">
-                        <img src="/images/hranenie-na-vremya-remonta/hnvr1.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/hranenie-na-vremya-pereezda/hnvp1.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Наталья</h5>
+                            <h5>Владимир</h5>
                             <p class="text-left text-lg-center">
-                                Муж хотел вывезти всё на дачу, чтобы освободить квартиру для ремонта. Но это потребовало бы кучу времени, которого всегда не хватает. Подруга посоветовала обратиться в «Переезд без Хлопот» и заказать вывоз и хранение вещей. В итоге мы избавились от массы ненужных хлопот, за что большое спасибо!
+                                Так вышло, что продать квартиру пришлось до того, как присмотрел новое жильё. Сам-то поселился у родственников, но возникла проблема — хранение вещей. Не станешь же возить за собой весь скарб… Сослуживец посоветовал обратиться в компанию «Переезд без Хлопот», и проблема испарилась!
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/hranenie-na-vremya-remonta/hnvr2.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/hranenie-na-vremya-pereezda/hnvp2.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Иван и Елена Лебедевы</h5>
+                            <h5>Диана Липницкая</h5>
                             <p class="text-left text-lg-center">
-                                Теперь мы знаем, куда сдать мебель на хранение в случае чего! О такой замечательной услуге узнали практически случайно. Не знаем даже, как выкрутились бы без помощи «Переезда без хлопот». Название фирмы 100% соответствует качеству услуг — и вправду, избавили нас от больших хлопот!
+                                Из-за недобросовестности риелтора остались в буквальном смысле посреди Петербурга с двумя контейнерами вещей. В одном из отелей посоветовали, куда сдать мебель на хранение. Отдельное спасибо за оперативность!
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/hranenie-na-vremya-remonta/hnvr3.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/hranenie-na-vremya-pereezda/hnvp3.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Станислав</h5>
+                            <h5>Игорь</h5>
                             <p class="text-left text-lg-center">
-                                Понадобилось освободить квартиру от мебели и вещей на полгода. Поначалу это стало проблемой, ведь где-то всё это нужно сложить. Оптимальным вариантом оказалось обратиться в эту фирму. За небольшие деньги всё сложили, увезли, а после — вернули на место. Отличная работа!
+                                Перед длительной командировкой решил сдать квартиру, но нужно было убрать из неё кое-какую мебель. Гараж — не вариант, к друзьям тоже не увезёшь. Как оказалось, есть полезная услуга временно оставить мебель на складе. Спасибо, избавили меня от проблемы!
                             </p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/hranenie-na-vremya-remonta/hnvr4.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/hranenie-na-vremya-pereezda/hnvp4.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Надежда В.</h5>
+                            <h5>Светлана</h5>
                             <p class="text-left text-lg-center">
-                                Даже не знаю, как выкручивались бы, если бы нельзя было заказать хранение мебели во время ремонта. Горький опыт соседей показал, что как ни накрывай, мебель можно испортить. Поэтому лучше вывезти на склад и спокойно делать ремонт. Работа в этом случае пойдёт куда быстрее и лучше!
+                                Если без подробностей, то услуга хранение мебели во время переезда избавила меня от серьёзных финансовых затрат и даже помогла сохранить семью. Даже не знаю, что делала бы, не найди в нужный момент телефон вашей фирмы. Искреннее спасибо!
                             </p>
                         </div>
                     </div>
@@ -243,6 +252,7 @@
 </main>
 
 <?php include_once ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'footer' . DIRECTORY_SEPARATOR . 'footer.php'); ?>
+
 
 
 
