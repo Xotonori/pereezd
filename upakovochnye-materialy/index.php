@@ -15,8 +15,8 @@
        <div class="row">
            <h3 class="_header-3 mx-auto text-center mb-5"><span class="important">Наборы упаковок</span> для офисного переезда</h3>
        </div>
-       <div class="row d-flex justify-content-between">
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+       <div class="row d-flex justify-content-center justify-content-sm-between">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um1.jpg" alt="коробка">
                </div>
@@ -38,7 +38,7 @@
                </div>
            </div>
 
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um2.jpg" alt="коробка">
                </div>
@@ -60,7 +60,7 @@
                </div>
            </div>
 
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um3.jpg" alt="коробка">
                </div>
@@ -82,7 +82,7 @@
                </div>
            </div>
 
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um4.jpg" alt="коробка">
                </div>
@@ -111,8 +111,8 @@
        <div class="row">
            <h3 class="_header-3 mx-auto text-center mb-5"><span class="important">Наборы упаковок</span> для квартирного переезда</h3>
        </div>
-       <div class="row d-flex justify-content-between">
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+       <div class="row d-flex justify-content-center justify-content-sm-between">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um5.jpg" alt="коробка">
                </div>
@@ -135,7 +135,7 @@
                </div>
            </div>
 
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um6.jpg" alt="коробка">
                </div>
@@ -158,7 +158,7 @@
                </div>
            </div>
 
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um7.jpg" alt="коробка">
                </div>
@@ -185,9 +185,9 @@
        <div class="row">
            <h3 class="_header-3 mx-auto text-center mb-5"><span class="important">Наборы упаковок</span> для квартирного переезда</h3>
        </div>
-       <div class="row d-flex justify-content-between">
+       <div class="row d-flex justify-content-center justify-content-sm-between">
 
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um8.jpg" alt="коробка">
                </div>
@@ -204,7 +204,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um9.jpg" alt="коробка">
                </div>
@@ -221,7 +221,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um10.jpg" alt="коробка">
                </div>
@@ -238,7 +238,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um11.jpg" alt="коробка">
                </div>
@@ -255,7 +255,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um12.jpg" alt="коробка">
                </div>
@@ -272,7 +272,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um13.jpg" alt="коробка">
                </div>
@@ -287,7 +287,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um14.jpg" alt="коробка">
                </div>
@@ -304,7 +304,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um15.jpg" alt="коробка">
                </div>
@@ -319,7 +319,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um16.jpg" alt="коробка">
                </div>
@@ -331,7 +331,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um17.jpg" alt="коробка">
                </div>
@@ -343,7 +343,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um18.jpg" alt="коробка">
                </div>
@@ -355,7 +355,7 @@
                </div>
            </div>
 
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um19.jpg" alt="коробка">
                </div>
@@ -367,7 +367,7 @@
                </div>
            </div>
            
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um19.jpg" alt="коробка">
                </div>
@@ -379,7 +379,7 @@
                </div>
            </div>
 
-           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap">
+           <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                <div class="d-flex justify-content-center">
                    <img src="/images/upakovochnye-materialy/um19.jpg" alt="коробка">
                </div>
