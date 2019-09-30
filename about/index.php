@@ -2,13 +2,14 @@
     <meta name="description" itemprop="description" content="Служба «Переезд без Хлопот» оказывает полный комплекс услуг по организации переездов в Санкт-Петербурге и области."/>
     <meta name="keywords" itemprop="keywords" content="служба переезда" />
     <title>О компании</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
+    <link rel="canonical" href="https://pereezdy-spb.ru/about/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-    <img class="sofa" src="/images/header/sofa.png" alt="диван">
-    <img class="man" src="/images/header/man.png" alt="грузчик">
+<!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
+<!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>О компании</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
+<main class="about">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -33,4 +34,5 @@
             </div>
         </div>
     </div>
+</main>
 <?php include_once ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'footer' . DIRECTORY_SEPARATOR . 'footer.php'); ?>

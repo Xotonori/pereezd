@@ -2,14 +2,14 @@
     <meta name="description" itemprop="description" content="Отзывы клиентов компании Переезд Без Хлопот в Санкт-Петербурге" />
     <meta name="keywords" itemprop="keywords" content="" />
     <title>Отзывы клиентов</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
+    <link rel="canonical" href="https://pereezdy-spb.ru/reference/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-    <img class="sofa" src="/images/header/sofa.png" alt="диван">
-    <img class="man" src="/images/header/man.png" alt="грузчик">
+<!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
+<!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Отзывы клиентов</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
-<main>
+<main class="reference">
     <div class="container client-reviews">
         <div class="row">
             <div class="carousel-container mx-auto">

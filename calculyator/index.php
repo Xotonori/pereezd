@@ -4,18 +4,18 @@
 <title>Калькулятор переезда</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" src="/images/header/sofa.png" alt="диван">
-<img class="man" src="/images/header/man.png" alt="грузчик">
+<!--<img class="sofa" src="/images/header/sofa.png" alt="диван">-->
+<!--<img class="man" src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Калькулятор переезда</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
 <script type='text/javascript' src='https://pereezdy-spb.ru/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
-<main>
+<main class="calculyator">
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2 class="_header-3"><span class="important">Калькулятор</span> переезда</h2>
+                <h2 class="_header-3 text-center"><span class="important">Калькулятор</span> переезда</h2>
                 <div class="calculator-box entry-content">
                     <div id="wrapper">
                         <div class="toggle-menu"><span></span><span></span><span></span></div>

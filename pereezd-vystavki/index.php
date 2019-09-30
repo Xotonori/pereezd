@@ -2,15 +2,15 @@
 <meta name="description" itemprop="description" content="Компания «ПереездБезХлопот» осуществляет профессиональную и качественную перевозку выставок в СПБ по выгодным ценам." />
 <meta name="keywords" itemprop="keywords" content="переезд выставки,перевозка выставки,цена,стоимость,услуга,заказать" />
 <title>Переезд выставки</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/pereezd-vystavki/" />
+<link rel="canonical" href="https://pereezdy-spb.ru/pereezd-vystavki/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Переезд выставки</h1>
+<div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
+<button type="button" class="request-call" data-toggle="modal" data-target="#header-modal">Заказать перевозку выставки</button>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
-
-
 
 <main>
     <!--////PAGE-DESCRIPTION/////////////////////////////////////////////////////////////////////////////////////////////-->

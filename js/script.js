@@ -39,7 +39,26 @@ $(document).ready(function () {
         event.preventDefault();
         $(this).ekkoLightbox();
     });
+
+    minHeader('.about, .contacts, .cars, .calculyator, .zakaz, .individual_reference, .reference, .articles,' +
+        '.kak-bystro-mozhno-organizovat-pereezd, .na-chto-obratit-vnimanie, .pereezd-samostojatelno-ili-profi,' +
+        '.prostye-pravila-pereezda-bez-hlopot, .rasprostranennye-oshibki, .pereezd-po-oblasti, .upakovochnye-materialy,' +
+        '.vozdushno-puzyrchataya-plenka, .kartonnye-korobki, .skotch-upakovochnyj');
+
 });
+
+//functions////////////////////////////////////////////////////////////////////////////////////////////////
+
+function minHeader (mainClass) {
+    $(mainClass).parent().find('.header-main-theme').css({
+        'height' : '400px'
+
+    });
+
+    $(mainClass).parent().find('.header-main-theme>h1').css({
+        'marginTop' : '130px'
+    });
+}
 
 //Check submit/////////////////////////////////////////////////////////////////////////////////////////////
 function phoneValidation (value) {

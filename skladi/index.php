@@ -1,6 +1,5 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
     <meta name="description" itemprop="description" content="Предлагаем услуги складов временного хранения товаров и вещей в Санкт-Петербурге. Выгодные цены. Адреса складов." />
-
     <meta name="keywords" itemprop="keywords" content="склад временного хранения,цена,стоимость" />
     <title>Склады временного хранения в Санкт-Петербурге</title>
     <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
@@ -9,7 +8,10 @@
     <img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Склады временного хранения</h1>
+    <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
+    <button type="button" class="request-call" data-toggle="modal" data-target="#header-modal">Заказать временное хранение</button>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
+
 <main>
     <div class="container">
         <div class="row">

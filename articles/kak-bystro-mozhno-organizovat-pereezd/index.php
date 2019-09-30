@@ -2,14 +2,14 @@
     <meta name="description" itemprop="description" content="Полезные статьи от компании Переезд Без Хлопот в Санкт-Петербурге: Как быстро можно организовать переезд" />
     <meta name="keywords" itemprop="keywords" content="" />
     <title>Как быстро можно организовать переезд</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
+    <link rel="canonical" href="https://pereezdy-spb.ru/articles/kak-bystro-mozhno-organizovat-pereezd/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-    <img class="sofa" src="/images/header/sofa.png" alt="диван">
-    <img class="man" src="/images/header/man.png" alt="грузчик">
+<!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
+<!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Как быстро можно организовать переезд</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
-<main>
+<main class="kak-bystro-mozhno-organizovat-pereezd">
     <div class="container">
         <div class="row">
             <div class="col-12">

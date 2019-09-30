@@ -1,6 +1,3 @@
-<div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
-
-<button type="button" class="request-call" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
 <!-- Modal -->
 <div class="modal fade" id="header-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">

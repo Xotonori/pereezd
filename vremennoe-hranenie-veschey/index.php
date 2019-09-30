@@ -8,8 +8,9 @@
 <img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Временное хранение вещей</h1>
+<div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
+<button type="button" class="request-call" data-toggle="modal" data-target="#header-modal">Заказать временное хранение вещей</button>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
-
 
 <main class="vremennoe-hranenie-veschey">
     <div class="container">

@@ -11,14 +11,14 @@ function css_style(done) {
         .pipe(sourcemaps.init()) //инициализируем файл для sourcemaps
         .pipe(sass({
             errorLogToConsole: true, //даем возможность отображать ошибки при конвертации в css
-            // outputStyle: 'compressed' //удаляем все пробелы и сжимаем конечный файл css
+            outputStyle: 'compressed' //удаляем все пробелы и сжимаем конечный файл css
         }))
         .on('error', console.error.bind(console)) //событие для отображения ошибок в консоли
         .pipe(gulpautoprefixer({
             browsers: ['last 2 versions'], //проставляем префексы для последних 2-х версий браузеров
             cascade: false
         }))
-        // .pipe(rename({suffix: '.min'}))  //делаем префикс в названии конечного файла
+        .pipe(rename({suffix: '.min'}))  //делаем префикс в названии конечного файла
         .pipe(sourcemaps.write('./')) //делаем шифрованную копию изначального файла gulp для отображении в браузере(данную запись нужно делать непосредственно перед указыванием пути конечного файла)
         .pipe(gulp.dest('./css/')) //указываем путь куда кидаем конечный файл
         .pipe(browserSync.stream()); //после всех изменений файлов, динамично отображаем всё в браузере

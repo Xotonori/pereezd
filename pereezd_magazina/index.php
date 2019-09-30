@@ -2,15 +2,15 @@
 <meta name="description" itemprop="description" content="Профессиональный переезд магазина от компании Переезд Без Хлопот в Санкт-Петербурге" />
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Переезд магазина</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/pereezd_magazina/" />
+<link rel="canonical" href="https://pereezdy-spb.ru/pereezd_magazina/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Переезд магазина</h1>
+<div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
+<button type="button" class="request-call" data-toggle="modal" data-target="#header-modal">Заказать переезд магазина</button>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
-
-
 
 <main>
     <!--////PAGE-DESCRIPTION/////////////////////////////////////////////////////////////////////////////////////////////-->

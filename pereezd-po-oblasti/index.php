@@ -4,15 +4,15 @@
 <title>Переезды по Санкт-Петербургу и области</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/pereezd-po-oblasti/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" src="/images/header/sofa.png" alt="диван">
-<img class="man" src="/images/header/man.png" alt="грузчик">
+<!--<img class="sofa" src="/images/header/sofa.png" alt="диван">-->
+<!--<img class="man" src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Переезды по Санкт-Петербургу и области</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
 
 
-<main>
+<main class="pereezd-po-oblasti">
     <!--////PAGE-DESCRIPTION/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="container">
         <div class="row d-flex justify-content-center">
