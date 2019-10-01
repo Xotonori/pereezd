@@ -616,6 +616,7 @@ body {
   }
   .send-button:hover {
     @extend %main-button-hover;
+    color: #fff;
   }
 
   .request-call {
@@ -1393,6 +1394,7 @@ body {
 
     img {
       height: 220px;
+
     }
 
     .marker {
@@ -1406,6 +1408,17 @@ body {
         margin-top: auto;
       }
     }
+  }
+
+  .video_reference {
+    .carousel-indicators {
+      position: relative;
+      top: auto;
+    }
+  }
+
+  iframe {
+    max-width: 100% !important;
   }
 }
 
