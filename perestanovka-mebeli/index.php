@@ -434,7 +434,7 @@
             <div class="col-lg-2 benefit text-center mt-4">
                 <p class="infographic">
                     <span class="h-infographic"><span class="important">10 000</span><br>коробок</span><br>
-                    <span class="b-infographic">+ стеллажисамый большой перевозимый нами архив</span>
+                    <span class="b-infographic">+ стеллажи самый большой перевозимый нами архив</span>
                 </p>
             </div>
         </div>
