@@ -1400,6 +1400,13 @@ body {
     }
   }
 
+  .reference, .individual_reference {
+    .carousel {
+      ._carousel-control {
+        margin-top: auto;
+      }
+    }
+  }
 }
 
 
