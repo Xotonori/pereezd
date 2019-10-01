@@ -134,7 +134,7 @@
     <div class="container wrap-benefits">
         <div class="row">
             <div class="col-12 text-center">
-                <h2 class="_header-3">Почему <span class="important">клиенты</span> обращаются к нам</h2>
+                <h3 class="_header-3">Нам можно <span class="important">доверить</span> свой переезд</h3>
             </div>
         </div>
         <div class="row">
