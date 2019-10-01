@@ -43,7 +43,7 @@ $(document).ready(function () {
     minHeader('.about, .contacts, .cars, .calculyator, .zakaz, .individual_reference, .reference, .articles,' +
         '.kak-bystro-mozhno-organizovat-pereezd, .na-chto-obratit-vnimanie, .pereezd-samostojatelno-ili-profi,' +
         '.prostye-pravila-pereezda-bez-hlopot, .rasprostranennye-oshibki, .pereezd-po-oblasti, .upakovochnye-materialy,' +
-        '.vozdushno-puzyrchataya-plenka, .kartonnye-korobki, .skotch-upakovochnyj');
+        '.vozdushno-puzyrchataya-plenka, .kartonnye-korobki, .skotch-upakovochnyj, .video_reference, .muhina');
 
 });
 
