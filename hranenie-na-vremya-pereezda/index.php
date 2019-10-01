@@ -46,7 +46,7 @@
             <div class="col-11 js-long-text container how-much-description mb-5">
                 <div class="row">
                     <div class="col-12 text-center mb-4">
-                        <h2 class="_header-3"><span class="important">Наши</span>модули</h2>
+                        <h2 class="_header-3"><span class="important">Наши</span> модули</h2>
                     </div>
                     <div class="col-12 paragraph pt-0">
                         <p>
