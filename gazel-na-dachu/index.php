@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Закажите газель на дачу в компании ПБХ-СПБ. Быстрая подача машины, низкие цены, звоните: +7 (812) 982-88-58."/>
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Газель на дачу - заказать газель на дачу в СПБ</title>
-<link rel="canonical" href="https://pereezdy-spb.rugazel-na-dachu/"/>
+<link rel="canonical" href="https://pereezdy-spb.ru/gazel-na-dachu/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
@@ -181,7 +181,7 @@
     </div>
     <!--////QUESTION/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="person-page">
-        <div class="container-fluid header-main-theme person-page-price">
+        <div class="container-fluid header-main-theme person-page-price overflow-hidden">
             <p class="_header-3 mt-3 text-center"><span class="important">Остались вопросы</span> спросите специалиста</p>
             <img class="back-office" src="/images/back-office.png" alt="диван">
         </div>

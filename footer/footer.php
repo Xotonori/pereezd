@@ -1,5 +1,5 @@
     <div class="__footer">
-        <div class="top-footer">
+        <div class="top-footer overflow-hidden">
             <div class="gradient"></div>
             <h3 class="amount-shipping">Уже сделано уже более <br><span class="blue-text">10 050</span> перевозок</h3>
             <img class="elephant" src="/images/footer/elephant.png" alt="слон">
