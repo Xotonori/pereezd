@@ -38,7 +38,7 @@
         <div class="container wrap-benefits">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h2 class="_header-3">Почему <span class="important">клиенты</span> обращаются к нам</h2>
+                    <h2 class="_header-3">Почему <span class="important">заказывают перевозки</span> у нас</h2>
                 </div>
             </div>
             <div class="row">
@@ -48,8 +48,7 @@
                             <img src="/images/belive1.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center">Дешовые цены на перевозку вещей в Санкт-Петербурге</p>
-                        <p class="hint col-12 text-center">Мы покупаем упаковку оптовыми партиями, используем машины из
-                            автопарка компании и не допускаем лишних расходов. У нас – дешевле!</p>
+                        <p class="hint col-12 text-center">Аккуратные и быстрые погрузо-разгрузочные работы и перевозка за минимальную стоимость? С нами это возможно.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit2 benefit container">
@@ -57,9 +56,8 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img src="/images/belive2.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Подача транспорта в установленное время</p>
-                        <p class="hint col-12 text-center">Наши сотрудники ценят ваше время,поэтому всегда приезжают
-                            вовремя и работают оперативно. Можно вызвать транспорт даже ночью.</p>
+                        <p class="h-hint col-12 text-center">Мы работаем без опозданий и задержек</p>
+                        <p class="hint col-12 text-center">Цените свое время? Мы тоже. Грузчики приступят к выполнению работы строго в оговоренное время.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit3 benefit container">
@@ -67,9 +65,8 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img src="/images/belive3.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Заботливый подход к вещам и мебели клиента.</p>
-                        <p class="hint col-12 text-center">Тщательно упакуем каждый предмет от посуды до шкафа-купе,
-                            бережно спустим, погрузими закрепим в кузове автомобиля спец фиксаторами.</p>
+                        <p class="h-hint col-12 text-center">Бережное отношение к вашими вещам</p>
+                        <p class="hint col-12 text-center">Переживаете за сохранность своих вещей? Мы гарантируем – на мебели не останется ни единой царапинки.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit4 benefit container">
@@ -77,10 +74,8 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img src="/images/belive4.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Положительные рекомендации от заказчиков</p>
-                        <p class="hint col-12 text-center">На сайте Вы узнаете отзывы людей, которые уже
-                            воспользовались нашими услугами. <a href="/articles" class="blue-ancor">Почитайте</a> и убедитесь, что нам можно доверять.
-                            Посмотрите <a href="/video_reference" class="blue-ancor">видео отзывы</a> и увидите модель Вашего будущего переезда.</p>
+                        <p class="h-hint col-12 text-center">Рекомендации и благодарности от наших клиентов</p>
+                        <p class="hint col-12 text-center">Не доверяете незнакомой компании? Поверьте нашим довольным клиентам, которых тысячи.</p>
                     </div>
                 </div>
             </div>

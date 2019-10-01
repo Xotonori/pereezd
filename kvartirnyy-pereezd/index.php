@@ -53,8 +53,7 @@
                         <img src="/images/belive1.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center">Доступные цены на квартирные переезды по Санкт-Петербургу</p>
-                    <p class="hint col-12 text-center">Мы покупаем упаковку оптовыми партиями, используем машины из
-                        автопарка компании и не допускаем лишних расходов. У нас – дешевле!</p>
+                    <p class="hint col-12 text-center">Мы максимально сократили свои затраты, чтобы клиентам не приходилось переплачивать за качественные услуги.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit2 benefit container">
@@ -62,9 +61,8 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Подача транспорта в установленное время</p>
-                    <p class="hint col-12 text-center">Наши сотрудники ценят ваше время,поэтому всегда приезжают
-                        вовремя и работают оперативно. Можно вызвать транспорт даже ночью.</p>
+                    <p class="h-hint col-12 text-center">Подача транспорта в точно оговоренное время, даже ночью</p>
+                    <p class="hint col-12 text-center">Пунктуальность – наше кредо. Мебельные фургоны всегда прибывают по указанному адресу без опозданий.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit3 benefit container">
@@ -72,9 +70,8 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Заботливый подход к вещам и мебели клиента.</p>
-                    <p class="hint col-12 text-center">Тщательно упакуем каждый предмет от посуды до шкафа-купе,
-                        бережно спустим, погрузими закрепим в кузове автомобиля спец фиксаторами.</p>
+                    <p class="h-hint col-12 text-center">Заботливый подход к вещам и мебели клиента</p>
+                    <p class="hint col-12 text-center">Вы можете быть абсолютно уверены в сохранности имущества – мы заботимся о нем лучше, чем о своем собственном.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit4 benefit container">
@@ -83,9 +80,7 @@
                         <img src="/images/belive4.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center">Положительные рекомендации от заказчиков</p>
-                    <p class="hint col-12 text-center">На сайте Вы узнаете отзывы людей, которые уже
-                        воспользовались нашими услугами. <a href="/articles" class="blue-ancor">Почитайте</a> и убедитесь, что нам можно доверять.
-                        Посмотрите <a href="/video_reference" class="blue-ancor">видео отзывы</a> и увидите модель Вашего будущего переезда.</p>
+                    <p class="hint col-12 text-center">Нам особенно приятно, когда удовлетворенные клиенты не жалеют времени, чтобы высказать свое мнение о качестве услуг.</p>
                 </div>
             </div>
         </div>

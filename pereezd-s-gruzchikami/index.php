@@ -36,7 +36,7 @@
     <div class="container wrap-benefits">
         <div class="row">
             <div class="col-12 text-center">
-                <h2 class="_header-3">Почему <span class="important">клиенты</span> обращаются к нам</h2>
+                <h2 class="_header-3">Почему нашей <span class="important">нашей компании доверяют</span> переезд</h2>
             </div>
         </div>
         <div class="row">
@@ -45,9 +45,8 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Доступные цены на квартирные переезды по Санкт-Петербургу</p>
-                    <p class="hint col-12 text-center">Мы покупаем упаковку оптовыми партиями, используем машины из
-                        автопарка компании и не допускаем лишних расходов. У нас – дешевле!</p>
+                    <p class="h-hint col-12 text-center">Адекватные цены на переезды с грузчиками.</p>
+                    <p class="hint col-12 text-center">Мы держим доступные цены, так как знаем, что такое грамотный подбор персонала и разбираемся в логистике.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit2 benefit container">
@@ -55,9 +54,8 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Подача транспорта в установленное время</p>
-                    <p class="hint col-12 text-center">Наши сотрудники ценят ваше время,поэтому всегда приезжают
-                        вовремя и работают оперативно. Можно вызвать транспорт даже ночью.</p>
+                    <p class="h-hint col-12 text-center">Пунктуальность и точность выполнения заказа</p>
+                    <p class="hint col-12 text-center">Ваша задача – назвать место и время. А мы организуем переезд с грузчиками в Санкт-Петербурге с выбором оптимального маршрута.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit3 benefit container">
@@ -65,9 +63,8 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Заботливый подход к вещам и мебели клиента.</p>
-                    <p class="hint col-12 text-center">Тщательно упакуем каждый предмет от посуды до шкафа-купе,
-                        бережно спустим, погрузими закрепим в кузове автомобиля спец фиксаторами.</p>
+                    <p class="h-hint col-12 text-center">Бережное отношение к имуществу клиента</p>
+                    <p class="hint col-12 text-center">Нам можно смело доверить бытовую и компьютерную технику, хрупкую мебель и даже вазу китайской династии – мы гарантируем сохранность.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit4 benefit container">
@@ -75,10 +72,8 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Положительные рекомендации от заказчиков</p>
-                    <p class="hint col-12 text-center">На сайте Вы узнаете отзывы людей, которые уже
-                        воспользовались нашими услугами. <a href="/articles" class="blue-ancor">Почитайте</a> и убедитесь, что нам можно доверять.
-                        Посмотрите <a href="/video_reference" class="blue-ancor">видео отзывы</a> и увидите модель Вашего будущего переезда.</p>
+                    <p class="h-hint col-12 text-center">Нас рекомендуют частные лица, крупные компании</p>
+                    <p class="hint col-12 text-center">Работаем без ограничений на объемы. В нашем распоряжении такелажное оборудование, опытные специалисты, необходимые инструменты.</p>
                 </div>
             </div>
         </div>
