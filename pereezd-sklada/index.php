@@ -214,53 +214,53 @@
                 <div id="client-reviews" class="carousel slide mx-auto mt-4 mb-4">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <a href="/images/pereezd-sklada/IMG_20180604_115042.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd-sklada/IMG_20180604_115042.jpg" alt="Фото 1">
+                            <a href="/images/pereezd-sklada/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd-sklada/photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd-sklada/IMG_20180604_135041.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd-sklada/IMG_20180604_135041.jpg" alt="Фото 2">
+                            <a href="/images/pereezd-sklada/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd-sklada/photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd-sklada/IMG_20180604_135045.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd-sklada/IMG_20180604_135045.jpg" alt="Фото 3">
+                            <a href="/images/pereezd-sklada/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd-sklada/photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd-sklada/IMG_20180604_135054.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd-sklada/IMG_20180604_135054.jpg" alt="Фото 4">
+                            <a href="/images/pereezd-sklada/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd-sklada/photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd-sklada/IMG_20180604_150107.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd-sklada/IMG_20180604_150107.jpg" alt="Фото 5">
+                            <a href="/images/pereezd-sklada/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd-sklada/photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd-sklada/IMG_20180604_152248.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd-sklada/IMG_20180604_152248.jpg" alt="Фото 6">
+                            <a href="/images/pereezd-sklada/photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd-sklada/photo6_mini.jpg" alt="Фото 6">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd-sklada/IMG_20180604_152258.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd-sklada/IMG_20180604_152258.jpg" alt="Фото 7">
+                            <a href="/images/pereezd-sklada/photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd-sklada/photo7_mini.jpg" alt="Фото 7">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd-sklada/IMG_20180604_152919.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd-sklada/IMG_20180604_152919.jpg" alt="Фото 8">
+                            <a href="/images/pereezd-sklada/photo8.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd-sklada/photo8_mini.jpg" alt="Фото 8">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd-sklada/IMG_20180604_153631.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd-sklada/IMG_20180604_153631.jpg" alt="Фото 9">
+                            <a href="/images/pereezd-sklada/photo9.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd-sklada/photo9_mini.jpg" alt="Фото 9">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd-sklada/IMG_20180604_163222.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd-sklada/IMG_20180604_163222.jpg" alt="Фото 10">
+                            <a href="/images/pereezd-sklada/photo10.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd-sklada/photo10_mini.jpg" alt="Фото 10">
                             </a>
                         </div>
                     </div>

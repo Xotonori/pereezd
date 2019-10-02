@@ -264,53 +264,53 @@
                 <div id="client-reviews" class="carousel slide mx-auto mt-4 mb-4">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <a href="/images/pereezd_magazina/IMG_20170630_103830.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd_magazina/IMG_20170630_103830.jpg" alt="Фото 1">
+                            <a href="/images/pereezd_magazina/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd_magazina/photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd_magazina/IMG_20180531_131410.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd_magazina/IMG_20180531_131410.jpg" alt="Фото 2">
+                            <a href="/images/pereezd_magazina/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd_magazina/photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd_magazina/IMG_20180531_131414.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd_magazina/IMG_20180531_131414.jpg" alt="Фото 3">
+                            <a href="/images/pereezd_magazina/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd_magazina/photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd_magazina/IMG_20180531_132241.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd_magazina/IMG_20180531_132241.jpg" alt="Фото 4">
+                            <a href="/images/pereezd_magazina/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd_magazina/photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd_magazina/IMG_20180531_132246.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd_magazina/IMG_20180531_132246.jpg" alt="Фото 5">
+                            <a href="/images/pereezd_magazina/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd_magazina/photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd_magazina/IMG_20180531_133402.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd_magazina/IMG_20180531_133402.jpg" alt="Фото 6">
+                            <a href="/images/pereezd_magazina/photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd_magazina/photo6_mini.jpg" alt="Фото 6">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd_magazina/IMG_20180531_133435.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd_magazina/IMG_20180531_133435.jpg" alt="Фото 7">
+                            <a href="/images/pereezd_magazina/photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd_magazina/photo7_mini.jpg" alt="Фото 7">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd_magazina/IMG_20180531_133745.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd_magazina/IMG_20180531_133745.jpg" alt="Фото 8">
+                            <a href="/images/pereezd_magazina/photo8.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd_magazina/photo8_mini.jpg" alt="Фото 8">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd_magazina/IMG_20180531_134415.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd_magazina/IMG_20180531_134415.jpg" alt="Фото 9">
+                            <a href="/images/pereezd_magazina/photo9.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd_magazina/photo9_mini.jpg" alt="Фото 9">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/pereezd_magazina/IMG_20180531_152920.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/pereezd_magazina/IMG_20180531_152920.jpg" alt="Фото 10">
+                            <a href="/images/pereezd_magazina/photo10.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/pereezd_magazina/photo10_mini.jpg" alt="Фото 10">
                             </a>
                         </div>
                     </div>

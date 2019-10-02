@@ -194,47 +194,47 @@
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <a href="/images/poputniy-gruz/photo-1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-1.jpg" alt="Фото 1">
+                                    <img class="d-block" src="/images/poputniy-gruz/photo-1_mini.jpg" alt="Фото 1">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-2.jpg" alt="Фото 2">
+                                    <img class="d-block" src="/images/poputniy-gruz/photo-2_mini.jpg" alt="Фото 2">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-3.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/poputniy-gruz/photo-3_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-4.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/poputniy-gruz/photo-4_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-5.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/poputniy-gruz/photo-5_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-6.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/poputniy-gruz/photo-6_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-7.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/poputniy-gruz/photo-7_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-8.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/poputniy-gruz/photo-8_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-9.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/poputniy-gruz/photo-9_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                         </div>

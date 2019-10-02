@@ -377,52 +377,52 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <a href="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg1.jpg" alt="Фото 1">
+                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg2.jpg" alt="Фото 2">
+                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg3.jpg" alt="Фото 3">
+                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg4.jpg" alt="Фото 4">
+                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg5.jpg" alt="Фото 5">
+                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg6.jpg" alt="Фото 6">
+                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg6_mini.jpg" alt="Фото 6">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg7.jpg" alt="Фото 7">
+                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg7_mini.jpg" alt="Фото 7">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg8.jpg" alt="Фото 8">
+                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg8_mini.jpg" alt="Фото 8">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg9.jpg" alt="Фото 9">
+                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg9_mini.jpg" alt="Фото 9">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg10.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg10.jpg" alt="Фото 10">
+                                <img class="d-block" src="/images/perevozka-veshchey-v-drugoy-gorod/pvvdg10_mini.jpg" alt="Фото 10">
                             </a>
                         </div>
 

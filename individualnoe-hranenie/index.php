@@ -300,52 +300,52 @@
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv1.jpg" alt="Фото 1">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv1_mini.jpg" alt="Фото 1">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv2.jpg" alt="Фото 2">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv2_mini.jpg" alt="Фото 2">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv3.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv3_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv4.jpg" alt="Фото 4">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv4_mini.jpg" alt="Фото 4">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv5.jpg" alt="Фото 5">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv5_mini.jpg" alt="Фото 5">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv6.jpg" alt="Фото 6">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv6_mini.jpg" alt="Фото 6">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv7.jpg" alt="Фото 7">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv7_mini.jpg" alt="Фото 7">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv8.jpg" alt="Фото 8">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv8_mini.jpg" alt="Фото 8">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv9.jpg" alt="Фото 9">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv9_mini.jpg" alt="Фото 9">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv10.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv10.jpg" alt="Фото 10">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv10_mini.jpg" alt="Фото 10">
                                 </a>
                             </div>
                         </div>
