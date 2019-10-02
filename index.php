@@ -282,7 +282,7 @@
                 <tr class="tariff-title">
                     <td valign="top"><b>Квартира</b></td>
                     <td valign="top"><b>Грузчики</b></td>
-                    <td valign="top"><b>Автотранспорт</b></td>
+                    <td valign="top"><b>Авто транспорт</b></td>
                     <td valign="top"><b>Перечень работ</b></td>
                     <td valign="top"><b>Цена, руб</b></td>
                 </tr>
