@@ -4,8 +4,8 @@
     <title>Автопарк</title>
     <link rel="canonical" href="https://pereezdy-spb.ru/cars/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
-<!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->
+<!--    <img class="sofa" data-src="/images/header/sofa.png" alt="диван">-->
+<!--    <img class="man" data-src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Автопарк</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
@@ -15,7 +15,7 @@
             <div class="col-12">
                 <p class="paragraph">По первому вашему звонку «Переезд без Хлопот» отправит к вам на помощь надежную машину с опытным водителем. Просто назовите время и адрес в Санкт-Петербурге, и машина приедет в точно назначенное время.</p>
                 <div class="car-description mx-auto mt-5">
-                    <img class="mb-3" src="/images/cars/3gazel.png" alt="Газель - Мебельный фургон"><br>
+                    <img class="mb-3" data-src="/images/cars/3gazel.png" alt="Газель - Мебельный фургон"><br>
                     <strong>Газель&nbsp; — &nbsp;Мебельный фургон</strong>
                     <p>
                         Минимальный заказ по Санкт-Петербургу&nbsp; — &nbsp;500 руб./ч. подача 1ч.+ 3ч.<br>
@@ -29,7 +29,7 @@
                     </p>
                 </div>
                 <div class="car-description mx-auto mt-5">
-                    <img class="mb-3" src="/images/cars/next55.png" alt="Газель Next"><br>
+                    <img class="mb-3" data-src="/images/cars/next55.png" alt="Газель Next"><br>
                     <strong>Газель Next</strong>
                     <p>
                         Минимальный заказ по Москве&nbsp; — &nbsp;550 руб./ч. подача 1ч.+ 4ч.<br>
@@ -43,7 +43,7 @@
                     </p>
                 </div>
                 <div class="car-description mx-auto mt-5">
-                    <img class="mb-3" src="/images/cars/4gazel.png" alt="Газель - Удлиненная база"><br>
+                    <img class="mb-3" data-src="/images/cars/4gazel.png" alt="Газель - Удлиненная база"><br>
                     <strong>Газель&nbsp; — &nbsp;Удлиненная база</strong>
                     <p>
                         Минимальный заказ по Санкт-Петербургу&nbsp; — &nbsp;600 руб./ч. подача 1ч.+ 5ч.<br>
@@ -57,7 +57,7 @@
                     </p>
                 </div>
                 <div class="car-description mx-auto mt-5">
-                    <img class="mb-3" src="/images/cars/man_lopata-sm.png" alt="Mercedes с гидролопатой"><br>
+                    <img class="mb-3" data-src="/images/cars/man_lopata-sm.png" alt="Mercedes с гидролопатой"><br>
                     <strong>Mercedes с гидролопатой</strong>
                     <p>
                         Минимальный заказ по Санкт-Петербургу&nbsp; — &nbsp;800 руб./ч. подача 1ч.+ 5ч.<br>
@@ -71,7 +71,7 @@
                     </p>
                 </div>
                 <div class="car-description mx-auto mt-5">
-                    <img class="mb-3" src="/images/cars/man_lopata-sm.png" alt="Mercedes с металлической будкой"><br>
+                    <img class="mb-3" data-src="/images/cars/man_lopata-sm.png" alt="Mercedes с металлической будкой"><br>
                     <strong>Mercedes с металлической будкой</strong>
                     <p>
                         Минимальный заказ по Санкт-Петербургу&nbsp; — &nbsp;850 руб./ч. подача 1ч.+ 6ч.<br>
@@ -85,7 +85,7 @@
                     </p>
                 </div>
                 <div class="car-description mx-auto mt-5">
-                    <img class="mb-3" src="/images/cars/maz.png" alt="MAN с металлической будкой"><br>
+                    <img class="mb-3" data-src="/images/cars/maz.png" alt="MAN с металлической будкой"><br>
                     <strong>MAN с металлической будкой</strong>
                     <p>
                         Минимальный заказ по Санкт-Петербургу&nbsp; — &nbsp;950 руб./ч. подача 1ч.+ 7ч.<br>

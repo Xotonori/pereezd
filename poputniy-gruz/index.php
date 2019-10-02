@@ -4,8 +4,8 @@
     <title>Попутный груз</title>
     <link rel="canonical" href="https://pereezdy-spb.ru/poputniy-gruz/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-    <img class="sofa" src="/images/header/sofa.png" alt="диван">
-    <img class="man" src="/images/header/man.png" alt="грузчик">
+    <img class="sofa" data-src="/images/header/sofa.png" alt="диван">
+    <img class="man" data-src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Попутный груз</h1>
     <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -25,7 +25,7 @@
                         <div class="col d-flex justify-content-end">
                             <button class="js-podrobno">
                                 <span>Подробно</span>
-                                <img src="/images/header/city-triangle.png" alt="треугольник">
+                                <img data-src="/images/header/city-triangle.png" alt="треугольник">
                             </button>
                         </div>
                     </div>
@@ -37,7 +37,7 @@
         <div class="container mt-4">
             <div class="row">
                 <p class="col-12 text-center">
-                    <img src="/images/poputniy-gruz/img.png" alt="cars" class="w-100">
+                    <img data-src="/images/poputniy-gruz/img.png" alt="cars" class="w-100">
                 </p>
             </div>
         </div>
@@ -55,11 +55,11 @@
                 <div class="col d-flex justify-content-end">
                     <button class="js-podrobno">
                         <span>Подробно</span>
-                        <img src="/images/header/city-triangle.png" alt="треугольник">
+                        <img data-src="/images/header/city-triangle.png" alt="треугольник">
                     </button>
                 </div>
                 <div class="col-12 text-center">
-                    <img class="mw-100" src="/images/poputniy-gruz/img-2.png" alt="cars">
+                    <img class="mw-100" data-src="/images/poputniy-gruz/img-2.png" alt="cars">
                 </div>
             </div>
         </div>
@@ -77,7 +77,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/TpDumLwcEJM/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
+                                <img data-src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
                             </div>
                             <h5>Попутный груз</h5>
                             <div class="col-11 js-long-text container">
@@ -88,7 +88,7 @@
                                     <div class="col d-flex justify-content-end">
                                         <button class="js-podrobno">
                                             <span>Подробно</span>
-                                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
                                         </button>
                                     </div>
                                 </div>
@@ -139,7 +139,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/9P0tiJuzZIo/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal2">
+                                <img data-src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal2">
                             </div>
                             <h5>Попутный груз</h5>
                             <div class="col-11 js-long-text container">
@@ -150,7 +150,7 @@
                                     <div class="col d-flex justify-content-end">
                                         <button class="js-podrobno">
                                             <span>Подробно</span>
-                                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
                                         </button>
                                     </div>
                                 </div>
@@ -194,47 +194,47 @@
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <a href="/images/poputniy-gruz/photo-1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-1_mini.jpg" alt="Фото 1">
+                                    <img class="d-block" data-src="/images/poputniy-gruz/photo-1_mini.jpg" alt="Фото 1">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-2_mini.jpg" alt="Фото 2">
+                                    <img class="d-block" data-src="/images/poputniy-gruz/photo-2_mini.jpg" alt="Фото 2">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-3_mini.jpg" alt="Фото 3">
+                                    <img class="d-block" data-src="/images/poputniy-gruz/photo-3_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-4_mini.jpg" alt="Фото 3">
+                                    <img class="d-block" data-src="/images/poputniy-gruz/photo-4_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-5_mini.jpg" alt="Фото 3">
+                                    <img class="d-block" data-src="/images/poputniy-gruz/photo-5_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-6_mini.jpg" alt="Фото 3">
+                                    <img class="d-block" data-src="/images/poputniy-gruz/photo-6_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-7_mini.jpg" alt="Фото 3">
+                                    <img class="d-block" data-src="/images/poputniy-gruz/photo-7_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-8_mini.jpg" alt="Фото 3">
+                                    <img class="d-block" data-src="/images/poputniy-gruz/photo-8_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/poputniy-gruz/photo-9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/poputniy-gruz/photo-9_mini.jpg" alt="Фото 3">
+                                    <img class="d-block" data-src="/images/poputniy-gruz/photo-9_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                         </div>

@@ -4,8 +4,8 @@
 <title>Газель с грузчиками в Санкт-Петербурге</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/gazel-s-gruzchikami/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" src="/images/header/sofa.png" alt="диван">
-<img class="man" src="/images/header/man.png" alt="грузчик">
+<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
+<img class="man" data-src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Газель с грузчиками</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -22,7 +22,7 @@
             <div class="col d-flex justify-content-end">
                 <button class="js-podrobno">
                     <span>Подробно</span>
-                    <img src="/images/header/city-triangle.png" alt="треугольник">
+                    <img data-src="/images/header/city-triangle.png" alt="треугольник">
                 </button>
             </div>
         </div>
@@ -41,7 +41,7 @@
             <div class="col d-flex justify-content-end">
                 <button class="js-podrobno">
                     <span>Подробно</span>
-                    <img src="/images/header/city-triangle.png" alt="треугольник">
+                    <img data-src="/images/header/city-triangle.png" alt="треугольник">
                 </button>
             </div>
         </div>
@@ -58,7 +58,7 @@
             <div class="col d-flex justify-content-end">
                 <button class="js-podrobno">
                     <span>Подробно</span>
-                    <img src="/images/header/city-triangle.png" alt="треугольник">
+                    <img data-src="/images/header/city-triangle.png" alt="треугольник">
                 </button>
             </div>
         </div>
@@ -159,11 +159,11 @@
         <div class="person-page">
             <div class="container-fluid header-main-theme person-page-price overflow-hidden">
                 <p class="_header-3 mt-3 text-center"><span class="important">Остались вопросы</span> спросите специалиста</p>
-                <img class="back-office" src="/images/back-office.png" alt="диван">
+                <img class="back-office" data-src="/images/back-office.png" alt="диван">
             </div>
             <div class="person-page-call">
-                <img class="man mx-auto" src="/images/manager.png" alt="менеджер">
-                <img class="man double-quotes mx-auto" src="/images/double-quotes.png" alt="менеджер">
+                <img class="man mx-auto" data-src="/images/manager.png" alt="менеджер">
+                <img class="man double-quotes mx-auto" data-src="/images/double-quotes.png" alt="менеджер">
                 <h6 class="_header-6 text-center">
                     Николай Денисов
                 </h6>
@@ -180,7 +180,7 @@
                         <div class="col d-flex justify-content-center">
                             <button class="js-podrobno">
                                 <span>Подробно</span>
-                                <img src="/images/header/city-triangle.png" alt="треугольник">
+                                <img data-src="/images/header/city-triangle.png" alt="треугольник">
                             </button>
                         </div>
                     </div>
@@ -242,7 +242,7 @@
                 <div class="carousel-inner">
 
                     <div class="carousel-item active">
-                        <img src="/images/gazel-s-gruzchikami/gsg1.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/gazel-s-gruzchikami/gsg1.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Анна</h5>
                             <p class="text-left text-lg-center">
@@ -251,7 +251,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/gazel-s-gruzchikami/gsg2.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/gazel-s-gruzchikami/gsg2.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Максим</h5>
                             <p class="text-left text-lg-center">
@@ -260,7 +260,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/gazel-s-gruzchikami/gsg3.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/gazel-s-gruzchikami/gsg3.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Анатолий</h5>
                             <p class="text-left text-lg-center">
@@ -269,11 +269,11 @@
                         </div>
                     </div>
                 <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                    <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                    <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
                     <span class="sr-only">Previous</span>
                 </a>
                 <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                    <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                    <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
                     <span class="sr-only">Next</span>
                 </a>
             </div>

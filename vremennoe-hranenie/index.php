@@ -4,8 +4,8 @@
 <title>Временное хранение имущества в Санкт-Петербурге - Переезд без хлопот</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/vremennoe-hranenie"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" src="/images/header/sofa.png" alt="диван">
-<img class="man" src="/images/header/man.png" alt="грузчик">
+<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
+<img class="man" data-src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Временное хранение</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -29,7 +29,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
             <div class="col-11 container ">
                 <div class="row">
                     <div class="col-lg-3 order-lg-2 d-flex justify-content-center justify-content-lg-right">
-                        <img class="_15proc" src="/images/-15%25.png" alt="-15%">
+                        <img class="_15proc" data-src="/images/-15%25.png" alt="-15%">
                     </div>
                     <ul class="col-lg-9 order-lg-1 marker mb-4">
                         <li>Клиентам, заказывающим услуги по хранению в нашей компании, предоставляется скидка на транспорт и услуги грузчиков до 15%.</li>
@@ -51,7 +51,7 @@
                         <li>Грузчики (за 1 чел).........от 270 руб(мин.заказ: 4 часа)</li>
                     </ul>
                     <div class="col-12 order-3 d-flex justify-content-center">
-                        <img class="skudki-na-vse" src="/images/skudki-na-vse.png" alt="скидки на всё!">
+                        <img class="skudki-na-vse" data-src="/images/skudki-na-vse.png" alt="скидки на всё!">
                     </div>
                 </div>
 
@@ -72,7 +72,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -139,7 +139,7 @@
             <div class="row">
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Перевозка личных вещей на склад временного хранения
@@ -147,7 +147,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Услуги профессиональных грузчиков и такелажников
@@ -155,7 +155,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Аккуратная перевозка антиквариата
@@ -163,7 +163,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Бережная упаковка вещей при переезде
@@ -171,7 +171,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Гарантия сохранности перевозимых грузов
@@ -179,7 +179,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Бережное отношение с бумагами и книгами
@@ -198,7 +198,7 @@
                 <div class="col-lg-3 benefit1 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img src="/images/belive1.png" alt="копилка">
+                            <img data-src="/images/belive1.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center">Действительно низкие цены на хранение вещей в Петебруге</p>
                         <p class="hint col-12 text-center">Мы не привлекаем посредников и используем только собственные ресурсы. Поэтому стоимость хранения будет для Вас минимальной.</p>
@@ -207,7 +207,7 @@
                 <div class="col-lg-3 benefit2 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img src="/images/belive2.png" alt="копилка">
+                            <img data-src="/images/belive2.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center">Надежное хранение вашего имущества</p>
                         <p class="hint col-12 text-center">Современные складские модули, использование профессиональной упаковки, охранные системы – все это гарантирует безопасность вашего имущества.</p>
@@ -216,7 +216,7 @@
                 <div class="col-lg-3 benefit3 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img src="/images/belive3.png" alt="копилка">
+                            <img data-src="/images/belive3.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center">Бережное отношение с вашими вещами</p>
                         <p class="hint col-12 text-center">Аккуратная погрузка, разгрузка и хранение вещей – наша приоритетная задача, с которой мы всегда справляемся на отлично.</p>
@@ -225,7 +225,7 @@
                 <div class="col-lg-3 benefit4 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img src="/images/belive4.png" alt="копилка">
+                            <img data-src="/images/belive4.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center">Большое количество положительных отзывов</p>
                         <p class="hint col-12 text-center">Тысячи клиентов, которые доверили нам хранение вещей в Санкт-Петербурге, остались довольны качеством предоставленных услуг.</p>
@@ -265,7 +265,7 @@
                 <div class="carousel-inner">
 
                     <div class="carousel-item active">
-                        <img src="/images/vremennoe-hranenie/1hv.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/vremennoe-hranenie/1hv.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Виктор</h5>
                             <p class="text-left text-lg-center">
@@ -275,7 +275,7 @@
                     </div>
 
                     <div class="carousel-item">
-                        <img src="/images/vremennoe-hranenie/2hv.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/vremennoe-hranenie/2hv.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Анастасия</h5>
                             <p class="text-left text-lg-center">
@@ -285,7 +285,7 @@
                     </div>
 
                     <div class="carousel-item">
-                        <img src="/images/vremennoe-hranenie/3hv.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/vremennoe-hranenie/3hv.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Евгений</h5>
                             <p class="text-left text-lg-center">
@@ -295,7 +295,7 @@
                     </div>
 
                     <div class="carousel-item">
-                        <img src="/images/vremennoe-hranenie/4hv.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/vremennoe-hranenie/4hv.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Андрей</h5>
                             <p class="text-left text-lg-center">
@@ -305,7 +305,7 @@
                     </div>
 
                     <div class="carousel-item">
-                        <img src="/images/vremennoe-hranenie/5hv.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/vremennoe-hranenie/5hv.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Вероника</h5>
                             <p class="text-left text-lg-center">
@@ -316,11 +316,11 @@
 
                 </div>
                 <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                    <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                    <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
                     <span class="sr-only">Previous</span>
                 </a>
                 <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                    <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                    <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
                     <span class="sr-only">Next</span>
                 </a>
             </div>

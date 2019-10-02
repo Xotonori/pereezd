@@ -4,8 +4,8 @@
 <title>Клининговые услуги</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/kliningovye_uslugi/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
-<!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->
+<!--    <img class="sofa" data-src="/images/header/sofa.png" alt="диван">-->
+<!--    <img class="man" data-src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Клининговые услуги</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
@@ -21,7 +21,7 @@
             <div class="col d-flex justify-content-end">
                 <button class="js-podrobno">
                     <span>Подробно</span>
-                    <img src="/images/header/city-triangle.png" alt="треугольник">
+                    <img data-src="/images/header/city-triangle.png" alt="треугольник">
                 </button>
             </div>
         </div>
@@ -34,7 +34,7 @@
             <div class="col d-flex justify-content-end">
                 <button class="js-podrobno">
                     <span>Подробно</span>
-                    <img src="/images/header/city-triangle.png" alt="треугольник">
+                    <img data-src="/images/header/city-triangle.png" alt="треугольник">
                 </button>
             </div>
         </div>
@@ -47,7 +47,7 @@
             <div class="col d-flex justify-content-end">
                 <button class="js-podrobno">
                     <span>Подробно</span>
-                    <img src="/images/header/city-triangle.png" alt="треугольник">
+                    <img data-src="/images/header/city-triangle.png" alt="треугольник">
                 </button>
             </div>
         </div>
@@ -60,7 +60,7 @@
             <div class="col d-flex justify-content-end">
                 <button class="js-podrobno">
                     <span>Подробно</span>
-                    <img src="/images/header/city-triangle.png" alt="треугольник">
+                    <img data-src="/images/header/city-triangle.png" alt="треугольник">
                 </button>
             </div>
         </div>

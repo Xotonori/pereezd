@@ -4,8 +4,8 @@
 <title>VIP переезд</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/vip-pereezd/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" src="/images/header/sofa.png" alt="диван">
-<img class="man" src="/images/header/man.png" alt="грузчик">
+<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
+<img class="man" data-src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>VIP переезд</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -24,7 +24,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -36,7 +36,7 @@
     <div class="container-fluid header-main-theme discount-block mb-5">
         <div class="row justify-content-center">
             <div class="col-12 d-flex">
-                <img class="rullon mx-auto" src="/images/rullon.png" alt="рулон">
+                <img class="rullon mx-auto" data-src="/images/rullon.png" alt="рулон">
             </div>
             <h6 class="_header-6 col-11 text-center"><span class="important">Закажите услугу</span> по переезду магазина и получите скидку!</h6>
             <span class="additional-info2 col-11 text-center mt-2">Скидка на упаковочный материал <br><span class="big-red">40%</span></span>
@@ -187,7 +187,7 @@
             <div class="col-lg-3 benefit1 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img src="/images/price1.png" alt="копилка">
+                        <img data-src="/images/price1.png" alt="копилка">
                     </div>
                     <a href="/calculyator" class="h-hint col-12 text-center">Рассчитать стоимость на калькуляторе</a>
                     <p class="hint col-12 text-center">Мы можете самостоятельно
@@ -198,7 +198,7 @@
             <div class="col-lg-3 benefit2 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img src="/images/price2.png" alt="копилка">
+                        <img data-src="/images/price2.png" alt="копилка">
                     </div>
                     <a href="/zakaz" class="h-hint col-12 text-center">Вызвать оценщика (бесплатно)</a>
                     <p class="hint col-12 text-center">Наш менеджер рассчитает точную
@@ -209,7 +209,7 @@
             <div class="col-lg-3 benefit3 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img src="/images/price3.png" alt="копилка">
+                        <img data-src="/images/price3.png" alt="копилка">
                     </div>
                     <a href="/price" class="h-hint col-12 text-center">Посмотреть цены
                         на наши услуги</a>
@@ -230,52 +230,52 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <a href="/images/vip-pereezd/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/photo1_mini.jpg" alt="Фото 1">
+                                <img class="d-block" data-src="/images/vip-pereezd/photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/vip-pereezd/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/photo2_mini.jpg" alt="Фото 2">
+                                <img class="d-block" data-src="/images/vip-pereezd/photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/vip-pereezd/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/photo3_mini.jpg" alt="Фото 3">
+                                <img class="d-block" data-src="/images/vip-pereezd/photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/vip-pereezd/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/photo4_mini.jpg" alt="Фото 4">
+                                <img class="d-block" data-src="/images/vip-pereezd/photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/vip-pereezd/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/photo5_mini.jpg" alt="Фото 5">
+                                <img class="d-block" data-src="/images/vip-pereezd/photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/vip-pereezd/photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/photo6_mini.jpg" alt="Фото 6">
+                                <img class="d-block" data-src="/images/vip-pereezd/photo6_mini.jpg" alt="Фото 6">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/vip-pereezd/photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/photo7_mini.jpg" alt="Фото 7">
+                                <img class="d-block" data-src="/images/vip-pereezd/photo7_mini.jpg" alt="Фото 7">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/vip-pereezd/photo8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/photo8_mini.jpg" alt="Фото 8">
+                                <img class="d-block" data-src="/images/vip-pereezd/photo8_mini.jpg" alt="Фото 8">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/vip-pereezd/photo9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/photo9_mini.jpg" alt="Фото 9">
+                                <img class="d-block" data-src="/images/vip-pereezd/photo9_mini.jpg" alt="Фото 9">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/vip-pereezd/photo10.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/photo10_mini.jpg" alt="Фото 10">
+                                <img class="d-block" data-src="/images/vip-pereezd/photo10_mini.jpg" alt="Фото 10">
                             </a>
                         </div>
                     </div>

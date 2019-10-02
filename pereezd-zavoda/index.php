@@ -4,8 +4,8 @@
 <title>Переезд завода, производства, цеха</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/pereezd-zavoda/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" src="/images/header/sofa.png" alt="диван">
-<img class="man" src="/images/header/man.png" alt="грузчик">
+<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
+<img class="man" data-src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Переезд завода, производства, цеха</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -35,7 +35,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
         <div id="recommendationCaption1" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="/images/ofisnyy-pereezd/libher.png" class="d-block mx-auto" alt="слайд">
+                    <img data-src="/images/ofisnyy-pereezd/libher.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Коновалов Е.А.<br><small>Начальник отдела</small></h5>
                         <p class="text-left text-lg-center">
@@ -188,7 +188,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/ofisnyy-pereezd/megafon.png" class="d-block mx-auto" alt="слайд">
+                    <img data-src="/images/ofisnyy-pereezd/megafon.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Калугин А.И.<br><small>Административный директор</small></h5>
                         <p class="text-left text-lg-center">
@@ -198,7 +198,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/ofisnyy-pereezd/casamia.png" class="d-block mx-auto" alt="слайд">
+                    <img data-src="/images/ofisnyy-pereezd/casamia.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Кормилина Н.А.<br><small>Директор по персоналу</small></h5>
                         <p class="text-left text-lg-center">
@@ -208,7 +208,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/ofisnyy-pereezd/raskom.png" class="d-block mx-auto" alt="слайд">
+                    <img data-src="/images/ofisnyy-pereezd/raskom.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Ганза Д.А.<br><small>Директор Дирекции по продажам</small></h5>
                         <p class="text-left text-lg-center">
@@ -218,7 +218,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/ofisnyy-pereezd/mobius.png" class="d-block mx-auto" alt="слайд">
+                    <img data-src="/images/ofisnyy-pereezd/mobius.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Харченко Н.А.<br><small>Генеральный директор</small></h5>
                         <p class="text-left text-lg-center">
@@ -228,7 +228,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/ofisnyy-pereezd/ghelamco.png" class="d-block mx-auto" alt="слайд">
+                    <img data-src="/images/ofisnyy-pereezd/ghelamco.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Стивен Уилсон<br><small>Генеральный директор</small></h5>
                         <p class="text-left text-lg-center">
@@ -239,11 +239,11 @@
                 </div>
             </div>
             <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
                 <span class="sr-only">Previous</span>
             </a>
             <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
                 <span class="sr-only">Next</span>
             </a>
         </div>
