@@ -45,20 +45,29 @@ $(document).ready(function () {
         '.prostye-pravila-pereezda-bez-hlopot, .rasprostranennye-oshibki, .pereezd-po-oblasti, .upakovochnye-materialy,' +
         '.vozdushno-puzyrchataya-plenka, .kartonnye-korobki, .skotch-upakovochnyj, .sklad-na-kapitanskoy,' +
         '.sklad-na-suzranskoy, .sklad-na-verhnem, .video_reference, .muhina, .video_reference, .kliningovye_uslugi');
-
-});
+    });
 
 //functions////////////////////////////////////////////////////////////////////////////////////////////////
 
+
+//Делаем пустые шапки///////////////////////////////////////////////////////////////////////////////////////
 function minHeader (mainClass) {
     $(mainClass).parent().find('.header-main-theme').css({
-        'height' : '400px'
-
+        'height' : '200px'
     });
 
     $(mainClass).parent().find('.header-main-theme>h1').css({
-        'marginTop' : '130px'
+        'marginTop' : '30px'
     });
+
+    $(mainClass).parent().find('.header-main-theme>.left-bush').css({
+        'top' : '-5px'
+    });
+
+    $(mainClass).parent().find('.header-main-theme>.right-bush').css({
+        'top' : '-20px'
+    });
+
 }
 
 //Check submit/////////////////////////////////////////////////////////////////////////////////////////////

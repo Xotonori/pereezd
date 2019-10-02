@@ -37,7 +37,7 @@
         <div class="container mt-4">
             <div class="row">
                 <p class="col-12 text-center">
-                    <img src="/images/poputniy-gruz/img.png" alt="cars">
+                    <img src="/images/poputniy-gruz/img.png" alt="cars" class="w-100">
                 </p>
             </div>
         </div>
@@ -76,7 +76,7 @@
                     <div class="carousel-item active">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
-                                <img src="/images/preview-video.png" alt="превью" class="preview-picture">
+                                <img src="//img.youtube.com/vi/TpDumLwcEJM/mqdefault.jpg" alt="превью" class="preview-picture">
                                 <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
                             </div>
                             <h5>Попутный груз</h5>
@@ -138,7 +138,7 @@
                     <div class="carousel-item">
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
-                                <img src="/images/preview-video.png" alt="превью" class="preview-picture">
+                                <img src="//img.youtube.com/vi/9P0tiJuzZIo/mqdefault.jpg" alt="превью" class="preview-picture">
                                 <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal2">
                             </div>
                             <h5>Попутный груз</h5>

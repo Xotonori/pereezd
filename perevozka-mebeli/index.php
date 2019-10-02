@@ -494,7 +494,7 @@
                 <div class="carousel-item active">
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
+                            <img src="//img.youtube.com/vi/i3mR9aGQKyc/mqdefault.jpg" alt="превью" class="preview-picture">
                             <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
                         </div>
                         <h5>Перевозка мебели и вещей</h5>

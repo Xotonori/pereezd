@@ -949,7 +949,7 @@
                 <div class="carousel-item active">
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
+                            <img src="//img.youtube.com/vi/cSdP19WRaiY/mqdefault.jpg" alt="превью" class="preview-picture">
                             <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
                         </div>
                         <h5>Переезд квартиры на склад временного хранения</h5>
@@ -1026,7 +1026,7 @@
                 <div class="carousel-item">
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
+                            <img src="//img.youtube.com/vi/gYmN0vfhyrQ/mqdefault.jpg" alt="превью" class="preview-picture">
                             <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal2">
                         </div>
                         <h5>Квартирный переезд</h5>
@@ -1067,7 +1067,7 @@
                 <div class="carousel-item">
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
+                            <img src="//img.youtube.com/vi/wuQICJ6LeWA/mqdefault.jpg" alt="превью" class="preview-picture">
                             <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal3">
                         </div>
                         <h5>Переезд 3х комнатной квартиры</h5>
@@ -1108,7 +1108,7 @@
                 <div class="carousel-item">
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
+                            <img src="//img.youtube.com/vi/omR4AWmINgc/mqdefault.jpg" alt="превью" class="preview-picture">
                             <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal4">
                         </div>
                         <h5>Переезд 1 комнатной квартиры "под ключ" </h5>

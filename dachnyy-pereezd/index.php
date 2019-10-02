@@ -581,7 +581,7 @@
                 <div class="carousel-item active">
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
+                            <img src="//img.youtube.com/vi/mObR7Qa1IsY/mqdefault.jpg" alt="превью" class="preview-picture">
                             <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
                         </div>
                         <div class="col-11 js-long-text container">
@@ -641,7 +641,7 @@
                 <div class="carousel-item">
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
-                            <img src="/images/preview-video.png" alt="превью" class="preview-picture">
+                            <img src="//img.youtube.com/vi/CxcicrZrs84/mqdefault.jpg" alt="превью" class="preview-picture">
                             <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal2">
                         </div>
                         <div class="col-11 js-long-text container">
