@@ -728,52 +728,52 @@
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <a href="/images/perevozka-veshej/photo-1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka-veshej/photo-1.jpg" alt="Фото 1">
+                                    <img class="d-block" src="/images/perevozka-veshej/photo-1_mini.jpg" alt="Фото 1">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka-veshej/photo-2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka-veshej/photo-2.jpg" alt="Фото 2">
+                                    <img class="d-block" src="/images/perevozka-veshej/photo-2_mini.jpg" alt="Фото 2">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka-veshej/photo-3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka-veshej/photo-3.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/perevozka-veshej/photo-3_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka-veshej/photo-4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka-veshej/photo-4.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/perevozka-veshej/photo-4_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka-veshej/photo-5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka-veshej/photo-5.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/perevozka-veshej/photo-5_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka-veshej/photo-6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka-veshej/photo-6.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/perevozka-veshej/photo-6_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka-veshej/photo-7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka-veshej/photo-7.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/perevozka-veshej/photo-7_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka-veshej/photo-8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka-veshej/photo-8.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/perevozka-veshej/photo-8_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka-veshej/photo-9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka-veshej/photo-9.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/perevozka-veshej/photo-9_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka-veshej/photo-10.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka-veshej/photo-10.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/perevozka-veshej/photo-10_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                         </div>

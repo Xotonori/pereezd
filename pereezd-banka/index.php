@@ -940,53 +940,53 @@
                 <div id="client-reviews" class="carousel slide mx-auto mt-4 mb-4">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <a href="/images/ofisnyy-pereezd/IMG_20180609_102403.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/ofisnyy-pereezd/IMG_20180609_102403.jpg" alt="Фото 1">
+                            <a href="/images/ofisnyy-pereezd/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/ofisnyy-pereezd/photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/ofisnyy-pereezd/IMG_20180609_102504.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/ofisnyy-pereezd/IMG_20180609_102504.jpg" alt="Фото 2">
+                            <a href="/images/ofisnyy-pereezd/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/ofisnyy-pereezd/photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/ofisnyy-pereezd/IMG_20180609_102700.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/ofisnyy-pereezd/IMG_20180609_102700.jpg" alt="Фото 3">
+                            <a href="/images/ofisnyy-pereezd/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/ofisnyy-pereezd/photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/ofisnyy-pereezd/IMG_20180609_102745.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/ofisnyy-pereezd/IMG_20180609_102745.jpg" alt="Фото 4">
+                            <a href="/images/ofisnyy-pereezd/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/ofisnyy-pereezd/photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/ofisnyy-pereezd/IMG_20180609_104610.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/ofisnyy-pereezd/IMG_20180609_104610.jpg" alt="Фото 5">
+                            <a href="/images/ofisnyy-pereezd/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/ofisnyy-pereezd/photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/ofisnyy-pereezd/IMG_20180609_105114.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/ofisnyy-pereezd/IMG_20180609_105114.jpg" alt="Фото 6">
+                            <a href="/images/ofisnyy-pereezd/photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/ofisnyy-pereezd/photo6_mini.jpg" alt="Фото 6">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/ofisnyy-pereezd/IMG_20180609_110519.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/ofisnyy-pereezd/IMG_20180609_110519.jpg" alt="Фото 7">
+                            <a href="/images/ofisnyy-pereezd/photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/ofisnyy-pereezd/photo7_mini.jpg" alt="Фото 7">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/ofisnyy-pereezd/IMG_20180609_112827.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/ofisnyy-pereezd/IMG_20180609_112827.jpg" alt="Фото 8">
+                            <a href="/images/ofisnyy-pereezd/photo8.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/ofisnyy-pereezd/photo8_mini.jpg" alt="Фото 8">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/ofisnyy-pereezd/IMG_20180609_115121.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/ofisnyy-pereezd/IMG_20180609_115121.jpg" alt="Фото 9">
+                            <a href="/images/ofisnyy-pereezd/photo9.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/ofisnyy-pereezd/photo9_mini.jpg" alt="Фото 9">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/ofisnyy-pereezd/IMG_20180609_130023.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/ofisnyy-pereezd/IMG_20180609_130023.jpg" alt="Фото 10">
+                            <a href="/images/ofisnyy-pereezd/photo10.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/ofisnyy-pereezd/photo10_mini.jpg" alt="Фото 10">
                             </a>
                         </div>
                     </div>

@@ -1161,52 +1161,52 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <a href="/images/kvartirnyy-pereezd/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo1.jpg" alt="Фото 1">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/kvartirnyy-pereezd/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo2.jpg" alt="Фото 2">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/kvartirnyy-pereezd/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo3.jpg" alt="Фото 3">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/kvartirnyy-pereezd/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo4.jpg" alt="Фото 4">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/kvartirnyy-pereezd/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo5.jpg" alt="Фото 5">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/kvartirnyy-pereezd/photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo6.jpg" alt="Фото 6">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo6_mini.jpg" alt="Фото 6">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/kvartirnyy-pereezd/photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo7.jpg" alt="Фото 7">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo7_mini.jpg" alt="Фото 7">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/kvartirnyy-pereezd/photo8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo8.jpg" alt="Фото 8">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo8_mini.jpg" alt="Фото 8">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/kvartirnyy-pereezd/photo9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo9.jpg" alt="Фото 9">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo9_mini.jpg" alt="Фото 9">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/kvartirnyy-pereezd/photo10.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo10.jpg" alt="Фото 10">
+                                <img class="d-block" src="/images/kvartirnyy-pereezd/photo10_mini.jpg" alt="Фото 10">
                             </a>
                         </div>
                     </div>

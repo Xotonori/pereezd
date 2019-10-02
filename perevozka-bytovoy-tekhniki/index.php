@@ -757,17 +757,17 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <a href="/images/perevozka-bytovoy-tekhniki/photo-1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-bytovoy-tekhniki/photo-1.jpg" alt="Фото 1">
+                                <img class="d-block" src="/images/perevozka-bytovoy-tekhniki/photo-1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-bytovoy-tekhniki/photo-2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-bytovoy-tekhniki/photo-2.jpg" alt="Фото 2">
+                                <img class="d-block" src="/images/perevozka-bytovoy-tekhniki/photo-2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-bytovoy-tekhniki/photo-3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-bytovoy-tekhniki/photo-3.jpg" alt="Фото 3">
+                                <img class="d-block" src="/images/perevozka-bytovoy-tekhniki/photo-3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                     </div>

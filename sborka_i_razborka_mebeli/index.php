@@ -418,28 +418,28 @@
                 <div id="client-reviews" class="carousel slide mx-auto mt-4 mb-4">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <a href="/images/sborka_i_razborka_mebeli/1fv3QmIk4YU.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/sborka_i_razborka_mebeli/1fv3QmIk4YU.jpg" alt="Фото 1">
+                            <a href="/images/sborka_i_razborka_mebeli/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/sborka_i_razborka_mebeli/photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/sborka_i_razborka_mebeli/Bf9A_Z9JkhA.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/sborka_i_razborka_mebeli/Bf9A_Z9JkhA.jpg" alt="Фото 2">
+                            <a href="/images/sborka_i_razborka_mebeli/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/sborka_i_razborka_mebeli/photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/sborka_i_razborka_mebeli/cSm3b4Fv0Rg.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/sborka_i_razborka_mebeli/cSm3b4Fv0Rg.jpg" alt="Фото 3">
+                            <a href="/images/sborka_i_razborka_mebeli/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/sborka_i_razborka_mebeli/photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/sborka_i_razborka_mebeli/fp95qvyWhco.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/sborka_i_razborka_mebeli/fp95qvyWhco.jpg" alt="Фото 4">
+                            <a href="/images/sborka_i_razborka_mebeli/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/sborka_i_razborka_mebeli/photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/sborka_i_razborka_mebeli/xB3AtGmoF4o.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/sborka_i_razborka_mebeli/xB3AtGmoF4o.jpg" alt="Фото 5">
+                            <a href="/images/sborka_i_razborka_mebeli/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/sborka_i_razborka_mebeli/photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                     </div>

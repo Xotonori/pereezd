@@ -229,53 +229,53 @@
                 <div id="client-reviews" class="carousel slide mx-auto mt-4 mb-4">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <a href="/images/vip-pereezd/IMG_20180214_120835.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/IMG_20180214_120835.jpg" alt="Фото 1">
+                            <a href="/images/vip-pereezd/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/vip-pereezd/photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/vip-pereezd/IMG_20180214_120845.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/IMG_20180214_120845.jpg" alt="Фото 2">
+                            <a href="/images/vip-pereezd/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/vip-pereezd/photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/vip-pereezd/IMG_20180214_131054.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/IMG_20180214_131054.jpg" alt="Фото 3">
+                            <a href="/images/vip-pereezd/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/vip-pereezd/photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/vip-pereezd/IMG_20180214_135417.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/IMG_20180214_135417.jpg" alt="Фото 4">
+                            <a href="/images/vip-pereezd/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/vip-pereezd/photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/vip-pereezd/IMG_20180214_144843.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/IMG_20180214_144843.jpg" alt="Фото 5">
+                            <a href="/images/vip-pereezd/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/vip-pereezd/photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/vip-pereezd/IMG_20180214_172328.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/IMG_20180214_172328.jpg" alt="Фото 6">
+                            <a href="/images/vip-pereezd/photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/vip-pereezd/photo6_mini.jpg" alt="Фото 6">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/vip-pereezd/IMG_20180214_185948.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/IMG_20180214_185948.jpg" alt="Фото 7">
+                            <a href="/images/vip-pereezd/photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/vip-pereezd/photo7_mini.jpg" alt="Фото 7">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/vip-pereezd/IMG_20180215_120820.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/IMG_20180215_120820.jpg" alt="Фото 8">
+                            <a href="/images/vip-pereezd/photo8.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/vip-pereezd/photo8_mini.jpg" alt="Фото 8">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/vip-pereezd/IMG_20180215_182619.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/IMG_20180215_182619.jpg" alt="Фото 9">
+                            <a href="/images/vip-pereezd/photo9.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/vip-pereezd/photo9_mini.jpg" alt="Фото 9">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/vip-pereezd/IMG_20180215_182852.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/vip-pereezd/IMG_20180215_182852.jpg" alt="Фото 10">
+                            <a href="/images/vip-pereezd/photo10.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/vip-pereezd/photo10_mini.jpg" alt="Фото 10">
                             </a>
                         </div>
                     </div>

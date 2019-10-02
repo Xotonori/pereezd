@@ -608,53 +608,53 @@
                 <div id="client-reviews" class="carousel slide mx-auto mt-4 mb-4">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <a href="/images/perevozka-mebeli/аквариум.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-mebeli/аквариум.jpg" alt="Фото 1">
+                            <a href="/images/perevozka-mebeli/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/perevozka-mebeli/аквариум2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-mebeli/аквариум2.jpg" alt="Фото 2">
+                            <a href="/images/perevozka-mebeli/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/perevozka-mebeli/аквариум3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-mebeli/аквариум3.jpg" alt="Фото 3">
+                            <a href="/images/perevozka-mebeli/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/perevozka-mebeli/двери-от-шкафп-купэ.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-mebeli/двери-от-шкафп-купэ.jpg" alt="Фото 4">
+                            <a href="/images/perevozka-mebeli/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/perevozka-mebeli/полки-от-шкафа-купэ.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-mebeli/полки-от-шкафа-купэ.jpg" alt="Фото 5">
+                            <a href="/images/perevozka-mebeli/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/perevozka-mebeli/полностью-комната.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-mebeli/полностью-комната.jpg" alt="Фото 5">
+                            <a href="/images/perevozka-mebeli/photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo6_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/perevozka-mebeli/столик-стекло-2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-mebeli/столик-стекло-2.jpg" alt="Фото 5">
+                            <a href="/images/perevozka-mebeli/photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo7_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/perevozka-mebeli/столик-стекло.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-mebeli/столик-стекло.jpg" alt="Фото 5">
+                            <a href="/images/perevozka-mebeli/photo8.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo8_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/perevozka-mebeli/тумбочка-камод-шкаф.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-mebeli/тумбочка-камод-шкаф.jpg" alt="Фото 5">
+                            <a href="/images/perevozka-mebeli/photo9.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo9_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
-                            <a href="/images/perevozka-mebeli/шкаф-купэ.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-mebeli/шкаф-купэ.jpg" alt="Фото 5">
+                            <a href="/images/perevozka-mebeli/photo10.jpg" data-toggle="lightbox" data-gallery="review-photo">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo10_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                     </div>
