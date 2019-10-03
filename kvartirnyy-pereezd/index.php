@@ -12,8 +12,6 @@
 <button type="button" class="request-call" data-toggle="modal" data-target="#header-modal">Заказать переезд</button>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
-
-
 <main class="kvartirnyy-pereezd-main">
 <!--////PAGE-DESCRIPTION/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="js-long-text container">
@@ -103,7 +101,7 @@
                 <div class="carousel-item active">
                     <img src="/images/slider1-t1.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/sborka_i_razborka_mebeli">Сборка/разборка и перестановка мебели</a></h5>
+                        <h5><a href="/sborka_i_razborka_mebeli/">Сборка/разборка и перестановка мебели</a></h5>
                         <p>Даже недорогой квартирный переезд в Санкт-Петербурге не обходится без перевозки
                             мебели, которую нужно разобрать, вынести на лестничную площадку, упаковать и собрать
                             на новом месте. Мы выполняем такие работы быстро и качественно с использованием
@@ -113,7 +111,7 @@
                 <div class="carousel-item">
                     <img src="/images/slider1-t2.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-mebeli">Перевозка мебели</a></h5>
+                        <h5><a href="/perevozka-mebeli/">Перевозка мебели</a></h5>
                         <p>
                             Переезд квартир осуществляется с использованием специализированных мебельных фургонов, оборудованных креплениями, предотвращающими падение и самовольное перемещение мебели даже при передвижении по неровной дороге.
                         </p>
@@ -122,7 +120,7 @@
                 <div class="carousel-item">
                     <img src="/images/slider1-t3.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-bytovoy-tekhniki">Перевозка бытовой техники</a></h5>
+                        <h5><a href="/perevozka-bytovoy-tekhniki/">Перевозка бытовой техники</a></h5>
                         <p>
                             Заказывая у нас дешевый квартирный переезд, Вы можете не переживать за сохранность бытовой техники. Мы надлежащим образом упакуем ее в мягкий пупырчатый полиэтилен, разместим в кузове и надежно зафиксируем во избежание повреждения при транспортировке.
                         </p>
@@ -131,7 +129,7 @@
                 <div class="carousel-item">
                     <img src="/images/slider1-t4.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-veshej">Перевозка личных вещей</a></h5>
+                        <h5><a href="/perevozka-veshej/">Перевозка личных вещей</a></h5>
                         <p>
                             Каждая перевозка квартиры включает такие этапы как упаковка, погрузка/выгрузка и распаковка личных вещей. Мы располагаем необходимыми упаковочными материалами, которые получаем без торговой наценки — с завода, чтобы надежно защитить Ваше имущество от грязи и повреждений. При надобности примем ваши вещи на временное ответственное хранение.
                         </p>
@@ -140,7 +138,7 @@
                 <div class="carousel-item">
                     <img src="/images/slider1-t5.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/utilizatsiya-mebeli">Утилизация старой мебели></a></h5>
+                        <h5><a href="/utilizatsiya-mebeli/">Утилизация старой мебели></a></h5>
                         <p>
                             Вы можете не только заказать переезд квартиры, но и воспользоваться случаем, чтобы избавиться от ненужных предметов обстановки. Если вы хотите переехать без мебели, мы вывозим старую и поломанную мебель на полигоны, действуя в строгом соответствии с законом.
                         </p>
@@ -149,7 +147,7 @@
                 <div class="carousel-item">
                     <img src="/images/slider1-t6.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/utilizaciya-butovoy-tehniki">Утилизация бытовой техники</a></h5>
+                        <h5><a href="/utilizaciya-butovoy-tehniki/">Утилизация бытовой техники</a></h5>
                         <p>
                             При переезде квартиры или в качестве отдельной услуги мы поможем избавиться от старой или вышедшей из строя бытовой техники. Холодильники, кондиционеры и другие устройства вывозятся на площадки компаний, занимающихся их безопасной утилизацией.
                         </p>
@@ -158,7 +156,7 @@
                 <div class="carousel-item">
                     <img src="/images/slider1-t7.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/loaders">Услуги грузчиков</a></h5>
+                        <h5><a href="/loaders/">Услуги грузчиков</a></h5>
                         <p>
                             Услуги грузчиков требуются не только при перевозках квартир, но и при покупке мебели, бытовой техники и т.д. Наши специалисты всегда готовы на выезд, в том числе в область. Они обладают высокой квалификацией и располагают необходимой оснасткой для безопасного исполнения работ любой сложности. Оплата — почасовая.
                         </p>
@@ -167,7 +165,7 @@
                 <div class="carousel-item">
                     <img src="/images/slider1-t8.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/kvartirnyy-pereezd">Упаковка мебели, техники и хрупких предметов</a></h5>
+                        <h5><a href="/kvartirnyy-pereezd/">Упаковка мебели, техники и хрупких предметов</a></h5>
                         <p>
                             Даже при дешевых квартирных переездах не следует экономить на качественной упаковке мебели, бытовой техники и хрупких предметов. Это позволит избежать их повреждения и, соответственно, лишних затрат на приобретение замены.
                         </p>
@@ -176,7 +174,7 @@
                 <div class="carousel-item">
                     <img src="/images/slider1-t9.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-royalya">Перевозка пианино, рояля</a></h5>
+                        <h5><a href="/perevozka-royalya/">Перевозка пианино, рояля</a></h5>
                         <p>
                             Если Вы являетесь владельцем пианино или рояля, обязательно упомяните об этом при заказе переезда квартиры. Для безопасного перемещения крупных музыкальных инструментов требуется специальная оснастка, которую наши грузчики привезут с собой.
                         </p>
@@ -185,7 +183,7 @@
                 <div class="carousel-item">
                     <img src="/images/slider1-t10.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/kvartirnyy-pereezd">Обустройство квартиры</a></h5>
+                        <h5><a href="/kvartirnyy-pereezd/">Обустройство квартиры</a></h5>
                         <p>
                             Чтобы от недорогого квартирного переезда в Санкт-Петербурге остались исключительно приятные впечатления, не забудьте заказать услугу расстановки мебели и раскладки вещей по местам. Мы также готовы предложить профессиональный клининг (уборка). Это позволит отпраздновать новоселье в уже обустроенной квартире.
                         </p>

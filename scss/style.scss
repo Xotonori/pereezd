@@ -1432,7 +1432,12 @@ body {
   }
 
 
-  word-break: break-all;
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+    word-break: break-all;
+  }
 }
 
 
