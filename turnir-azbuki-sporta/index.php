@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="19 и 20 сентября — «ВЕСЁЛЫЕ РЕБЯТА» в Санкт-Петербурге! 19-20 сентября на стадионе «Динамо» прошел ежегодный международный турнир среди детских команд" />
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Турнир Азбуки спорта</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/turnir-azbuki-sporta/" />
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <!--<img class="sofa" src="/images/header/sofa.png" alt="диван">-->
 <!--<img class="man" src="/images/header/man.png" alt="грузчик">-->

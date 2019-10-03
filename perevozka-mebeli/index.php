@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Перевозка мебели в Санкт-Петербурге с помощью грузчиков компании Переезд Без Хлопот будет быстрой, заботливой и эффективной!" />
 <meta name="keywords" itemprop="keywords" content="перевозка мебели спб петербург недорого санкт дешево грузчики" />
 <title>Перевозка мебели в Санкт-Петербурге, недорого перевезти мебель без хлопот в СПБ</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/perevozka-mebeli/" />
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

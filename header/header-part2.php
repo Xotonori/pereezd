@@ -29,13 +29,13 @@
             <!-- Links -->
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link text-center" href="/about">О компании</a>
+                    <a class="nav-link text-center" href="/about/">О компании</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-center" href="/cars">Автопарк</a>
+                    <a class="nav-link text-center" href="/cars/">Автопарк</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-center" href="/price">Цены</a>
+                    <a class="nav-link text-center" href="/price/">Цены</a>
                 </li>
 
                 <!--Services-menu--->
@@ -43,7 +43,7 @@
                     <li class="nav-item navbar-toggler toggler-example services-menu w-100" data-toggle="collapse"
                         data-target="#services-menu" aria-controls="wrap-services-menu"
                         aria-expanded="false" aria-label="Toggle navigation">
-                        <a class="nav-link text-center" href="#">Услуги</a>
+                        <a class="nav-link text-center"  href="#/">Услуги</a>
                     </li>
                     <div class="collapse navbar-collapse wrap-services-menu" id="services-menu">
                         <!-- Links -->
@@ -59,43 +59,43 @@
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/ofisnyy-pereezd">Переезд офиса</a>
+                                            <a class="nav-link text-center" href="/ofisnyy-pereezd/">Переезд офиса</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/kvartirnyy-pereezd">Переезд квартиры</a>
+                                            <a class="nav-link text-center" href="/kvartirnyy-pereezd/">Переезд квартиры</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/pereezd-sklada">Переезд склада</a>
+                                            <a class="nav-link text-center" href="/pereezd-sklada/">Переезд склада</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/pereezd_magazina">Переезд магазина</a>
+                                            <a class="nav-link text-center" href="/pereezd_magazina/">Переезд магазина</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/pereezd-predpriyatiya">Переезд предприятия</a>
+                                            <a class="nav-link text-center" href="/pereezd-predpriyatiya/">Переезд предприятия</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/pereezd-zavoda">Переезд завода</a>
+                                            <a class="nav-link text-center" href="/pereezd-zavoda/">Переезд завода</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/pereezd-vystavki">Переезд выставки</a>
+                                            <a class="nav-link text-center" href="/pereezd-vystavki/">Переезд выставки</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/pereezd-banka">Переезд банка</a>
+                                            <a class="nav-link text-center" href="/pereezd-banka/">Переезд банка</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/pereezd-po-oblasti">Пререзды по области</a>
+                                            <a class="nav-link text-center" href="/pereezd-po-oblasti/">Пререзды по области</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/pereezd-mezhgorod">Междугородний переезд</a>
+                                            <a class="nav-link text-center" href="/pereezd-mezhgorod/">Междугородний переезд</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/dachnyy-pereezd">Дачный переезд</a>
+                                            <a class="nav-link text-center" href="/dachnyy-pereezd/">Дачный переезд</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/pereezd-deshevo">Эконом переезд</a>
+                                            <a class="nav-link text-center" href="/pereezd-deshevo/">Эконом переезд</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/vip-pereezd">VIP переезд</a>
+                                            <a class="nav-link text-center" href="/vip-pereezd/">VIP переезд</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -112,25 +112,25 @@
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/loaders">Услуги грузчиков</a>
+                                            <a class="nav-link text-center" href="/loaders/">Услуги грузчиков</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/sborka_i_razborka_mebeli">Сборка и разборка мебели</a>
+                                            <a class="nav-link text-center" href="/sborka_i_razborka_mebeli/">Сборка и разборка мебели</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link text-center" href="/razgruzka_fur/">Разгрузка фур</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/perestanovka-mebeli">Перестановка мебели</a>
+                                            <a class="nav-link text-center" href="/perestanovka-mebeli/">Перестановка мебели</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/pereezd-s-gruzchikami">Переезд с грузчиками</a>
+                                            <a class="nav-link text-center" href="/pereezd-s-gruzchikami/">Переезд с грузчиками</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/kvartirniy_pereezd_s_gruzchikami">Квартирный переезд с грузчиками</a>
+                                            <a class="nav-link text-center" href="/kvartirniy_pereezd_s_gruzchikami/">Квартирный переезд с грузчиками</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/utilizatsiya-musora">Вынос строительного мусора</a>
+                                            <a class="nav-link text-center" href="/utilizatsiya-musora/">Вынос строительного мусора</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -147,28 +147,28 @@
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/perevozka-mebeli">Перевозка мебели</a>
+                                            <a class="nav-link text-center" href="/perevozka-mebeli/">Перевозка мебели</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/perevozka-bytovoy-tekhniki">Перевозка бытовой техники</a>
+                                            <a class="nav-link text-center" href="/perevozka-bytovoy-tekhniki/">Перевозка бытовой техники</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/perevozka-veshej">Перевозка личных вещей</a>
+                                            <a class="nav-link text-center" href="/perevozka-veshej/">Перевозка личных вещей</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/utilizatsiya-mebeli">Вывоз старой мебели</a>
+                                            <a class="nav-link text-center" href="/utilizatsiya-mebeli/">Вывоз старой мебели</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/gazel-dlya-pereezda">Заказать Газель</a>
+                                            <a class="nav-link text-center" href="/gazel-dlya-pereezda/">Заказать Газель</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/expedirovanie-gruzov">Экспедирование грузов</a>
+                                            <a class="nav-link text-center" href="/expedirovanie-gruzov/">Экспедирование грузов</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/poputniy-gruz">Попутный груз</a>
+                                            <a class="nav-link text-center" href="/poputniy-gruz/">Попутный груз</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/perevozka-divana">Перевозка дивана</a>
+                                            <a class="nav-link text-center" href="/perevozka-divana/">Перевозка дивана</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -185,19 +185,19 @@
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/takelaj">Такелажные работы</a>
+                                            <a class="nav-link text-center" href="/takelaj/">Такелажные работы</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/perevozka_pianino">Перевозка пианино</a>
+                                            <a class="nav-link text-center" href="/perevozka_pianino/">Перевозка пианино</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/perevozka-royalya">Перевозка рояля</a>
+                                            <a class="nav-link text-center" href="/perevozka-royalya/">Перевозка рояля</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/perevozka_seyfov">Перевозка сейфов</a>
+                                            <a class="nav-link text-center" href="/perevozka_seyfov/">Перевозка сейфов</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/perevozka-bankomatov">Перевозка банкоматов</a>
+                                            <a class="nav-link text-center" href="/perevozka-bankomatov/">Перевозка банкоматов</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -214,25 +214,25 @@
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/vremennoe-hranenie">Временное хранение</a>
+                                            <a class="nav-link text-center" href="/vremennoe-hranenie/">Временное хранение</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/vremennoe-hranenie-veschey">Хранение вещей</a>
+                                            <a class="nav-link text-center" href="/vremennoe-hranenie-veschey/">Хранение вещей</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/hranenie-mebeli">Хранение мебели</a>
+                                            <a class="nav-link text-center" href="/hranenie-mebeli/">Хранение мебели</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/hranenie-na-vremya-remonta">Хранение на время ремонта</a>
+                                            <a class="nav-link text-center" href="/hranenie-na-vremya-remonta/">Хранение на время ремонта</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/hranenie-na-vremya-pereezda">Хранение на время переезда</a>
+                                            <a class="nav-link text-center" href="/hranenie-na-vremya-pereezda/">Хранение на время переезда</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/skladi">Наши склады</a>
+                                            <a class="nav-link text-center" href="/skladi/">Наши склады</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/individualnoe-hranenie">Индивидуальное хранение</a>
+                                            <a class="nav-link text-center" href="/individualnoe-hranenie/">Индивидуальное хранение</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -249,19 +249,19 @@
                                     <!-- Links -->
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/upakovochnye-materialy">Упаковочные материалы</a>
+                                            <a class="nav-link text-center" href="/upakovochnye-materialy/">Упаковочные материалы</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/streich-plenka">Стрейч пленка</a>
+                                            <a class="nav-link text-center" href="/streich-plenka/">Стрейч пленка</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/vozdushno-puzyrchataya-plenka">Воздушно-пузырчатая пленка</a>
+                                            <a class="nav-link text-center" href="/vozdushno-puzyrchataya-plenka/">Воздушно-пузырчатая пленка</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/kartonnye-korobki">Картонные коробки</a>
+                                            <a class="nav-link text-center" href="/kartonnye-korobki/">Картонные коробки</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link text-center" href="/skotch-upakovochnyj">Скотч упаковочный</a>
+                                            <a class="nav-link text-center" href="/skotch-upakovochnyj/">Скотч упаковочный</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -272,10 +272,10 @@
                 <!--/ .Services-menu--->
 
                 <li class="nav-item">
-                    <a class="nav-link text-center" href="/calculyator">Калькулятор</a>
+                    <a class="nav-link text-center" href="/calculyator/">Калькулятор</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-center" href="/zakaz">Онлайн заказ</a>
+                    <a class="nav-link text-center" href="/zakaz/">Онлайн заказ</a>
                 </li>
 
                 <!--Reviews--->
@@ -290,16 +290,16 @@
                         <!-- Links -->
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item">
-                                <a class="nav-link text-center" href="/individual_reference">Отзывы от физ.лиц</a>
+                                <a class="nav-link text-center" href="/individual_reference/">Отзывы от физ.лиц</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-center" href="/reference">Отзывы от компаний</a>
+                                <a class="nav-link text-center" href="/reference/">Отзывы от компаний</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-center" href="/video_reference">Видео отзывы</a>
+                                <a class="nav-link text-center" href="/video_reference/">Видео отзывы</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-center" href="/turnir-azbuki-sporta">Благотворительность</a>
+                                <a class="nav-link text-center" href="/turnir-azbuki-sporta/">Благотворительность</a>
                             </li>
                         </ul>
                     </div>
@@ -307,7 +307,7 @@
                 <!--/ .Reviews--->
 
                 <li class="nav-item">
-                    <a class="nav-link text-center" href="/contacts">Контакты</a>
+                    <a class="nav-link text-center" href="/contacts/">Контакты</a>
                 </li>
             </ul>
             <!-- Links -->

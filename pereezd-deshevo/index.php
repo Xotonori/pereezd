@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Дешевый переезд - это реально с компанией Переезд Без Хлопот" />
 <meta name="keywords" itemprop="keywords" content="дешевый переезд дешево" />
 <title>Дешевый переезд без хлопот в СПБ</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/pereezd-deshevo/" />
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

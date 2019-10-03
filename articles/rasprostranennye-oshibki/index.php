@@ -2,7 +2,7 @@
     <meta name="description" itemprop="description" content="Полезные статьи от компании Переезд Без Хлопот в Санкт-Петербурге: Распространенные ошибки во время переезда и как их избежать" />
     <meta name="keywords" itemprop="keywords" content="" />
     <title>Распространенные ошибки во время переезда и как их избежать</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/articles/rasprostranennye-oshibki/"/>
+    
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
 <!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->

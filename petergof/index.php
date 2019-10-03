@@ -3,7 +3,7 @@
     <meta name="description" itemprop="description" content="Компания Переезд Без Хлопот организует для вас профессиональный переезд квартиры или офиса в Петергофе, перевозка мебели с грузчиками."/>
     <meta name="keywords" itemprop="keywords" content="переезд Петергоф квартиры офисы перевозка мебели" />
     <title>Переезд Петергоф | Переезд квартиры и офиса в Петергофе, перевозка мебели</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
+    
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
     <img class="sofa" src="/images/header/sofa.png" alt="диван">
     <img class="man" src="/images/header/man.png" alt="грузчик">

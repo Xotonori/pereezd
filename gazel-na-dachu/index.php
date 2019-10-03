@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Закажите газель на дачу в компании ПБХ-СПБ. Быстрая подача машины, низкие цены, звоните: +7 (812) 982-88-58."/>
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Газель на дачу - заказать газель на дачу в СПБ</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/gazel-na-dachu/"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

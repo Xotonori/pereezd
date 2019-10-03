@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Компания Переезд Без Хлопот организует временное хранение вещей в Санкт-Петербурге"/>
 <meta name="keywords" itemprop="keywords" content="хранение мебели спб переезд сдать мебель на хранение на время ремонта" />
 <title>Хранение мебели на время ремонта или переезда, сдать мебель на хранение в Санкт-Петербурге - Переезд без хлопот</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/hranenie-mebeli"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

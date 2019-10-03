@@ -2,7 +2,7 @@
     <meta name="description" itemprop="description" content="ПЕРЕЕЗД БЕЗ ХЛОПОТ - утилизация холодильников с грузчиками в Санкт-Петербурге и области. Недорого! Организуем вывоз старого холодильника из квартиры на" />
     <meta name="keywords" itemprop="keywords" content="холодильник утилизация вывоз старого грузчики перевезти недорого в Санкт-Петербурге цены" />
     <title>Утилизация холодильников с грузчиками, вывоз старого холодильника из квартиры на утилизацию в Санкт-Петербурге</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/utiliaciya-holodilnikov/"/>
+    
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
     <img class="sofa" src="/images/header/sofa.png" alt="диван">
     <img class="man" src="/images/header/man.png" alt="грузчик">

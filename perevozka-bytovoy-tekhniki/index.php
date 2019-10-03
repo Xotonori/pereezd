@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Заказать перевозку ОТПРАВИТЬ Перевозка крупной бытовой техники–услуга, требующая специализированных средств транспортировки. Для обеспечения" />
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Перевозка бытовой техники</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/perevozka-bytovoy-tekhniki/" />
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Компания 'Переезд без хлопот' оказывает услуги по переезду в Санкт-Петербурге"/>
 <meta name="keywords" itemprop="keywords" content="переезд питер санкт петербург услуги спб служба заказать услуги под ключ" />
 <title>Переезд в Санкт-Петербурге, заказать услуги по переезду в СПБ, переезд под ключ в Питере</title>
-<link rel="canonical" href="https://pereezdy-spb.ru"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
@@ -70,8 +70,8 @@
                     </div>
                     <p class="h-hint col-12 text-center mainBlueColor">Большое количество положительных отзывов</p>
                     <p class="hint col-12 text-center">На сайте Вы узнаете отзывы людей, которые уже воспользовались нашими услугами.
-                        <a href="/individual_reference/" class="blue-ancor"> Почитайте </a>и убедитесь, что нам можно доверять.
-                        Посмотрите<a href="/video_reference/" class="blue-ancor"> видео отзывы </a>и увидите модель Вашего будущего переезда. Закажите переезд по Санкт-Петербургу, Ленинградской области и мы постараемся заполучить положительные рекомендации.</p>
+                        <a href="/individual_reference/" class=/"blue-ancor/"> Почитайте   </a>и убедитесь, что нам можно доверять.
+                        Посмотритеи увидите модель Вашего будущего переезда. Закажите переезд по Санкт-Петербургу, Ленинградской области и мы постараемся заполучить положительные рекомендации.</p>
                 </div>
             </div>
         </div>
@@ -91,7 +91,7 @@
                 <div class="carousel-item active">
                     <img src="/images/main/1pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/kvartirnyy-pereezd">Переезд квартиры под ключ</a></h5>
+                        <h5><a href="/kvartirnyy-pereezd/">Переезд квартиры под ключ</a></h5>
                         <p>
                             Предлагаем все услуги переезда, которые могут Вам понадобиться: аккуратно разберем мебель, упакуем, погрузим и перевезем вещи, соберем и расставим предметы в новой квартире, вывезем использованную упаковку.
                         </p>
@@ -100,7 +100,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/2pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/dachnyy-pereezd">Переезд на дачу</a></h5>
+                        <h5><a href="/dachnyy-pereezd/">Переезд на дачу</a></h5>
                         <p>
                             Организуем быстрый и бережный переезд из Санкт-Петербурга на дачу в любую точку области. Предоставим подходящий транспорт и упаковочные материалы, перевезем мебель, саженцы, личные вещи, технику.
                         </p>
@@ -109,7 +109,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/3pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perestanovka-mebeli">Перевозка мебели с грузчиками</a></h5>
+                        <h5><a href="/perestanovka-mebeli/">Перевозка мебели с грузчиками</a></h5>
                         <p>
                             Наши грузчики – специалисты широкого профиля. Они не только перенесут мебель в кузов автомобиля или выгрузят ее после перевозки, но также аккуратно разберут, соберут, упакуют, промаркируют каждую деталь.
                         </p>
@@ -118,7 +118,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/4pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-bytovoy-tekhniki">Перевозка бытовой техники</a></h5>
+                        <h5><a href="/perevozka-bytovoy-tekhniki/">Перевозка бытовой техники</a></h5>
                         <p>
                             Перевозим любую технику, включая холодильники любой высоты, морозильные камеры, газовые плиты, духовые шкафы. По Вашему заказу не только перевезем технику, но и подготовим ее к транспортировке: закрепим детали, упакуем и пр.
                         </p>
@@ -127,7 +127,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/5pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-veshej">Перевозка личных вещей</a></h5>
+                        <h5><a href="/perevozka-veshej/">Перевозка личных вещей</a></h5>
                         <p>
                             Вы можете упаковать личные вещи для перевозки самостоятельно или же доверить это нашим специалистам. Они тщательно упакуют все необходимое в коробки и промаркируют их, чтобы Вы смогли без труда найти всё после окончания переезда.
                         </p>
@@ -136,7 +136,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/5pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-divana">Перевозка дивана</a></h5>
+                        <h5><a href="/perevozka-divana/">Перевозка дивана</a></h5>
                         <p>
                             Перевозим диваны с любым механизмом трансформации, включая крупные угловые модели. В комплекс услуг уходит подбор и использование упаковочных материалов: с их помощью мы защитим обивку от грязи и повреждений.
                         </p>
@@ -145,7 +145,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/7pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka-antikvar">Перевозка антиквариата</a></h5>
+                        <h5><a href="/perevozka-antikvar/">Перевозка антиквариата</a></h5>
                         <p>
                             Организуем бережную упаковку и транспортировку любых предметов антиквариата, включая мебель, декоративные элементы, посуду. Несем материальную ответственность за все перевозимые вещи и гарантируем их сохранность.
                         </p>
@@ -177,7 +177,7 @@
                 <div class="carousel-item active">
                     <img src="/images/main/8pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/ofisnyy-pereezd">Переезд офиса под ключ</a></h5>
+                        <h5><a href="/ofisnyy-pereezd/">Переезд офиса под ключ</a></h5>
                         <p>
                             Организация переезда полностью ложится на нас. Разберем мебель, упакуем офисную технику, документы, оборудование. После перевозки расставим предметы так, как Вы укажете, вывезем использованные упаковочные материалы.
                         </p>
@@ -186,7 +186,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/9pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/pereezd-sklada">Переезд склада</a></h5>
+                        <h5><a href="/pereezd-sklada/">Переезд склада</a></h5>
                         <p>
                             Поможем организовать переезд от начала до конца: не только подберем транспорт и упаковку, но также составим подробный график работ. В список услуг входит демонтаж и установка складских стеллажей, оборудования.
                         </p>
@@ -195,7 +195,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/10pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/pereezd_magazina">Переезд магазина</a></h5>
+                        <h5><a href="/pereezd_magazina/">Переезд магазина</a></h5>
                         <p>
                             Проведем переезд качественно: гарантируем сохранность торгового оборудования, кассовых аппаратов, техники, мебели и товаров. Срок окончания работ рассчитывается точно: Вы сможете заранее спланировать открытие магазина.
                         </p>
@@ -204,7 +204,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/11pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/pereezd-predpriyatiya">Переезд предприятия</a></h5>
+                        <h5><a href="/pereezd-predpriyatiya/">Переезд предприятия</a></h5>
                         <p>
                             Предлагаем заказать переезд под ключ. В список услуг входят такелажные работы, демонтаж и установка оборудования, упаковка, предоставление транспорта. При необходимости поучаствуем в проведении пусконаладочных работ.
                         </p>
@@ -213,7 +213,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/12pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perevozka_seyfov">Перевозка сейфов</a></h5>
+                        <h5><a href="/perevozka_seyfov/">Перевозка сейфов</a></h5>
                         <p>
                             Для бережной погрузки и выгрузки сейфов мы используем надежное оборудование. Такелажными работами занимаются опытные сотрудники – им под силу демонтировать и вынести сейф даже при отсутствии грузового лифта.
                         </p>
@@ -222,7 +222,7 @@
                 <div class="carousel-item">
                     <img src="/images/main/13pr.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5><a href="/perestanovka-mebeli">Перестановка мебели</a></h5>
+                        <h5><a href="/perestanovka-mebeli/">Перестановка мебели</a></h5>
                         <p>
                             Вы можете заказать у нас перестановку мебели в пределах одного кабинета, этажа или здания. В случае необходимости организуем разборку и сборку. Работаем с любой мебелью, включая архивные стеллажи и крупногабаритные шкафы.
                         </p>
@@ -357,7 +357,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price1.png" alt="копилка">
                     </div>
-                    <a href="/calculyator" class="h-hint col-12 text-center">Рассчитать стоимость на калькуляторе</a>
+                    <a href="/calculyator/" class="h-hint col-12 text-center">Рассчитать стоимость на калькуляторе</a>
                     <p class="hint col-12 text-center">Мы можете самостоятельно
                         за 5 секунд рассчитать стоимость
                         переезда на нашем калькуляторе.</p>
@@ -368,7 +368,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price2.png" alt="копилка">
                     </div>
-                    <a href="/zakaz" class="h-hint col-12 text-center">Вызвать оценщика (бесплатно)</a>
+                    <a href="/zakaz/" class="h-hint col-12 text-center">Вызвать оценщика (бесплатно)</a>
                     <p class="hint col-12 text-center">Наш менеджер рассчитает точную
                         стоимость переезда под ключ,
                         которая потом не изменится.</p>
@@ -379,7 +379,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price3.png" alt="копилка">
                     </div>
-                    <a href="/price" class="h-hint col-12 text-center">Посмотреть цены
+                    <a href="/price/" class="h-hint col-12 text-center">Посмотреть цены
                         на наши услуги</a>
                     <p class="hint col-12 text-center">Наш менеджер рассчитает точную
                         стоимость переезда под ключ,

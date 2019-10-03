@@ -2,7 +2,7 @@
     <meta name="description" itemprop="description" content="Услуга вывоза старых плит от компании Переезд Без Хлопот в Санкт-Петербурге" />
     <meta name="keywords" itemprop="keywords" content="" />
     <title>Вывоз старых плит</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/vyvoz-starykh-plit/"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
     <img class="sofa" src="/images/header/sofa.png" alt="диван">
     <img class="man" src="/images/header/man.png" alt="грузчик">

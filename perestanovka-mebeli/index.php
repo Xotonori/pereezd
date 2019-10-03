@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Отдайте перестановку мебели грузчикам компании Переезд Без Хлопот" />
 <meta name="keywords" itemprop="keywords" content="перестановка мебели" />
 <title>Перестановка мебели без хлопот в СПБ</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/perestanovka-mebeli/" />
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

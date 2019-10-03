@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Квартирный переезд с грузчиками в Санкт-Петербурге от компании ПБХ-СПБ. Низкие цены, опрятные грузчики, собственные машины, звоните: +7 (812) 982-88-58." />
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Квартирный переезд с грузчиками недорого в Санкт-Петербурге</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/kvartirniy_pereezd_s_gruzchikami/" />
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="На этой странице вы можете оформить заказ на переезд вашей квартиры или офиса, заказать перевозку мебели или услуги грузчиков в Санкт-Петербурге." />
 <meta name="keywords" itemprop="keywords" content="Заказать переезд заказ" />
 <title>Заказать переезд, онлайн заказ - Переезд без хлопот</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/zakaz/"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <!--<img class="sofa" src="/images/header/sofa.png" alt="диван">-->
 <!--<img class="man" src="/images/header/man.png" alt="грузчик">-->

@@ -47,27 +47,10 @@ $(document).ready(function () {
         '.sklad-na-suzranskoy, .sklad-na-verhnem, .video_reference, .muhina, .video_reference, .kliningovye_uslugi,' +
         ' .turnir, .spec-sbp, .page-404');
 
-    minSizeTable();
-
 });
-
-$( window ).resize(function() {
-    minSizeTable();
-});
-
 
 
 //functions////////////////////////////////////////////////////////////////////////////////////////////////
-
-function minSizeTable() {
-    if ($(window).width() < 400) {
-        $('table').addClass('minSizeTable');
-    } else {
-        $('table').removeClass('minSizeTable');
-    }
-}
-
-
 //Делаем пустые шапки///////////////////////////////////////////////////////////////////////////////////////
 function minHeader (mainClass) {
     $(mainClass).parent().find('.header-main-theme').css({
@@ -87,7 +70,6 @@ function minHeader (mainClass) {
     });
 
 }
-
 
 //Check submit/////////////////////////////////////////////////////////////////////////////////////////////
 function phoneValidation (value) {
@@ -155,4 +137,3 @@ function formValidation(formInputs, form) {
     return true;
 }
 //Check submit end/////////////////////////////////////////////////////////////////////////////////////////////
-

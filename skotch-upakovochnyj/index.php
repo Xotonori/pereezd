@@ -2,7 +2,7 @@
     <meta name="description" itemprop="description" content="скотч с логотипом цена 1шт: 100 руб. скотч &quot;осторожно хрупкое&quot; цена 1шт: 90 руб. скотч прозрачный 60м. цена 1шт:"/>
     <meta name="keywords" itemprop="keywords" content="" />
     <title>Упаковочный скотч</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/skotch-upakovochnyj"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
 <!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->

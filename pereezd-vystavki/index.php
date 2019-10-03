@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Компания «ПереездБезХлопот» осуществляет профессиональную и качественную перевозку выставок в СПБ по выгодным ценам." />
 <meta name="keywords" itemprop="keywords" content="переезд выставки,перевозка выставки,цена,стоимость,услуга,заказать" />
 <title>Переезд выставки</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/pereezd-vystavki/"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

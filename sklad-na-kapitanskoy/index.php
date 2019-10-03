@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Адрес: г. Санкт-Петербург, Капитанская ул., д. 4. Объем / Площадь Цены за 1 месяц при оплате за… 1"/>
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Склад временного хранения на ул. Капитанская</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/sklad-na-kapitanskoy/"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
 <!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->

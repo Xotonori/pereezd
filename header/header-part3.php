@@ -18,31 +18,31 @@
                     <a class="nav-link text-left" href="/">Санкт-Петербург</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-left" href="/vsevolgsk">Всеволжск</a>
+                    <a class="nav-link text-left" href="/vsevolgsk/">Всеволжск</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-left" href="/gatchina">Гатчина</a>
+                    <a class="nav-link text-left" href="/gatchina/">Гатчина</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-left" href="/kolpino">Колпино</a>
+                    <a class="nav-link text-left" href="/kolpino/">Колпино</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-left" href="/krasnoe-selo">Красное село</a>
+                    <a class="nav-link text-left" href="/krasnoe-selo/">Красное село</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-left" href="/lomonosov">Ломоносов</a>
+                    <a class="nav-link text-left" href="/lomonosov/">Ломоносов</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-left" href="/pavlovsk">Павловск</a>
+                    <a class="nav-link text-left" href="/pavlovsk/">Павловск</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-left" href="/petergof">Петергоф</a>
+                    <a class="nav-link text-left" href="/petergof/">Петергоф</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-left" href="/pushkin">Пушкин</a>
+                    <a class="nav-link text-left" href="/pushkin/">Пушкин</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-left" href="/sestroreck">Сестрорецк</a>
+                    <a class="nav-link text-left" href="/sestroreck/">Сестрорецк</a>
                 </li>
             </ul>
         </div>

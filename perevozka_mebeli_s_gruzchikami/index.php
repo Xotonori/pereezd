@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Осуществляем профессиональную перевозку мебели с грузчиками в СПБ по выгодной цене! Отзывы клиентов."/>
 <meta name="keywords" itemprop="keywords" content="перевозка мебели с грузчиками,цена,стоимость,заказать" />
 <title>Перевозка мебели с грузчиками в Санкт-Петербурге</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/perevozka_mebeli_s_gruzchikami/"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

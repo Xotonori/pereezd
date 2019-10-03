@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Наши цены на организацию офисных и квартирных переездов под ключ одни из самых низких в Санкт-Петербурге."/>
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Цены на переезд под ключ</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/price/"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

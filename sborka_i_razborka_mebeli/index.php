@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Аккуратная сборка и разборка мебели специалистами компании Переезд Без Хлопот в Санкт-Петербурге" />
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Сборка и разборка мебели - перевозка и сборка мебели в СПБ</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/sborka_i_razborka_mebeli/" />
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
@@ -157,7 +157,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price1.png" alt="копилка">
                     </div>
-                    <a href="/calculyator" class="h-hint col-12 text-center">Рассчитать стоимость на калькуляторе</a>
+                    <a href="/calculyator/" class="h-hint col-12 text-center">Рассчитать стоимость на калькуляторе</a>
                     <p class="hint col-12 text-center">Мы можете самостоятельно
                         за 5 секунд рассчитать стоимость
                         переезда на нашем калькуляторе.</p>
@@ -168,7 +168,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price2.png" alt="копилка">
                     </div>
-                    <a href="/zakaz" class="h-hint col-12 text-center">Вызвать оценщика (бесплатно)</a>
+                    <a href="/zakaz/" class="h-hint col-12 text-center">Вызвать оценщика (бесплатно)</a>
                     <p class="hint col-12 text-center">Наш менеджер рассчитает точную
                         стоимость переезда под ключ,
                         которая потом не изменится.</p>
@@ -357,7 +357,7 @@
             </div>
         </div>
         <div class="d-flex justify-content-center">
-            <a href="/video_reference" class="mx-auto send-button">Смотреть все</a>
+            <a href="/video_reference/" class="mx-auto send-button">Смотреть все</a>
         </div>
     </div>
 

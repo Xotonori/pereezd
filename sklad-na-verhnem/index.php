@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Адрес: г. Санкт-Петербург, 6-ой Верхний пер., д. 12, стр. Б Объем / Площадь Цены за 1 месяц при оплате за…"/>
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Склад временного хранения на 6-ом Верхнем пер.</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/sklad-na-verhnem/"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
 <!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->

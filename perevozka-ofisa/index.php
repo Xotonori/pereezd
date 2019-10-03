@@ -1,6 +1,6 @@
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
-<meta name="description" itemprop="description" content="Компания «ПереездБезХлопот» осуществит профессиональный переезд банка в кратчайшие сроки. Выгодные цены на перевозку банка." />
-<meta name="keywords" itemprop="keywords" content="переезд банка,перевозка банка,Санкт-Петербург" />
+<meta name="description" itemprop="description" content="Профессиональная перевозка офисов в Санкт-Петербурге недорого. Перевезем офис в кратчайшие сроки на выгодных условиях." />
+<meta name="keywords" itemprop="keywords" content="перевозка офиса,Санкт-Петербург,перевезти офиса,цена,недорого,услуга,заказать,стоимость,тарифы" />
 <title>Переезд банка в Санкт-Петербурге, заказать перевозку банка</title>
 
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
@@ -14,7 +14,7 @@
 
 
 
-<main>
+<main class="">
     <!--////PAGE-DESCRIPTION/////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="container">
         <div class="row d-flex justify-content-center">
@@ -1008,4 +1008,5 @@
     </div>
 </main>
 <?php include_once ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'footer' . DIRECTORY_SEPARATOR . 'footer.php'); ?>
+
 

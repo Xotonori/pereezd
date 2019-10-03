@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Подадим газель с грузчиками для вашего переезда в любое удобное время. Выгодные тарифы."/>
 <meta name="keywords" itemprop="keywords" content="газель с грузчиками,заказать,цена,стоимость" />
 <title>Газель с грузчиками в Санкт-Петербурге</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/gazel-s-gruzchikami/"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

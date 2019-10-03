@@ -2,7 +2,7 @@
     <meta name="description" itemprop="description" content="Полезные статьи от компании Переезд Без Хлопот в Санкт-Петербурге: Простые правила переезда без хлопот" />
     <meta name="keywords" itemprop="keywords" content="" />
     <title>Простые правила переезда без хлопот</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/articles/prostye-pravila-pereezda-bez-hlopot/"/>
+    
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
 <!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->

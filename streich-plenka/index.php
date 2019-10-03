@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Стрейч-пленка 450мм*20мкм за 1,2кг: 350 руб. 450мм*20мкм за 2.4кг: 450 руб."/>
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Стрейч пленка</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/streich-plenka"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

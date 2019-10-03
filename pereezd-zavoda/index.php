@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Нас рекомендуют Все работы были выполнены профессионально, на высоком уровне и в оговоренные сроки. Сотрудники компании компетентны и вежливы, ни один" />
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Переезд завода, производства, цеха</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/pereezd-zavoda/" />
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

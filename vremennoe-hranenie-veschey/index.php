@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Компания Переезд Без Хлопот организует временное хранение вещей в Санкт-Петербурге"/>
 <meta name="keywords" itemprop="keywords" content="временное хранение вещей санкт петербург спб" />
 <title>Временное хранение вещей в Санкт-Петербурге без хлопот</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/vremennoe-hranenie-veschey"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

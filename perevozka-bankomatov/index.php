@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Нужна перевозка банкоматов? Компания «Переезд Без Хлопот», которая с 2006 года успешно работает на рынке мувинга в Санкт-Петербурге и за его пределами"/>
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Перевозка банкоматов</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/perevozka-bankomatov"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

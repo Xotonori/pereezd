@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Осуществляем перевозку мебели в другой город из Санкт-Петербурга по доступным ценам. Предоставляем услуги грузчиков."/>
 <meta name="keywords" itemprop="keywords" content="перевозка мебели в другой город,заказать,цена,стоимость" />
 <title>Перевозка мебели в другой город из Санкт-Петербурга</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/perevozka-mebeli-v-drugoy-gorod/"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

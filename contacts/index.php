@@ -2,7 +2,7 @@
     <meta name="description" itemprop="description" content="Контакты компании Переезд Без Хлопот: г. Санкт-Петербург, Левашовский пр-кт, д. 12. Телефон: +7 (812) 982-88-58 +7 (961) 801-88-81"/>
     <meta name="keywords" itemprop="keywords" content="" />
     <title>Контактная информация</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
+    
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
 <!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->

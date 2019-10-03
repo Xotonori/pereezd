@@ -2,7 +2,7 @@
     <meta name="description" itemprop="description" content="Предлагаем услуги складов временного хранения товаров и вещей в Санкт-Петербурге. Выгодные цены. Адреса складов." />
     <meta name="keywords" itemprop="keywords" content="склад временного хранения,цена,стоимость" />
     <title>Склады временного хранения в Санкт-Петербурге</title>
-    <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
+    
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
     <img class="sofa" src="/images/header/sofa.png" alt="диван">
     <img class="man" src="/images/header/man.png" alt="грузчик">

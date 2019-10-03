@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Переезд с грузчиками в Санкт-Петербурге по самым низким ценам. Быстрая подача машины, опрятные грузчики, звоните: +7 (812) 982-88-58!" />
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Переезд с грузчиками недорого в Санкт-Петербурге, цены от 300 руб/час</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/pereezd-s-gruzchikami/" />
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">

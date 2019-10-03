@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Профессиональные услуги грузчиков при переезде от компании Переезд Без Хлопот в Санкт-Петербурге" />
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Грузчики в СПБ недорого, заказать услуги грузчиков</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/loaders/" />
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
@@ -167,7 +167,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price1.png" alt="копилка">
                     </div>
-                    <a href="/calculyator" class="h-hint col-12 text-center">Рассчитать стоимость на калькуляторе</a>
+                    <a href="/calculyator/" class="h-hint col-12 text-center">Рассчитать стоимость на калькуляторе</a>
                     <p class="hint col-12 text-center">Мы можете самостоятельно
                         за 5 секунд рассчитать стоимость
                         переезда на нашем калькуляторе.</p>
@@ -178,7 +178,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price2.png" alt="копилка">
                     </div>
-                    <a href="/zakaz" class="h-hint col-12 text-center">Вызвать оценщика (бесплатно)</a>
+                    <a href="/zakaz/" class="h-hint col-12 text-center">Вызвать оценщика (бесплатно)</a>
                     <p class="hint col-12 text-center">Наш менеджер рассчитает точную
                         стоимость переезда под ключ,
                         которая потом не изменится.</p>
@@ -189,7 +189,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price3.png" alt="копилка">
                     </div>
-                    <a href="/price" class="h-hint col-12 text-center">Посмотреть цены
+                    <a href="/price/" class="h-hint col-12 text-center">Посмотреть цены
                         на наши услуги</a>
                     <p class="hint col-12 text-center">Наш менеджер рассчитает точную
                         стоимость переезда под ключ,

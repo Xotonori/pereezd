@@ -2,7 +2,7 @@
 <meta name="description" itemprop="description" content="Бережная перевозка рояля от компании Переезд Без Хлопот в Санкт-Петербурге"/>
 <meta name="keywords" itemprop="keywords" content="" />
 <title>Перевозка рояли</title>
-<link rel="canonical" href="https://pereezdy-spb.ru/perevozka-royalya"/>
+
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
 <img class="sofa" src="/images/header/sofa.png" alt="диван">
 <img class="man" src="/images/header/man.png" alt="грузчик">
