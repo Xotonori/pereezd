@@ -4,8 +4,8 @@
 <title>Разгрузка фур</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/razgruzka_fur/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" src="/images/header/sofa.png" alt="диван">
-<img class="man" src="/images/header/man.png" alt="грузчик">
+<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
+<img class="man" data-src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Разгрузка фур</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -27,7 +27,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>

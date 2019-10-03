@@ -4,8 +4,8 @@
     <title>Контактная информация</title>
     <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
-<!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->
+<!--    <img class="sofa" data-src="/images/header/sofa.png" alt="диван">-->
+<!--    <img class="man" data-src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Контактная информация</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
@@ -19,7 +19,7 @@
                 </p>
                 <div class="map">
                     <div class="text-center">
-                        <img class="wp-image-346 size-full" src="/images/map_piter.png" alt="Схема проезда Санкт-Петербург">
+                        <img class="wp-image-346 size-full" data-src="/images/map_piter.png" alt="Схема проезда Санкт-Петербург">
                     </div>
                     <p class="caption-text">Схема проезда<br>
                         <a href="http://maps.yandex.ru/-/CVbxJUpi" target="_blank">Посмотреть на Яндекс.Картах</a>

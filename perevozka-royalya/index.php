@@ -4,8 +4,8 @@
 <title>Перевозка рояли</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/perevozka-royalya"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" src="/images/header/sofa.png" alt="диван">
-<img class="man" src="/images/header/man.png" alt="грузчик">
+<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
+<img class="man" data-src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Перевозка рояля</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -22,7 +22,7 @@
             <div class="col d-flex justify-content-end">
                 <button class="js-podrobno">
                     <span>Подробно</span>
-                    <img src="/images/header/city-triangle.png" alt="треугольник">
+                    <img data-src="/images/header/city-triangle.png" alt="треугольник">
                 </button>
             </div>
         </div>
@@ -33,7 +33,7 @@
         <div class="row">
             <div class="col-md-4 d-flex align-content-center range-of-services">
                 <div class="h-100 d-inline-block check-mark">
-                    <img src="/images/gl.png" alt="галочка" class="mt-2">
+                    <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                 </div>
                 <div class="service d-inline-block">
                     Погрузка/разгрузка роялей
@@ -41,7 +41,7 @@
             </div>
             <div class="col-md-4 d-flex align-content-center range-of-services">
                 <div class="h-100 d-inline-block check-mark">
-                    <img src="/images/gl.png" alt="галочка" class="mt-2">
+                    <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                 </div>
                 <div class="service d-inline-block">
                     Перевозка роялей
@@ -49,7 +49,7 @@
             </div>
             <div class="col-md-4 d-flex align-content-center range-of-services">
                 <div class="h-100 d-inline-block check-mark">
-                    <img src="/images/gl.png" alt="галочка" class="mt-2">
+                    <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                 </div>
                 <div class="service d-inline-block">
                     Доставка новых роялей из магазинов
@@ -57,7 +57,7 @@
             </div>
             <div class="col-md-4 d-flex align-content-center range-of-services">
                 <div class="h-100 d-inline-block check-mark">
-                    <img src="/images/gl.png" alt="галочка" class="mt-2">
+                    <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                 </div>
                 <div class="service d-inline-block">
                     Ответственное хранение на складе
@@ -65,7 +65,7 @@
             </div>
             <div class="col-md-4 d-flex align-content-center range-of-services">
                 <div class="h-100 d-inline-block check-mark">
-                    <img src="/images/gl.png" alt="галочка" class="mt-2">
+                    <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                 </div>
                 <div class="service d-inline-block">
                     Разборка и сборка роялей при необходимости
@@ -73,7 +73,7 @@
             </div>
             <div class="col-md-4 d-flex align-content-center range-of-services">
                 <div class="h-100 d-inline-block check-mark">
-                    <img src="/images/gl.png" alt="галочка" class="mt-2">
+                    <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                 </div>
                 <div class="service d-inline-block">
                     Организация переездов под ключ
@@ -87,7 +87,7 @@
         <h3 class="_header-3 text-center mb-4"><span class="important">Гарантируем</span> низкие цены</h3>
         <div class="row">
             <div class="h-100 col-lg-3 d-flex justify-content-lg-start justify-content-center">
-                <img src="/images/garant.png" alt="гарантия">
+                <img data-src="/images/garant.png" alt="гарантия">
             </div>
             <p class="garant col-lg-9">
                 Если Вы желаете перевезти рояль недорого, обращайтесь! В нашем распоряжении – собственный парк специализированного автотранспорта, штат опытных грузчиков, сотни успешно выполненных заказов по транспортировке музыкальных инструментов. Именно поэтому мы не только гарантируем высокое качество работ, но и предлагаем действительно выгодные цены.
@@ -110,7 +110,7 @@
             <div class="col-lg-3 d-flex align-items-center flex-lg-wrap align-items-stretch mb-lg-0 mb-3">
                 <div class="col-lg-12 d-flex justify-content-center justify-content-lg-start wrap-check-mark">
                     <div class="h-100 d-inline-block check-mark d-flex align-content-center">
-                        <img src="/images/gl.png" alt="галочка" class="mr-4">
+                        <img data-src="/images/gl.png" alt="галочка" class="mr-4">
                     </div>
                     <div class="d-inline-block">
                         Газель фургон 10 м3
@@ -118,7 +118,7 @@
                 </div>
                 <div class="col-lg-12 d-flex justify-content-center justify-content-lg-start wrap-check-mark">
                     <div class="h-100 d-inline-block check-mark d-flex align-content-center">
-                        <img src="/images/gl.png" alt="галочка" class="mr-4">
+                        <img data-src="/images/gl.png" alt="галочка" class="mr-4">
                     </div>
                     <div class="d-inline-block">
                         2 грузчика
@@ -141,7 +141,7 @@
             <div class="col-lg-3 benefit1 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img src="/images/belive1.png" alt="копилка">
+                        <img data-src="/images/belive1.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center">Действительно низкие цены на перевозку рояля</p>
                 </div>
@@ -149,7 +149,7 @@
             <div class="col-lg-3 benefit2 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img src="/images/belive2.png" alt="копилка">
+                        <img data-src="/images/belive2.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center">Подача машины в строго установленное время</p>
                 </div>
@@ -157,7 +157,7 @@
             <div class="col-lg-3 benefit3 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img src="/images/belive3.png" alt="копилка">
+                        <img data-src="/images/belive3.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center">Бережное отношение с вашими вещами и мебелью</p>
                 </div>
@@ -165,7 +165,7 @@
             <div class="col-lg-3 benefit4 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img src="/images/belive4.png" alt="копилка">
+                        <img data-src="/images/belive4.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center">Большое количество положительных отзывов</p>
                 </div>
@@ -186,7 +186,7 @@
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <img src="/images/perevozka-royalya/royal1.jpg" class="d-block mx-auto" alt="слайд">
+                    <img data-src="/images/perevozka-royalya/royal1.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Карпов Вячеслав</h5>
                         <p class="text-left text-lg-center">
@@ -200,7 +200,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/perevozka-royalya/royal2.png" class="d-block mx-auto" alt="слайд">
+                    <img data-src="/images/perevozka-royalya/royal2.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Чайка Олег</h5>
                         <p class="text-left text-lg-center">
@@ -214,7 +214,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/perevozka-royalya/royal3.jpg" class="d-block mx-auto" alt="слайд">
+                    <img data-src="/images/perevozka-royalya/royal3.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Шаткий Константин</h5>
                         <p class="text-left text-lg-center">
@@ -228,7 +228,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="/images/perevozka-royalya/royal4.jpg" class="d-block mx-auto" alt="слайд">
+                    <img data-src="/images/perevozka-royalya/royal4.jpg" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Королев Валерий</h5>
                         <p class="text-left text-lg-center">
@@ -244,11 +244,11 @@
 
             </div>
             <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
                 <span class="sr-only">Previous</span>
             </a>
             <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
                 <span class="sr-only">Next</span>
             </a>
         </div>
@@ -262,37 +262,37 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <a href="/images/perevozka-royalya/royal-photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-royalya/royal-photo1_mini.jpg" alt="Фото 1">
+                                <img class="d-block" data-src="/images/perevozka-royalya/royal-photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-royalya/royal-photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-royalya/royal-photo2_mini.jpg" alt="Фото 2">
+                                <img class="d-block" data-src="/images/perevozka-royalya/royal-photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-royalya/royal-photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-royalya/royal-photo3_mini.jpg" alt="Фото 3">
+                                <img class="d-block" data-src="/images/perevozka-royalya/royal-photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-royalya/royal-photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-royalya/royal-photo4_mini.jpg" alt="Фото 4">
+                                <img class="d-block" data-src="/images/perevozka-royalya/royal-photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-royalya/royal-photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-royalya/royal-photo5_mini.jpg" alt="Фото 5">
+                                <img class="d-block" data-src="/images/perevozka-royalya/royal-photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-royalya/royal-photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-royalya/royal-photo6_mini.jpg" alt="Фото 6">
+                                <img class="d-block" data-src="/images/perevozka-royalya/royal-photo6_mini.jpg" alt="Фото 6">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-royalya/royal-photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" src="/images/perevozka-royalya/royal-photo7_mini.jpg" alt="Фото 7">
+                                <img class="d-block" data-src="/images/perevozka-royalya/royal-photo7_mini.jpg" alt="Фото 7">
                             </a>
                         </div>
                     </div>

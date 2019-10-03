@@ -5,8 +5,8 @@
     <title>Переезд Колпино | Переезд квартиры и офиса в Колпино, перевозка мебели</title>
     <link rel="canonical" href="https://pereezdy-spb.ru/kolpino/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-    <img class="sofa" src="/images/header/sofa.png" alt="диван">
-    <img class="man" src="/images/header/man.png" alt="грузчик">
+    <img class="sofa" data-src="/images/header/sofa.png" alt="диван">
+    <img class="man" data-src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Организация переездов в Колпино</h1>
     <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -24,7 +24,7 @@
                 <div class="col d-flex justify-content-end">
                     <button class="js-podrobno">
                         <span>Подробно</span>
-                        <img src="/images/header/city-triangle.png" alt="треугольник">
+                        <img data-src="/images/header/city-triangle.png" alt="треугольник">
                     </button>
                 </div>
             </div>
@@ -35,7 +35,7 @@
             <div class="row">
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Переезд квартиры и офиса в Колпино и за его пределы
@@ -43,7 +43,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Аккуратная сборка-разборка и перевозка мебели
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Услуги профессиональных грузчиков и такелажников
@@ -59,7 +59,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Качественная упаковка мебели и вещей при переезде
@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Хранение вещей и мебели на время переезда
@@ -75,7 +75,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Перевозка личных вещей и мебели
@@ -89,7 +89,7 @@
             <h3 class="_header-3 text-center mb-4"><span class="important">Гарантируем</span> низкие цены</h3>
             <div class="row">
                 <div class="h-100 col-lg-3 d-flex justify-content-lg-start justify-content-center">
-                    <img src="/images/garant.png" alt="гарантия">
+                    <img data-src="/images/garant.png" alt="гарантия">
                 </div>
                 <p class="garant col-lg-9">
                     Организацией переездов в Колпино мы занимаемся уже много лет. Обращаясь в компанию «Переезд без Хлопот», вы всегда можете быть на сто процентов уверены, что в оплату будут включены только реально оказанные услуги, без дополнительных комиссий и непредвиденных платежей. Мы предлагаем оптимальные тарифы, т.к. используем исключительно транспорт из собственного автопарка и штатных специалистов.
@@ -111,7 +111,7 @@
                 <div class="col-lg-3 d-flex align-items-center flex-lg-wrap align-items-stretch mb-lg-0 mb-3">
                     <div class="col-lg-12 d-flex justify-content-center justify-content-lg-start wrap-check-mark">
                         <div class="h-100 d-inline-block check-mark d-flex align-content-center">
-                            <img src="/images/gl.png" alt="галочка" class="mr-4">
+                            <img data-src="/images/gl.png" alt="галочка" class="mr-4">
                         </div>
                         <div class="d-inline-block">
                             Газель фургон 10 м3
@@ -119,7 +119,7 @@
                     </div>
                     <div class="col-lg-12 d-flex justify-content-center justify-content-lg-start wrap-check-mark">
                         <div class="h-100 d-inline-block check-mark d-flex align-content-center">
-                            <img src="/images/gl.png" alt="галочка" class="mr-4">
+                            <img data-src="/images/gl.png" alt="галочка" class="mr-4">
                         </div>
                         <div class="d-inline-block">
                             2 грузчика
@@ -142,7 +142,7 @@
                 <div class="col-lg-3 benefit1 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img src="/images/belive1.png" alt="копилка">
+                            <img data-src="/images/belive1.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center">Действительно низкие цены на переезд в Колпино</p>
                     </div>
@@ -150,7 +150,7 @@
                 <div class="col-lg-3 benefit2 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img src="/images/belive2.png" alt="копилка">
+                            <img data-src="/images/belive2.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center">Подача машины в строго установленное время</p>
                     </div>
@@ -158,7 +158,7 @@
                 <div class="col-lg-3 benefit3 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img src="/images/belive3.png" alt="копилка">
+                            <img data-src="/images/belive3.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center">Бережное отношение с вашими вещами и мебелью</p>
                     </div>
@@ -166,7 +166,7 @@
                 <div class="col-lg-3 benefit4 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img src="/images/belive4.png" alt="копилка">
+                            <img data-src="/images/belive4.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center">Большое количество положительных отзывов</p>
                     </div>
@@ -187,7 +187,7 @@
                 <div class="carousel-inner">
 
                     <div class="carousel-item active">
-                        <img src="/images/city/1reutov.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/city/1reutov.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Наталья Веремейчик</h5>
                             <p class="text-left text-lg-center">
@@ -203,7 +203,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/city/2reutov.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/city/2reutov.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Надежда Дедуш</h5>
                             <p class="text-left text-lg-center">
@@ -219,7 +219,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/city/3reutov.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/city/3reutov.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Людмила Черныш</h5>
                             <p class="text-left text-lg-center">
@@ -235,7 +235,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/city/4reutov.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/city/4reutov.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Игорь Савчук</h5>
                             <p class="text-left text-lg-center">
@@ -251,7 +251,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/city/5reutov.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/city/5reutov.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Ярослав Овчарук</h5>
                             <p class="text-left text-lg-center">
@@ -267,7 +267,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/city/6reutov.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/city/6reutov.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Анатолий Геращенко</h5>
                             <p class="text-left text-lg-center">
@@ -283,7 +283,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/city/7reutov.png" class="d-block mx-auto" alt="слайд">
+                        <img data-src="/images/city/7reutov.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Лера Васильевская</h5>
                             <p class="text-left text-lg-center">
@@ -300,11 +300,11 @@
                     </div>
                 </div>
                 <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                    <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                    <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
                     <span class="sr-only">Previous</span>
                 </a>
                 <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                    <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                    <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
                     <span class="sr-only">Next</span>
                 </a>
             </div>
@@ -335,7 +335,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/vtb24.png" alt="партнер 1">
+                                        <img class="d-block" data-src="/images/trast/vtb24.png" alt="партнер 1">
                                     </div>
                                 </div>
                             </div>
@@ -353,7 +353,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/megafon.png" alt="партнер 2">
+                                        <img class="d-block" data-src="/images/trast/megafon.png" alt="партнер 2">
                                     </div>
                                 </div>
                             </div>
@@ -371,7 +371,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/rostelecom.png" alt="партнер 3">
+                                        <img class="d-block" data-src="/images/trast/rostelecom.png" alt="партнер 3">
                                     </div>
                                 </div>
                             </div>
@@ -389,7 +389,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/miratorg.png" alt="партнер 4">
+                                        <img class="d-block" data-src="/images/trast/miratorg.png" alt="партнер 4">
                                     </div>
                                 </div>
                             </div>
@@ -407,7 +407,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/asko.png" alt="партнер 5">
+                                        <img class="d-block" data-src="/images/trast/asko.png" alt="партнер 5">
                                     </div>
                                 </div>
                             </div>
@@ -425,7 +425,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/bks.png" alt="партнер 6">
+                                        <img class="d-block" data-src="/images/trast/bks.png" alt="партнер 6">
                                     </div>
                                 </div>
                             </div>
@@ -443,7 +443,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/bmz.png" alt="партнер 7">
+                                        <img class="d-block" data-src="/images/trast/bmz.png" alt="партнер 7">
                                     </div>
                                 </div>
                             </div>
@@ -461,7 +461,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/centralbox.png" alt="партнер 8">
+                                        <img class="d-block" data-src="/images/trast/centralbox.png" alt="партнер 8">
                                     </div>
                                 </div>
                             </div>
@@ -479,7 +479,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/elteco.png" alt="партнер 9">
+                                        <img class="d-block" data-src="/images/trast/elteco.png" alt="партнер 9">
                                     </div>
                                 </div>
                             </div>
@@ -497,7 +497,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/ghelamco.png" alt="партнер 10">
+                                        <img class="d-block" data-src="/images/trast/ghelamco.png" alt="партнер 10">
                                     </div>
                                 </div>
                             </div>
@@ -515,7 +515,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/kartoshka.png" alt="партнер 11">
+                                        <img class="d-block" data-src="/images/trast/kartoshka.png" alt="партнер 11">
                                     </div>
                                 </div>
                             </div>
@@ -533,7 +533,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/kladovochka.png" alt="партнер 12">
+                                        <img class="d-block" data-src="/images/trast/kladovochka.png" alt="партнер 12">
                                     </div>
                                 </div>
                             </div>
@@ -551,7 +551,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/libher.png" alt="партнер 13">
+                                        <img class="d-block" data-src="/images/trast/libher.png" alt="партнер 13">
                                     </div>
                                 </div>
                             </div>
@@ -569,7 +569,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/medskan.png" alt="партнер 14">
+                                        <img class="d-block" data-src="/images/trast/medskan.png" alt="партнер 14">
                                     </div>
                                 </div>
                             </div>
@@ -587,7 +587,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/minisklad.png" alt="партнер 15">
+                                        <img class="d-block" data-src="/images/trast/minisklad.png" alt="партнер 15">
                                     </div>
                                 </div>
                             </div>
@@ -605,7 +605,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/mobius.png" alt="партнер 16">
+                                        <img class="d-block" data-src="/images/trast/mobius.png" alt="партнер 16">
                                     </div>
                                 </div>
                             </div>
@@ -623,7 +623,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/postrus.png" alt="партнер 17">
+                                        <img class="d-block" data-src="/images/trast/postrus.png" alt="партнер 17">
                                     </div>
                                 </div>
                             </div>
@@ -641,7 +641,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/redbox.png" alt="партнер 18">
+                                        <img class="d-block" data-src="/images/trast/redbox.png" alt="партнер 18">
                                     </div>
                                 </div>
                             </div>
@@ -659,7 +659,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/roscvet.png" alt="партнер 19">
+                                        <img class="d-block" data-src="/images/trast/roscvet.png" alt="партнер 19">
                                     </div>
                                 </div>
                             </div>
@@ -677,7 +677,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="review-full-img">
-                                        <img class="d-block" src="/images/trast/shatura.png" alt="партнер 20">
+                                        <img class="d-block" data-src="/images/trast/shatura.png" alt="партнер 20">
                                     </div>
                                 </div>
                             </div>
@@ -688,73 +688,73 @@
 
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block" src="/images/trast/vtb24.png" alt="партнер 1" data-toggle="modal" data-target="#partner1">
+                                <img class="d-block" data-src="/images/trast/vtb24.png" alt="партнер 1" data-toggle="modal" data-target="#partner1">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/megafon.png" alt="партнер 2" data-toggle="modal" data-target="#partner2">
+                                <img class="d-block" data-src="/images/trast/megafon.png" alt="партнер 2" data-toggle="modal" data-target="#partner2">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/rostelecom.png" alt="партнер 3" data-toggle="modal" data-target="#partner3">
+                                <img class="d-block" data-src="/images/trast/rostelecom.png" alt="партнер 3" data-toggle="modal" data-target="#partner3">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/miratorg.png" alt="партнер 4" data-toggle="modal" data-target="#partner4">
+                                <img class="d-block" data-src="/images/trast/miratorg.png" alt="партнер 4" data-toggle="modal" data-target="#partner4">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/asko.png" alt="партнер 5" data-toggle="modal" data-target="#partner5">
+                                <img class="d-block" data-src="/images/trast/asko.png" alt="партнер 5" data-toggle="modal" data-target="#partner5">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/bks.png" alt="партнер 6" data-toggle="modal" data-target="#partner6">
+                                <img class="d-block" data-src="/images/trast/bks.png" alt="партнер 6" data-toggle="modal" data-target="#partner6">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/bmz.png" alt="партнер 7" data-toggle="modal" data-target="#partner7">
+                                <img class="d-block" data-src="/images/trast/bmz.png" alt="партнер 7" data-toggle="modal" data-target="#partner7">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/centralbox.png" alt="партнер 8" data-toggle="modal" data-target="#partner8">
+                                <img class="d-block" data-src="/images/trast/centralbox.png" alt="партнер 8" data-toggle="modal" data-target="#partner8">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/elteco.png" alt="партнер 9" data-toggle="modal" data-target="#partner9">
+                                <img class="d-block" data-src="/images/trast/elteco.png" alt="партнер 9" data-toggle="modal" data-target="#partner9">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/ghelamco.png" alt="партнер 10" data-toggle="modal" data-target="#partner10">
+                                <img class="d-block" data-src="/images/trast/ghelamco.png" alt="партнер 10" data-toggle="modal" data-target="#partner10">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/kartoshka.png" alt="партнер 11" data-toggle="modal" data-target="#partner11">
+                                <img class="d-block" data-src="/images/trast/kartoshka.png" alt="партнер 11" data-toggle="modal" data-target="#partner11">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/kladovochka.png" alt="партнер 12" data-toggle="modal" data-target="#partner12">
+                                <img class="d-block" data-src="/images/trast/kladovochka.png" alt="партнер 12" data-toggle="modal" data-target="#partner12">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/libher.png" alt="партнер 13" data-toggle="modal" data-target="#partner13">
+                                <img class="d-block" data-src="/images/trast/libher.png" alt="партнер 13" data-toggle="modal" data-target="#partner13">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/medskan.png" alt="партнер 14" data-toggle="modal" data-target="#partner14">
+                                <img class="d-block" data-src="/images/trast/medskan.png" alt="партнер 14" data-toggle="modal" data-target="#partner14">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/minisklad.png" alt="партнер 15" data-toggle="modal" data-target="#partner15">
+                                <img class="d-block" data-src="/images/trast/minisklad.png" alt="партнер 15" data-toggle="modal" data-target="#partner15">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/mobius.png" alt="партнер 16" data-toggle="modal" data-target="#partner16">
+                                <img class="d-block" data-src="/images/trast/mobius.png" alt="партнер 16" data-toggle="modal" data-target="#partner16">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/postrus.png" alt="партнер 17" data-toggle="modal" data-target="#partner17">
+                                <img class="d-block" data-src="/images/trast/postrus.png" alt="партнер 17" data-toggle="modal" data-target="#partner17">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/redbox.png" alt="партнер 18" data-toggle="modal" data-target="#partner18">
+                                <img class="d-block" data-src="/images/trast/redbox.png" alt="партнер 18" data-toggle="modal" data-target="#partner18">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/roscvet.png" alt="партнер 19" data-toggle="modal" data-target="#partner19">
+                                <img class="d-block" data-src="/images/trast/roscvet.png" alt="партнер 19" data-toggle="modal" data-target="#partner19">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block" src="/images/trast/shatura.png" alt="партнер 20" data-toggle="modal" data-target="#partner20">
+                                <img class="d-block" data-src="/images/trast/shatura.png" alt="партнер 20" data-toggle="modal" data-target="#partner20">
                             </div>
                         </div>
 
                         <a class="_carousel-control carousel-control-prev" href="#partners" role="button" data-slide="prev">
-                            <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                            <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
                             <span class="sr-only">Previous</span>
                         </a>
                         <a class="_carousel-control carousel-control-next" href="#partners" role="button" data-slide="next">
-                            <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                            <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
                             <span class="sr-only">Next</span>
                         </a>
 
@@ -801,7 +801,7 @@
                 <div id="stagesCaption1" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="/images/kak-my-rabotaem1.png" class="d-block mx-auto" alt="слайд">
+                            <img data-src="/images/kak-my-rabotaem1.png" class="d-block mx-auto" alt="слайд">
                             <div class="carousel-caption d-none d-md-block">
                                 <h5 class="text-uppercase">заявка</h5>
                                 <p>
@@ -810,7 +810,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="/images/kak-my-rabotaem2.png" class="d-block mx-auto" alt="слайд">
+                            <img data-src="/images/kak-my-rabotaem2.png" class="d-block mx-auto" alt="слайд">
                             <div class="carousel-caption d-none d-md-block">
                                 <h5 class="text-uppercase">оценка</h5>
                                 <p>
@@ -819,7 +819,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="/images/kak-my-rabotaem3.png" class="d-block mx-auto" alt="слайд">
+                            <img data-src="/images/kak-my-rabotaem3.png" class="d-block mx-auto" alt="слайд">
                             <div class="carousel-caption d-none d-md-block">
                                 <h5 class="text-uppercase">предоплата</h5>
                                 <p>
@@ -828,7 +828,7 @@
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="/images/kak-my-rabotaem4.png" class="d-block mx-auto" alt="слайд">
+                            <img data-src="/images/kak-my-rabotaem4.png" class="d-block mx-auto" alt="слайд">
                             <div class="carousel-caption d-none d-md-block">
                                 <h5 class="text-uppercase">переезд</h5>
                                 <p>
@@ -838,11 +838,11 @@
                         </div>
                     </div>
                     <a class="_carousel-control carousel-control-prev" href="#stagesCaption1" role="button" data-slide="prev">
-                        <img src="/images/left-arrow-type1.png" alt="стрелка влево">
+                        <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
                         <span class="sr-only">Previous</span>
                     </a>
                     <a class="_carousel-control carousel-control-next" href="#stagesCaption1" role="button" data-slide="next">
-                        <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                        <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
                         <span class="sr-only">Next</span>
                     </a>
                 </div>

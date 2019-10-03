@@ -4,8 +4,8 @@
 <title>Стрейч пленка</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/streich-plenka"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" src="/images/header/sofa.png" alt="диван">
-<img class="man" src="/images/header/man.png" alt="грузчик">
+<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
+<img class="man" data-src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Стрейч пленка</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
@@ -15,7 +15,7 @@
         <div class="row d-flex justify-content-center">
             <div class="packing-material col-3 d-flex flex-column justify-content-between flex-nowrap ml-2 mr-2">
                 <div class="d-flex justify-content-center">
-                    <img src="/images/str1.jpg" alt="коробка">
+                    <img data-src="/images/str1.jpg" alt="коробка">
                 </div>
                 <div class="d-flex justify-content-left">
                     <p class="main-blue-bold">Стрейч-пленка</p>

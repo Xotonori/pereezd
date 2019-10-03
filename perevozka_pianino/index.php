@@ -4,8 +4,8 @@
 <title>Перевозка пианино</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/perevozka_pianino"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" src="/images/header/sofa.png" alt="диван">
-<img class="man" src="/images/header/man.png" alt="грузчик">
+<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
+<img class="man" data-src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Перевозка пианино</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -29,7 +29,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -211,52 +211,52 @@
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <a href="/images/perevozka_pianino/piano1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka_pianino/piano1_mini.jpg" alt="Фото 1">
+                                    <img class="d-block" data-src="/images/perevozka_pianino/piano1_mini.jpg" alt="Фото 1">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka_pianino/piano2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka_pianino/piano2_mini.jpg" alt="Фото 2">
+                                    <img class="d-block" data-src="/images/perevozka_pianino/piano2_mini.jpg" alt="Фото 2">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka_pianino/piano3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka_pianino/piano3_mini.jpg" alt="Фото 3">
+                                    <img class="d-block" data-src="/images/perevozka_pianino/piano3_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka_pianino/piano4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka_pianino/piano4_mini.jpg" alt="Фото 4">
+                                    <img class="d-block" data-src="/images/perevozka_pianino/piano4_mini.jpg" alt="Фото 4">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka_pianino/piano5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka_pianino/piano5_mini.jpg" alt="Фото 5">
+                                    <img class="d-block" data-src="/images/perevozka_pianino/piano5_mini.jpg" alt="Фото 5">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka_pianino/piano6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka_pianino/piano6_mini.jpg" alt="Фото 6">
+                                    <img class="d-block" data-src="/images/perevozka_pianino/piano6_mini.jpg" alt="Фото 6">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka_pianino/piano7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka_pianino/piano7_mini.jpg" alt="Фото 7">
+                                    <img class="d-block" data-src="/images/perevozka_pianino/piano7_mini.jpg" alt="Фото 7">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka_pianino/piano8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka_pianino/piano8_mini.jpg" alt="Фото 8">
+                                    <img class="d-block" data-src="/images/perevozka_pianino/piano8_mini.jpg" alt="Фото 8">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka_pianino/piano9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka_pianino/piano9_mini.jpg" alt="Фото 9">
+                                    <img class="d-block" data-src="/images/perevozka_pianino/piano9_mini.jpg" alt="Фото 9">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/perevozka_pianino/piano10.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" src="/images/perevozka_pianino/piano10_mini.jpg" alt="Фото 10">
+                                    <img class="d-block" data-src="/images/perevozka_pianino/piano10_mini.jpg" alt="Фото 10">
                                 </a>
                             </div>
                         </div>
