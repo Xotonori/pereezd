@@ -205,7 +205,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price1.png" alt="копилка">
                     </div>
-                    <a href="/calculyator" class="h-hint col-12 text-center">Рассчитать стоимость на калькуляторе</a>
+                    <a href="/calculyator/" class="h-hint col-12 text-center">Рассчитать стоимость на калькуляторе</a>
                     <p class="hint col-12 text-center">Мы можете самостоятельно
                         за 5 секунд рассчитать стоимость
                         переезда на нашем калькуляторе.</p>
@@ -216,7 +216,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price2.png" alt="копилка">
                     </div>
-                    <a href="/zakaz" class="h-hint col-12 text-center">Вызвать оценщика (бесплатно)</a>
+                    <a href="/zakaz/" class="h-hint col-12 text-center">Вызвать оценщика (бесплатно)</a>
                     <p class="hint col-12 text-center">Наш менеджер рассчитает точную
                         стоимость переезда под ключ,
                         которая потом не изменится.</p>
@@ -227,7 +227,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img src="/images/price3.png" alt="копилка">
                     </div>
-                    <a href="/price" class="h-hint col-12 text-center">Посмотреть цены
+                    <a href="/price/" class="h-hint col-12 text-center">Посмотреть цены
                         на наши услуги</a>
                     <p class="hint col-12 text-center">Наш менеджер рассчитает точную
                         стоимость переезда под ключ,

@@ -88,7 +88,7 @@
             </div>
             <div class="col-md-4  mt-4 d-flex align-content-center range-of-servicesr justify-content-center text-center">
                 <div class="service">
-                    <a href="/vyvoz-starykh-plit">
+                    <a href="/vyvoz-starykh-plit/">
                         <img class="mb-3" src="/images/perevozka-bytovoy-tekhniki/vsplit.jpg" alt="Вывоз старых плит"><br>
                         <span>Вывоз старых плит</span>
                     </a>
@@ -96,7 +96,7 @@
             </div>
             <div class="col-md-4 mt-4 d-flex align-content-center range-of-servicesr justify-content-center text-center">
                 <div class="service">
-                    <a href="/utilizaciya-butovoy-tehniki">
+                    <a href="/utilizaciya-butovoy-tehniki/">
                         <img class="mb-3" src="/images/perevozka-bytovoy-tekhniki/utme.jpg" alt="Утилизация бытовой техники"><br>
                         <span>Утилизация бытовой техники</span>
                     </a>
@@ -104,7 +104,7 @@
             </div>
             <div class="col-md-4 mt-4 d-flex align-content-center range-of-servicesr justify-content-center text-center">
                 <div class="service">
-                    <a href="/utiliaciya-holodilnikov">
+                    <a href="/utiliaciya-holodilnikov/">
                         <img class="mb-3" src="/images/perevozka-bytovoy-tekhniki/serv5.png" alt="Вывоз старых плит"><br>
                         <span>Утилизация холодильников</span>
                     </a>
