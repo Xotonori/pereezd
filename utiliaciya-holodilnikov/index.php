@@ -1,4 +1,3 @@
-<?php $city = 'Всеволожск'; ?>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part1.php'); ?>
     <meta name="description" itemprop="description" content="ПЕРЕЕЗД БЕЗ ХЛОПОТ - утилизация холодильников с грузчиками в Санкт-Петербурге и области. Недорого! Организуем вывоз старого холодильника из квартиры на" />
     <meta name="keywords" itemprop="keywords" content="холодильник утилизация вывоз старого грузчики перевезти недорого в Санкт-Петербурге цены" />
@@ -13,7 +12,7 @@
     <button type="button" class="request-call" data-toggle="modal" data-target="#header-modal">Заказать утилизацию</button>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
 
-    <main class="vsevologsk">
+    <main class="utiliaciya-holodilnikov">
         <!--////PAGE-DESCRIPTION///////////////////////////////////////////////////////////////////////////////////////-->
         <div class="js-long-text container">
             <div class="row">
@@ -102,7 +101,7 @@
             <h2 class="_header-3 text-center mb-4">
                 Вывоз
                 <span class="important"> холодильников </span>
-                с грузчиками
+                с грузчиками<br>
                 <span class="red-bold">
                 от <span class="big-red">3600</span> руб.
             </span>
@@ -256,7 +255,7 @@
         </div>
 
         <!--////DISCOUNT/////////////////////////////////////////////////////////////////////////////////////////////////-->
-        <div class="container-fluid header-main-theme _call-to-action mb-5">
+        <div class="container-fluid header-main-theme _call-to-action mb-5 h-auto">
             <div class="row justify-content-center">
                 <h3 class="_header-3 text-center mb-3">
                     <span class="important">Закажите </span>

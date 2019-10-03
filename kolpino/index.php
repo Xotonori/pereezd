@@ -849,7 +849,7 @@
             </div>
         </div>
         <!--////DISCOUNT/////////////////////////////////////////////////////////////////////////////////////////////////-->
-        <div class="container-fluid header-main-theme _call-to-action mb-5">
+        <div class="container-fluid header-main-theme _call-to-action mb-5 h-auto">
             <div class="row justify-content-center">
                 <h3 class="_header-3 text-center mb-3">
                     <span class="important">Закажите </span>
