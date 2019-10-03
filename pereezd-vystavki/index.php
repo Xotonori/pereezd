@@ -45,7 +45,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Лучшие цены</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Лучшие цены</p>
                     <p class="hint col-12 text-center">Рассчитываем стоимость услуг по минимально возможным тарифам</p>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Пунктуальность</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Пунктуальность</p>
                     <p class="hint col-12 text-center">Машина и грузчики всегда прибывают на объект вовремя</p>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Аккуратность</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Аккуратность</p>
                     <p class="hint col-12 text-center">Максимально бережная перевозка выставочного оборудования и экспонатов</p>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Репутация</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Репутация</p>
                     <p class="hint col-12 text-center">У нас на счету сотни исполненных заявок и много положительных отзывов</p>
                 </div>
             </div>

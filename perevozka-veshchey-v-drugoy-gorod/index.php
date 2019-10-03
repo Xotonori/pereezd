@@ -41,7 +41,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">
+                    <p class="h-hint col-12 text-center mainBlueColor">
                         Адекватные цены перевозки вещей в другой город
                     </p>
                 </div>
@@ -51,7 +51,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">
+                    <p class="h-hint col-12 text-center mainBlueColor">
                         Работаем аккуратно, грамотно, оперативно, строго соблюдаем сроки
                     </p>
                 </div>
@@ -61,7 +61,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">
+                    <p class="h-hint col-12 text-center mainBlueColor">
                         Гарантируем целостность и сохранность вашего имущества
                     </p>
                 </div>
@@ -71,7 +71,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">
+                    <p class="h-hint col-12 text-center mainBlueColor">
                         Положительные отзывы клиентов подтверждают наш профессионализм
                     </p>
                 </div>

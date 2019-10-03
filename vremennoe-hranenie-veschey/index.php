@@ -199,7 +199,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive1.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Действительно низкие цены на хранение вещей в Петебруге</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Действительно низкие цены на хранение вещей в Петебруге</p>
                         <p class="hint col-12 text-center">Мы не привлекаем посредников и используем только собственные ресурсы. Поэтому стоимость хранения будет для Вас минимальной.</p>
                     </div>
                 </div>
@@ -208,7 +208,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive2.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Надежное хранение вашего имущества</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Надежное хранение вашего имущества</p>
                         <p class="hint col-12 text-center">Современные складские модули, использование профессиональной упаковки, охранные системы – все это гарантирует безопасность вашего имущества.</p>
                     </div>
                 </div>
@@ -217,7 +217,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive3.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Бережное отношение с вашими вещами</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Бережное отношение с вашими вещами</p>
                         <p class="hint col-12 text-center">Аккуратная погрузка, разгрузка и хранение вещей – наша приоритетная задача, с которой мы всегда справляемся на отлично.</p>
                     </div>
                 </div>
@@ -226,7 +226,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive4.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Большое количество положительных отзывов</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Большое количество положительных отзывов</p>
                         <p class="hint col-12 text-center">Тысячи клиентов, которые доверили нам хранение вещей в Санкт-Петербурге, остались довольны качеством предоставленных услуг.</p>
                     </div>
                 </div>

@@ -45,7 +45,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Действительно низкие цены на дачный переезд</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Действительно низкие цены на дачный переезд</p>
                     <p class="hint col-12 text-center">Наши тарифы позволяют пользоваться услугой дачного переезда широкому кругу клиентов, с любым бюджетом.</p>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Рабочие и транспорт прибудут строго в установленное время</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Рабочие и транспорт прибудут строго в установленное время</p>
                     <p class="hint col-12 text-center">С учетом необходимости перевозок на дальние расстояния мы всегда строго контролируем прибытие машины под погрузку в оговоренное время.</p>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Осторожная погрузка и разгрузка ваших вещей</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Осторожная погрузка и разгрузка ваших вещей</p>
                     <p class="hint col-12 text-center">Мы аккуратно обращаемся со всем имуществом клиента, особое внимание уделяя мебели и бытовой технике, чтобы не допустить их повреждения.</p>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Позитивные отзывы от наших клиентов</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Позитивные отзывы от наших клиентов</p>
                     <p class="hint col-12 text-center">Мы гордимся положительными отзывами, которые клиенты оставляют на нашем сайте – они свидетельствуют, что мы хорошо делаем свою работу.</p>
                 </div>
             </div>
@@ -218,7 +218,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h3>Тарифы на услуги грузчиков</h3>
+                <h3 class=_header-3>Тарифы на услуги грузчиков</h3>
             </div>
             <table class="tariff">
                 <tbody>
@@ -250,7 +250,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h3>Тарифы на грузоперевозки по Санкт-Петербургу и области</h3>
+                <h3 class=_header-3>Тарифы на грузоперевозки по Санкт-Петербургу и области</h3>
             </div>
             <table class="tariff">
                 <tbody>

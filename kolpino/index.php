@@ -144,7 +144,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive1.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Действительно низкие цены на переезд в Колпино</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Действительно низкие цены на переезд в Колпино</p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit2 benefit container">
@@ -152,7 +152,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive2.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Подача машины в строго установленное время</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Подача машины в строго установленное время</p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit3 benefit container">
@@ -160,7 +160,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive3.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Бережное отношение с вашими вещами и мебелью</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Бережное отношение с вашими вещами и мебелью</p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit4 benefit container">
@@ -168,7 +168,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive4.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Большое количество положительных отзывов</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Большое количество положительных отзывов</p>
                     </div>
                 </div>
             </div>

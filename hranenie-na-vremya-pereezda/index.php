@@ -128,7 +128,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive1.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Низкая стоимость</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Низкая стоимость</p>
                         <p class="hint col-12 text-center">
                             Мы понимаем, что смена места жительства и без того требует финансовых затрат. Поэтому сделали так, чтобы временное хранение мебели на время переезда не стало для вас дорогой услугой!
                         </p>
@@ -139,7 +139,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/nadejnoe.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Гарантии безопасности</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Гарантии безопасности</p>
                         <p class="hint col-12 text-center">
                             Ваши вещи будут надёжно упакованы и размещены в складских помещениях, оборудованных современными охранными системами.
                         </p>
@@ -150,7 +150,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive3.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Гарантии сохранности</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Гарантии сохранности</p>
                         <p class="hint col-12 text-center">
                             Перевозка и хранение мебели на время переезда будут проведены с максимальной осторожностью и аккуратностью. Мы не повредим ваши вещи во время погрузки, перевозки и хранения.
                         </p>
@@ -161,7 +161,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive4.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Хорошие отзывы</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Хорошие отзывы</p>
                         <p class="hint col-12 text-center">
                             Тысячи клиентов остались довольны качеством наших услуг. Мы постараемся, чтобы и вам понравилось сотрудничать с нами!
                         </p>

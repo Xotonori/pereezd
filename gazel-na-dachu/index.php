@@ -41,7 +41,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Доступная для каждого стоимость.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Доступная для каждого стоимость.</p>
                     <p class="hint col-12 text-center">Наши цены по силам любому. Понимая, как много значит для вас дача, мы назначаем адекватную стоимость транспортировки вещей.</p>
                 </div>
             </div>
@@ -50,7 +50,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Подача газели точно в срок</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Подача газели точно в срок</p>
                     <p class="hint col-12 text-center">Водитель всегда знает, как объехать пробку и какая дорога будет оптимальной. Вам не придется ждать у подъезда часами, пока он задерживается.</p>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Бережная транспортировка</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Бережная транспортировка</p>
                     <p class="hint col-12 text-center">Нам все равно что везти – коллекция фарфора и старый холодильник будут доставлены в одинаковой сохранности.</p>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Работаем по рекомендации</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Работаем по рекомендации</p>
                     <p class="hint col-12 text-center">Тысячи людей уже воспользовались нашими услугами и остались довольны. Присоединяйтесь, мы подтвердим репутацию надежного перевозчика.</p>
                 </div>
             </div>

@@ -200,7 +200,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive1.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Предлагаем низкие тарифы</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Предлагаем низкие тарифы</p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit2 benefit container">
@@ -208,7 +208,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive2.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Ваши материальные ценности в 100% безопасности</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Ваши материальные ценности в 100% безопасности</p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit3 benefit container">
@@ -216,7 +216,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive3.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Бережное обращение с вещами арендаторов</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Бережное обращение с вещами арендаторов</p>
                     </div>
                 </div>
                 <div class="col-lg-3 benefit4 benefit container">
@@ -224,7 +224,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive4.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Сотни рекомендаций от довольных клиентов</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Сотни рекомендаций от довольных клиентов</p>
                     </div>
                 </div>
             </div>

@@ -45,7 +45,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Адекватные цены на переезды с грузчиками.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Адекватные цены на переезды с грузчиками.</p>
                     <p class="hint col-12 text-center">Мы держим доступные цены, так как знаем, что такое грамотный подбор персонала и разбираемся в логистике.</p>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Пунктуальность и точность выполнения заказа</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Пунктуальность и точность выполнения заказа</p>
                     <p class="hint col-12 text-center">Ваша задача – назвать место и время. А мы организуем переезд с грузчиками в Санкт-Петербурге с выбором оптимального маршрута.</p>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Бережное отношение к имуществу клиента</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Бережное отношение к имуществу клиента</p>
                     <p class="hint col-12 text-center">Нам можно смело доверить бытовую и компьютерную технику, хрупкую мебель и даже вазу китайской династии – мы гарантируем сохранность.</p>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Нас рекомендуют частные лица, крупные компании</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Нас рекомендуют частные лица, крупные компании</p>
                     <p class="hint col-12 text-center">Работаем без ограничений на объемы. В нашем распоряжении такелажное оборудование, опытные специалисты, необходимые инструменты.</p>
                 </div>
             </div>
@@ -117,7 +117,7 @@
     <div class="container mt-4">
         <div class="row">
             <div class="col-12 text-center">
-                <h3>Тарифы на услуги</h3>
+                <h3 class=_header-3>Тарифы на услуги</h3>
             </div>
             <table class="tariff">
                 <tbody>

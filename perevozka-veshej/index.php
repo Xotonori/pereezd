@@ -47,7 +47,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive1.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Дешовые цены на перевозку вещей в Санкт-Петербурге</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Дешовые цены на перевозку вещей в Санкт-Петербурге</p>
                         <p class="hint col-12 text-center">Аккуратные и быстрые погрузо-разгрузочные работы и перевозка за минимальную стоимость? С нами это возможно.</p>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive2.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Мы работаем без опозданий и задержек</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Мы работаем без опозданий и задержек</p>
                         <p class="hint col-12 text-center">Цените свое время? Мы тоже. Грузчики приступят к выполнению работы строго в оговоренное время.</p>
                     </div>
                 </div>
@@ -65,7 +65,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive3.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Бережное отношение к вашими вещам</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Бережное отношение к вашими вещам</p>
                         <p class="hint col-12 text-center">Переживаете за сохранность своих вещей? Мы гарантируем – на мебели не останется ни единой царапинки.</p>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive4.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Рекомендации и благодарности от наших клиентов</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Рекомендации и благодарности от наших клиентов</p>
                         <p class="hint col-12 text-center">Не доверяете незнакомой компании? Поверьте нашим довольным клиентам, которых тысячи.</p>
                     </div>
                 </div>

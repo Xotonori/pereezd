@@ -50,7 +50,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Пунктуальность – подача машин и исполнение работ точно в срок.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Пунктуальность – подача машин и исполнение работ точно в срок.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit2 benefit container">
@@ -58,7 +58,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Честность – справедливые тарифы на банковский переезд.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Честность – справедливые тарифы на банковский переезд.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit3 benefit container">
@@ -66,7 +66,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Порядочность – 100% конфиденциальность информации о заказчике.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Порядочность – 100% конфиденциальность информации о заказчике.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit4 benefit container">
@@ -74,7 +74,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Репутация – нас рекомендуют крупные, надежные компании.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Репутация – нас рекомендуют крупные, надежные компании.</p>
                 </div>
             </div>
         </div>

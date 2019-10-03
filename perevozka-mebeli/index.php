@@ -45,7 +45,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Низкая стоимость перевозки мебели в Санкт-Петербурге</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Низкая стоимость перевозки мебели в Санкт-Петербурге</p>
                     <p class="hint col-12 text-center">Большой объем заказов и хорошая техническая оснащенность позволяет нам предлагать клиентам низкие цены.</p>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Подача машины и грузчиков строго по графику</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Подача машины и грузчиков строго по графику</p>
                     <p class="hint col-12 text-center">Опоздание к одному клиенту приводит к срыву сроков исполнения остальных заказов, поэтому мы не можем себе позволить отклоняться от графика.</p>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Заботливое отношение к мебели во время всего процесса</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Заботливое отношение к мебели во время всего процесса</p>
                     <p class="hint col-12 text-center">Мы предельно аккуратно обращаемся с мебелью клиента, поскольку заботимся о своей репутации и Вашем благополучии.</p>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Много положительных отзывов от заказчиков</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Много положительных отзывов от заказчиков</p>
                     <p class="hint col-12 text-center">Клиенты ценят внимательное отношение, поэтому часто решают дополнительно вознаградить нашу компанию, оставив положительный отзыв.</p>
                 </div>
             </div>

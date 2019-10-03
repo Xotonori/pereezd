@@ -13,12 +13,12 @@
 <main class="spec-sbp">
     <div class="container">
         <div class="row">
-            <img src="/images/spec-sbp/spec-sbp1.jpg" alt="предложение 1" class="w-100 mb-5 mt-5">
-            <img src="/images/spec-sbp/spec-sbp2.jpg" alt="предложение 1" class="w-100 mb-5">
-            <img src="/images/spec-sbp/spec-sbp3.jpg" alt="предложение 1" class="w-100 mb-5">
-            <img src="/images/spec-sbp/spec-sbp4.jpg" alt="предложение 1" class="w-100 mb-5">
-            <img src="/images/spec-sbp/spec-sbp5.jpg" alt="предложение 1" class="w-100 mb-5">
-            <img src="/images/spec-sbp/spec-sbp6.jpg" alt="предложение 1" class="w-100 mb-5">
+            <img data-src="/images/spec-sbp/spec-sbp1.jpg" alt="предложение 1" class="w-100 mb-5 mt-5">
+            <img data-src="/images/spec-sbp/spec-sbp2.jpg" alt="предложение 1" class="w-100 mb-5">
+            <img data-src="/images/spec-sbp/spec-sbp3.jpg" alt="предложение 1" class="w-100 mb-5">
+            <img data-src="/images/spec-sbp/spec-sbp4.jpg" alt="предложение 1" class="w-100 mb-5">
+            <img data-src="/images/spec-sbp/spec-sbp5.jpg" alt="предложение 1" class="w-100 mb-5">
+            <img data-src="/images/spec-sbp/spec-sbp6.jpg" alt="предложение 1" class="w-100 mb-5">
         </div>
     </div>
 </main>

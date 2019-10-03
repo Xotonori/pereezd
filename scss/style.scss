@@ -1433,6 +1433,10 @@ body {
   img[data-src] {
     opacity: 0;
   }
+
+  .mainBlueColor {
+    color: $main-blue;
+  }
 }
 
 

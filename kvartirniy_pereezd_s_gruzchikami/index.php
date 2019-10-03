@@ -46,7 +46,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Действительно низкие цены на переезды в Санкт-Петербурге</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Действительно низкие цены на переезды в Санкт-Петербурге</p>
                     <p class="hint col-12 text-center">Большой объем заказов и хорошая техническая оснащенность позволяет нам предлагать клиентам низкие цены.</p>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Подача машины в строго установленное время</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Подача машины в строго установленное время</p>
                     <p class="hint col-12 text-center">Опоздание к одному клиенту приводит к срыву сроков исполнения остальных заказов, поэтому мы не можем себе позволить отклоняться от графика.</p>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Бережное отношение с вещами</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Бережное отношение с вещами</p>
                     <p class="hint col-12 text-center">Наши грузчики предельно аккуратно обращаются с вещами клиента, поскольку мы заботимся о своей репутации и Вашем благополучии.</p>
                 </div>
             </div>
@@ -73,7 +73,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Большое количество положительных отзывов</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Большое количество положительных отзывов</p>
                     <p class="hint col-12 text-center">Клиенты ценят внимательное отношение, поэтому часто решают дополнительно вознаградить нашу компанию, оставив положительный отзыв.</p>
                 </div>
             </div>

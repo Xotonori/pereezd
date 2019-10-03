@@ -45,7 +45,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Доступные цены на переезды по Санкт-Петербургу</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Доступные цены на переезды по Санкт-Петербургу</p>
                     <p class="hint col-12 text-center">Мы максимально сократили свои затраты, чтобы клиентам не приходилось переплачивать за качественные услуги.</p>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Подача транспорта в точно оговоренное время</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Подача транспорта в точно оговоренное время</p>
                     <p class="hint col-12 text-center">Пунктуальность – наше кредо. Мебельные фургоны всегда прибывают по указанному адресу без опозданий.</p>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Заботливый подход к вещам и мебели клиента</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Заботливый подход к вещам и мебели клиента</p>
                     <p class="hint col-12 text-center">Вы можете быть абсолютно уверены в сохранности имущества – мы заботимся о нем лучше, чем о своем собственном.</p>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Положительные рекомендации от заказчиков</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Положительные рекомендации от заказчиков</p>
                     <p class="hint col-12 text-center">Нам особенно приятно, когда удовлетворенные клиенты не жалеют времени, чтобы высказать свое мнение о качестве услуг.</p>
                 </div>
             </div>
@@ -94,7 +94,7 @@
     <div class="container mt-4">
         <div class="row">
             <div class="col-12 text-center">
-                <h3>Тарифы на грузоперевозки по Санкт-Петербургу и области</h3>
+                <h3 class=_header-3>Тарифы на грузоперевозки по Санкт-Петербургу и области</h3>
             </div>
             <table class="tariff">
                 <tbody>
@@ -201,7 +201,7 @@
     <div class="container mt-4">
         <div class="row">
             <div class="col-12 text-center">
-                <h3>Тарифы на услуги грузчиков</h3>
+                <h3 class=_header-3>Тарифы на услуги грузчиков</h3>
             </div>
             <table class="tariff">
                 <tbody>

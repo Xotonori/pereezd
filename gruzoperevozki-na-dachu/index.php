@@ -41,7 +41,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Доступная стоимость грузоперевозок на дачу</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Доступная стоимость грузоперевозок на дачу</p>
                     <p class="hint col-12 text-center">
                         Цена услуги будет по карману каждому дачнику, а экономия сил и времени не сопоставима с затратами.</p>
                 </div>
@@ -51,7 +51,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Работаем с точностью швейцарских часов</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Работаем с точностью швейцарских часов</p>
                     <p class="hint col-12 text-center">
                         Машина будет подана точно в срок, водитель выберет оптимальный маршрут, чтобы минимизировать время поездки.</p>
                 </div>
@@ -61,7 +61,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Гарантируем сохранность имущества</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Гарантируем сохранность имущества</p>
                     <p class="hint col-12 text-center">
                         Аккуратно упакуем и перевезем мебель, бытовую технику, хрупкие вещи – несем материальную ответственность.</p>
                 </div>
@@ -71,7 +71,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Нас знают и ценят</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Нас знают и ценят</p>
                     <p class="hint col-12 text-center">Мы ни разу не подвели своих заказчиков и гордимся этим. Наше кредо – точность и аккуратность во всем.</p>
                 </div>
             </div>

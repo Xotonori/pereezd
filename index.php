@@ -41,7 +41,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Низкие цены на переезды по Санкт-Петербургу</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Низкие цены на переезды по Санкт-Петербургу</p>
                     <p class="hint col-12 text-center">Мы покупаем упаковку оптовыми партиями, используем машины из автопарка компании и не допускаем лишних расходов. У нас – дешевле!</p>
                 </div>
             </div>
@@ -50,7 +50,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Подача машины в строго установленное время</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Подача машины в строго установленное время</p>
                     <p class="hint col-12 text-center">Наши сотрудники высоко ценят время клиентов, поэтому всегда приезжают вовремя и работают оперативно.</p>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Бережное отношение с вашими вещами и мебелью</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Бережное отношение с вашими вещами и мебелью</p>
                     <p class="hint col-12 text-center">Тщательно упакуем каждый предмет от посуды до шкафа-купе, бережно спустим, погрузим и закрепим в кузове автомобиля специальными фиксаторами.</p>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Большое количество положительных отзывов</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Большое количество положительных отзывов</p>
                     <p class="hint col-12 text-center">На сайте Вы узнаете отзывы людей, которые уже воспользовались нашими услугами.
                         <a href="/individual_reference/" class="blue-ancor"> Почитайте </a>и убедитесь, что нам можно доверять.
                         Посмотрите<a href="/video_reference/" class="blue-ancor"> видео отзывы </a>и увидите модель Вашего будущего переезда. Закажите переезд по Санкт-Петербургу, Ленинградской области и мы постараемся заполучить положительные рекомендации.</p>

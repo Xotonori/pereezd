@@ -34,7 +34,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h3>Почему стоит довериться нам</h3>
+                <h3 class=_header-3>Почему стоит довериться нам</h3>
             </div>
             <p>Переезд предприятия является довольно масштабным и трудоемким процессом, при подготовке которого должны быть учтены многие нюансы: характер производства, особенности оборудования, желаемые сроки транспортировки и пр.На подготовительном этапе мы выполняем:</p>
             <div class="col-12">
@@ -66,7 +66,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h3>Тарифы на услуги грузчиков</h3>
+                <h3 class=_header-3>Тарифы на услуги грузчиков</h3>
             </div>
             <table class="tariff">
                 <tbody>
@@ -98,7 +98,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h3>Тарифы на грузоперевозки по Санкт-Петербургу и области</h3>
+                <h3 class=_header-3>Тарифы на грузоперевозки по Санкт-Петербургу и области</h3>
             </div>
             <table class="tariff">
                 <tbody>
@@ -173,7 +173,7 @@
     <div class="container mt-4">
         <div class="row">
             <div class="col-11 text-center">
-                <h3>В услуги по переезду предприятия входит:</h3>
+                <h3 class=_header-3>В услуги по переезду предприятия входит:</h3>
             </div>
             <div class="col-11">
                 <ul class="marker">

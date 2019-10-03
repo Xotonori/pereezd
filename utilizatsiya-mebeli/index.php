@@ -151,7 +151,7 @@
         <div class="container mt-4">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h3>Тарифы на услуги</h3>
+                    <h3 class=_header-3>Тарифы на услуги</h3>
                 </div>
                 <table class="tariff">
                     <tbody>
@@ -184,7 +184,7 @@
         <div class="container mt-4">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h3>Тарифы на грузоперевозки по Санкт-Петербургу и области</h3>
+                    <h3 class=_header-3>Тарифы на грузоперевозки по Санкт-Петербургу и области</h3>
                 </div>
                 <table class="tariff">
                     <tbody>

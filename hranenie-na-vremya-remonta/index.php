@@ -127,7 +127,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive1.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Доступные цены</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Доступные цены</p>
                         <p class="hint col-12 text-center">Временное хранение мебели на время ремонта не потребует существенных затрат. Мы используем собственные площади, и стоимость услуг минимальна</p>
                     </div>
                 </div>
@@ -136,7 +136,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/nadejnoe.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Надёжное хранение</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Надёжное хранение</p>
                         <p class="hint col-12 text-center">Надёжная упаковка, использование современных охранных систем гарантируют безопасность и сохранность ваших вещей.</p>
                     </div>
                 </div>
@@ -145,7 +145,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive3.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Аккуратность</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Аккуратность</p>
                         <p class="hint col-12 text-center">Перевозка и хранение мебели на время ремонта требуют бережного отношения. Мы аккуратно погрузим и перевезём ваши вещи, позаботившись об их сохранности.</p>
                     </div>
                 </div>
@@ -154,7 +154,7 @@
                         <div class="col-12 d-flex justify-content-center">
                             <img data-src="/images/belive4.png" alt="копилка">
                         </div>
-                        <p class="h-hint col-12 text-center">Положительные отзывы</p>
+                        <p class="h-hint col-12 text-center mainBlueColor">Положительные отзывы</p>
                         <p class="hint col-12 text-center">Все, кому доводилось пользоваться нашими услугами, отмечают их высокое качество. Мы уверены, что и ваш отзыв о нашей работе будем положительным!</p>
                     </div>
                 </div>

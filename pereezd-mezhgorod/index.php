@@ -160,7 +160,7 @@
     <div class="container mt-4">
         <div class="row">
             <div class="col-11 text-center">
-                <h3>Весь междугородний переезд можно разделить на несколько этапов:</h3>
+                <h3 class=_header-3>Весь междугородний переезд можно разделить на несколько этапов:</h3>
             </div>
             <div class="col-11">
                 <ul class="marker">

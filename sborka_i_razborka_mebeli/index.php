@@ -50,7 +50,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Стоимость выполнения работ ниже рыночной</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Стоимость выполнения работ ниже рыночной</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit2 benefit container">
@@ -58,7 +58,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Предоставление авто и персонала точно по графику</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Предоставление авто и персонала точно по графику</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit3 benefit container">
@@ -66,7 +66,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Бережное отношение с вашими вещам</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Бережное отношение с вашими вещам</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit4 benefit container">
@@ -74,7 +74,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Рекомендации от крупных компаний и физ.лиц.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Рекомендации от крупных компаний и физ.лиц.</p>
                 </div>
             </div>
         </div>
@@ -96,7 +96,7 @@
     <div class="container mt-4">
         <div class="row">
             <div class="col-12 text-center">
-                <h3>Тарифы на услуги грузчиков</h3>
+                <h3 class=_header-3>Тарифы на услуги грузчиков</h3>
             </div>
             <table class="tariff">
                 <tbody>

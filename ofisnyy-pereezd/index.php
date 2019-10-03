@@ -47,7 +47,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Стоимость офисного переезда ниже рыночной</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Стоимость офисного переезда ниже рыночной</p>
                     <p class="hint col-12 text-center">Большой опыт работы позволяет нам для каждого заказа привлекать оптимальный состав сил и средств, чтобы свести расходы клиента к минимуму.</p>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Предоставление авто и грузчиков точно по графику</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Предоставление авто и грузчиков точно по графику</p>
                     <p class="hint col-12 text-center">У нас работают водители, хорошо знающие город, а диспетчеры постоянно контролируют передвижение машин, что исключает опоздания.</p>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Осторожное отношение к вашим вещам</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Осторожное отношение к вашим вещам</p>
                     <p class="hint col-12 text-center">Мы несем материальную ответственность за вверенное имущество, поэтому обращаемся с мебелью и техникой заказчика очень аккуратно.</p>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Рекомендации от крупных компаний и физ.лиц.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Рекомендации от крупных компаний и физ.лиц.</p>
                     <p class="hint col-12 text-center">
                         Если Вы хотите убедиться в нашем профессионализме и надежности, изучите размещенные на сайте
                         <a href="/reference/"> рекомендации </a>сотрудничающих с нами компаний.</p>

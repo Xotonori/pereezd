@@ -53,7 +53,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive1.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Адекватная стоимость услуг.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Адекватная стоимость услуг.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit2 benefit container">
@@ -61,7 +61,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive2.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Соблюдение всех договоренностей.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Соблюдение всех договоренностей.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit3 benefit container">
@@ -69,7 +69,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive3.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Целостность и сохранность перевозимого имущества.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Целостность и сохранность перевозимого имущества.</p>
                 </div>
             </div>
             <div class="col-lg-3 benefit4 benefit container">
@@ -77,7 +77,7 @@
                     <div class="col-12 d-flex justify-content-center">
                         <img data-src="/images/belive4.png" alt="копилка">
                     </div>
-                    <p class="h-hint col-12 text-center">Высокий уровень мотивации.</p>
+                    <p class="h-hint col-12 text-center mainBlueColor">Высокий уровень мотивации.</p>
                 </div>
             </div>
         </div>
