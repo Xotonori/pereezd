@@ -4,8 +4,8 @@
     <title>Шасимарданов М. И. - видео отзывы - Переезд без хлопот в Санкт-Петербурге</title>
     <link rel="canonical" href="https://pereezdy-spb.ru/video_reference/shasimardanov/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-    <!--    <img class="sofa" data-src="/images/header/sofa.png" alt="диван">-->
-    <!--    <img class="man" data-src="/images/header/man.png" alt="грузчик">-->
+    <!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
+    <!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Шасимарданов М. И. , САНКТ-ПЕТЕРБУРГ</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
@@ -22,7 +22,7 @@
                         <div class="col d-flex justify-content-end">
                             <button class="js-podrobno">
                                 <span>Подробно</span>
-                                <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                                <img src="/images/header/city-triangle.png" alt="треугольник">
                             </button>
                         </div>
                     </div>

@@ -170,7 +170,7 @@ body {
         left: 0;
         right: 0;
         top: 73px;
-        z-index: 2;
+        z-index: 100;
 
         .nav-item {
           background-color: $main-blue;
@@ -503,6 +503,7 @@ body {
     @extend %font-size36;
     margin-top: 50px;
   }
+
   ._header-6 {
     @extend %font-size24;
     margin-top: 20px;
@@ -1425,14 +1426,6 @@ body {
     font-size: 10px;
   }
 
-  img {
-    opacity: 1;
-    transition: opacity 0.3s;
-  }
-
-  img[data-src] {
-    opacity: 0;
-  }
 
   .mainBlueColor {
     color: $main-blue;

@@ -4,8 +4,8 @@
 <title>Индивидуальное хранение в Санкт-Петербурге</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/individualnoe-hranenie"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
-<img class="man" data-src="/images/header/man.png" alt="грузчик">
+<img class="sofa" src="/images/header/sofa.png" alt="диван">
+<img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Индивидуальное хранение</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -29,7 +29,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
             <div class="col-11 container ">
                 <div class="row">
                     <div class="col-lg-3 order-lg-2 d-flex justify-content-center justify-content-lg-right">
-                        <img class="_15proc" data-src="/images/-15%25.png" alt="-15%">
+                        <img class="_15proc" src="/images/-15%25.png" alt="-15%">
                     </div>
                     <ul class="col-lg-9 order-lg-1 marker mb-4">
                         <li>Клиентам, заказывающим услуги по хранению в нашей компании, предоставляется скидка на транспорт и услуги грузчиков до 15%.</li>
@@ -51,7 +51,7 @@
                         <li>Грузчики (за 1 чел).........от 270 руб(мин.заказ: 4 часа)</li>
                     </ul>
                     <div class="col-12 order-3 d-flex justify-content-center">
-                        <img class="skudki-na-vse" data-src="/images/skudki-na-vse.png" alt="скидки на всё!">
+                        <img class="skudki-na-vse w-100 h-auto" src="/images/skudki-na-vse.png" alt="скидки на всё!">
                     </div>
                 </div>
 
@@ -72,7 +72,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -139,7 +139,7 @@
             <div class="row">
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Тщательно упакуем материальные ценности
@@ -147,7 +147,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Позаботимся о сохранности книг и архивов
@@ -155,7 +155,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Убережем предметы искусства и антиквариат от малейших повреждений
@@ -163,7 +163,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Профессионально выполним погрузочные и такелажные работы
@@ -171,7 +171,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Перевезем имущество на склад индивидуального хранения вещей.
@@ -179,7 +179,7 @@
                 </div>
                 <div class="col-md-4 d-flex align-content-center range-of-services">
                     <div class="h-100 d-inline-block check-mark">
-                        <img data-src="/images/gl.png" alt="галочка" class="mt-2">
+                        <img src="/images/gl.png" alt="галочка" class="mt-2">
                     </div>
                     <div class="service d-inline-block">
                         Гарантируем 100% сохранность груза при транспортировке
@@ -198,7 +198,7 @@
                 <div class="col-lg-3 benefit1 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img data-src="/images/belive1.png" alt="копилка">
+                            <img src="/images/belive1.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center mainBlueColor">Предлагаем низкие тарифы</p>
                     </div>
@@ -206,7 +206,7 @@
                 <div class="col-lg-3 benefit2 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img data-src="/images/belive2.png" alt="копилка">
+                            <img src="/images/belive2.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center mainBlueColor">Ваши материальные ценности в 100% безопасности</p>
                     </div>
@@ -214,7 +214,7 @@
                 <div class="col-lg-3 benefit3 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img data-src="/images/belive3.png" alt="копилка">
+                            <img src="/images/belive3.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center mainBlueColor">Бережное обращение с вещами арендаторов</p>
                     </div>
@@ -222,7 +222,7 @@
                 <div class="col-lg-3 benefit4 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img data-src="/images/belive4.png" alt="копилка">
+                            <img src="/images/belive4.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center mainBlueColor">Сотни рекомендаций от довольных клиентов</p>
                     </div>
@@ -261,7 +261,7 @@
                 <div class="carousel-inner">
 
                     <div class="carousel-item active">
-                        <img data-src="/images/vremennoe-hranenie/3hv.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/vremennoe-hranenie/3hv.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Анатолий</h5>
                             <p class="text-left text-lg-center">
@@ -271,7 +271,7 @@
                     </div>
 
                     <div class="carousel-item">
-                        <img data-src="/images/vremennoe-hranenie/1hv.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/vremennoe-hranenie/1hv.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Денис</h5>
                             <p class="text-left text-lg-center">
@@ -282,11 +282,11 @@
 
                 </div>
                 <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                    <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
+                    <img src="/images/left-arrow-type1.png" alt="стрелка влево">
                     <span class="sr-only">Previous</span>
                 </a>
                 <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                    <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                    <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
                     <span class="sr-only">Next</span>
                 </a>
             </div>
@@ -300,52 +300,52 @@
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" data-src="/images/vremennoe-hranenie-veschey/vrv1_mini.jpg" alt="Фото 1">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv1_mini.jpg" alt="Фото 1">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" data-src="/images/vremennoe-hranenie-veschey/vrv2_mini.jpg" alt="Фото 2">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv2_mini.jpg" alt="Фото 2">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" data-src="/images/vremennoe-hranenie-veschey/vrv3_mini.jpg" alt="Фото 3">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv3_mini.jpg" alt="Фото 3">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" data-src="/images/vremennoe-hranenie-veschey/vrv4_mini.jpg" alt="Фото 4">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv4_mini.jpg" alt="Фото 4">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" data-src="/images/vremennoe-hranenie-veschey/vrv5_mini.jpg" alt="Фото 5">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv5_mini.jpg" alt="Фото 5">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" data-src="/images/vremennoe-hranenie-veschey/vrv6_mini.jpg" alt="Фото 6">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv6_mini.jpg" alt="Фото 6">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" data-src="/images/vremennoe-hranenie-veschey/vrv7_mini.jpg" alt="Фото 7">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv7_mini.jpg" alt="Фото 7">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" data-src="/images/vremennoe-hranenie-veschey/vrv8_mini.jpg" alt="Фото 8">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv8_mini.jpg" alt="Фото 8">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" data-src="/images/vremennoe-hranenie-veschey/vrv9_mini.jpg" alt="Фото 9">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv9_mini.jpg" alt="Фото 9">
                                 </a>
                             </div>
                             <div class="carousel-item">
                                 <a href="/images/vremennoe-hranenie-veschey/vrv10.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                    <img class="d-block" data-src="/images/vremennoe-hranenie-veschey/vrv10_mini.jpg" alt="Фото 10">
+                                    <img class="d-block" src="/images/vremennoe-hranenie-veschey/vrv10_mini.jpg" alt="Фото 10">
                                 </a>
                             </div>
                         </div>

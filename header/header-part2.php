@@ -12,16 +12,16 @@
     <nav class="navbar row">
         <!-- Navbar brand -->
         <a class="col-10 logo" href="/">
-            <img data-src="/images/header/logo.png" alt="логотип">
+            <img src="/images/header/logo.png" alt="логотип">
         </a>
         <div class="col-2 d-flex justify-content-end align-items-center __nav">
-            <img class="_24-hours" data-src="/images/header/time-work.png" alt="24 часа">
+            <img class="_24-hours" src="/images/header/time-work.png" alt="24 часа">
 
             <!-- Collapse button -->
             <button class="navbar-toggler toggler-example burger-menu" type="button" data-toggle="collapse"
                     data-target="#main-menu" aria-controls="main-menu"
                     aria-expanded="false" aria-label="Toggle navigation">
-                <img data-src="/images/header/burger-menu.png" alt="логотип">
+                <img src="/images/header/burger-menu.png" alt="логотип">
             </button>
         </div>
         <!-- Collapsible content -->

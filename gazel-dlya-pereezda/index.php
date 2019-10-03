@@ -4,8 +4,8 @@
     <title>Газель для переезда - переезд на Газели без хлопот в СПБ</title>
     <link rel="canonical" href="https://pereezdy-spb.ru/gazel-dlya-pereezda/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-    <img class="sofa" data-src="/images/header/sofa.png" alt="диван">
-    <img class="man" data-src="/images/header/man.png" alt="грузчик">
+    <img class="sofa" src="/images/header/sofa.png" alt="диван">
+    <img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Газель для переезда</h1>
     <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -24,7 +24,7 @@
                         <div class="col d-flex justify-content-end">
                             <button class="js-podrobno">
                                 <span>Подробно</span>
-                                <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                                <img src="/images/header/city-triangle.png" alt="треугольник">
                             </button>
                         </div>
                     </div>
@@ -56,7 +56,7 @@
             <div id="profRelocationCaption1" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img data-src="/images/perevozka-veshej/slide-1.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-1.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/ofisnyy-pereezd">Переезд офиса</a></h5>
                             <p>
@@ -65,7 +65,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-veshej/slide-2.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-2.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/pereezd-predpriyatiya">Переезд предприятия</a></h5>
                             <p>
@@ -74,7 +74,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-veshej/slide-3.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-3.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/pereezd-sklada">Переезд склада</a></h5>
                             <p>
@@ -83,7 +83,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-veshej/slide-4.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-4.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/pereezd_magazina">Переезд магазина</a></h5>
                             <p>
@@ -92,7 +92,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-veshej/slide-5.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-5.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/pereezd-deshevo">Переезд "Эконом"</a></h5>
                             <p>
@@ -101,7 +101,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-veshej/slide-6.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-6.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/vip-pereezd/">VIP-переезд</a></h5>
                             <p>
@@ -111,11 +111,11 @@
                     </div>
                 </div>
                 <a class="_carousel-control carousel-control-prev" href="#profRelocationCaption1" role="button" data-slide="prev">
-                    <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
+                    <img src="/images/left-arrow-type1.png" alt="стрелка влево">
                     <span class="sr-only">Previous</span>
                 </a>
                 <a class="_carousel-control carousel-control-next" href="#profRelocationCaption1" role="button" data-slide="next">
-                    <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                    <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
                     <span class="sr-only">Next</span>
                 </a>
             </div>
@@ -133,7 +133,7 @@
             <div id="profRelocationCaption12" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img data-src="/images/perevozka-veshej/slide-7.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-7.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/kvartirnyy-pereezd">Переезд квартиры</a></h5>
                             <p>
@@ -142,7 +142,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-veshej/slide-8.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-8.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/dachnyy-pereezd">Дачный переезд</a></h5>
                             <p>
@@ -151,7 +151,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-veshej/slide-9.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-9.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/pereezd-deshevo/">Переезд "Эконом"</a></h5>
                             <p>
@@ -160,7 +160,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-veshej/slide-10.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-10.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/vip-pereezd">VIP-переезд</a></h5>
                             <p>
@@ -169,7 +169,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-veshej/slide-11.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-11.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/pereezd-po-oblasti">Переезды по области</a></h5>
                             <p>
@@ -178,7 +178,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-veshej/slide-12.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-veshej/slide-12.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5><a href="/pereezd-mezhgorod/">Междугородний переезд</a></h5>
                             <p>
@@ -188,11 +188,11 @@
                     </div>
                 </div>
                 <a class="_carousel-control carousel-control-prev" href="#profRelocationCaption12" role="button" data-slide="prev">
-                    <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
+                    <img src="/images/left-arrow-type1.png" alt="стрелка влево">
                     <span class="sr-only">Previous</span>
                 </a>
                 <a class="_carousel-control carousel-control-next" href="#profRelocationCaption12" role="button" data-slide="next">
-                    <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                    <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
                     <span class="sr-only">Next</span>
                 </a>
             </div>
@@ -212,7 +212,7 @@
                         <div class="col d-flex justify-content-end">
                             <button class="js-podrobno">
                                 <span>Подробно</span>
-                                <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                                <img src="/images/header/city-triangle.png" alt="треугольник">
                             </button>
                         </div>
                     </div>
@@ -320,11 +320,11 @@
         <div class="person-page">
             <div class="container-fluid header-main-theme person-page-price">
                 <h2 class="_header-3 mt-3 text-center"><span class="important">Задайте вопрос</span><br>специалисту</h2>
-                <img class="back-office" data-src="/images/back-office.png" alt="диван">
+                <img class="back-office" src="/images/back-office.png" alt="диван">
             </div>
             <div class="person-page-call">
-                <img class="man mx-auto" data-src="/images/manager.png" alt="менеджер">
-                <img class="man double-quotes mx-auto" data-src="/images/double-quotes.png" alt="менеджер">
+                <img class="man mx-auto" src="/images/manager.png" alt="менеджер">
+                <img class="man double-quotes mx-auto" src="/images/double-quotes.png" alt="менеджер">
                 <h6 class="_header-6 text-center">
                     Николай Денисов
                 </h6>
@@ -341,7 +341,7 @@
                         <div class="col d-flex justify-content-center">
                             <button class="js-podrobno">
                                 <span>Подробно</span>
-                                <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                                <img src="/images/header/city-triangle.png" alt="треугольник">
                             </button>
                         </div>
                     </div>
@@ -403,7 +403,7 @@
             <div id="recommendationCaption1" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img data-src="/images/gazel-dlya-pereezda/req-1.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/gazel-dlya-pereezda/req-1.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Сергей</h5>
                             <p class="text-left text-lg-center">
@@ -412,7 +412,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/gazel-dlya-pereezda/req-2.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/gazel-dlya-pereezda/req-2.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Владислав</h5>
                             <p class="text-left text-lg-center">
@@ -421,7 +421,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/gazel-dlya-pereezda/req-3.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/gazel-dlya-pereezda/req-3.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Анастасия</h5>
                             <p class="text-left text-lg-center">
@@ -430,7 +430,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/gazel-dlya-pereezda/req-4.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/gazel-dlya-pereezda/req-4.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Виктория</h5>
                             <p class="text-left text-lg-center">
@@ -440,11 +440,11 @@
                     </div>
                 </div>
                 <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                    <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
+                    <img src="/images/left-arrow-type1.png" alt="стрелка влево">
                     <span class="sr-only">Previous</span>
                 </a>
                 <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                    <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                    <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
                     <span class="sr-only">Next</span>
                 </a>
             </div>
@@ -452,8 +452,8 @@
 
         <!--////infographics////////////////////////////////////////////////////////////////////////////////////////////////-->
         <div class="container-fluid wrap-infographics">
-            <img class="ribbon left-ribbon" data-src="/images/ribbon-left.png" alt="левая лента">
-            <img class="ribbon right-ribbon" data-src="/images/ribbon-right.png" alt="правая лента">
+            <img class="ribbon left-ribbon" src="/images/ribbon-left.png" alt="левая лента">
+            <img class="ribbon right-ribbon" src="/images/ribbon-right.png" alt="правая лента">
             <div class="row">
                 <div class="col-12 text-center">
                     <h2 class="_header-3">Переезд без хлопот в <span class="important">цифрах</span></h2>

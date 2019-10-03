@@ -4,8 +4,8 @@
     <title>Видео отзывы  - Переезд без хлопот в Санкт-Петербурге</title>
     <link rel="canonical" href="https://pereezdy-spb.ru/video_reference/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-    <!--    <img class="sofa" data-src="/images/header/sofa.png" alt="диван">-->
-    <!--    <img class="man" data-src="/images/header/man.png" alt="грузчик">-->
+    <!--    <img class="sofa" src="/images/header/sofa.png" alt="диван">-->
+    <!--    <img class="man" src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Видео отзывы</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
@@ -19,7 +19,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/cSdP19WRaiY/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -49,7 +49,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/gYmN0vfhyrQ/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal2">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal2">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -79,7 +79,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/M4dfSfHdjkI/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal3">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal3">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -109,7 +109,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/wuQICJ6LeWA/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal4">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal4">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -139,7 +139,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/erLcoav6ft4/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal5">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal5">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -169,7 +169,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/YUHf6XEkAHY/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal6">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal6">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -199,7 +199,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/ItAj4x1QFjA/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal7">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal7">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -229,7 +229,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/omR4AWmINgc/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal8">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal8">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -259,7 +259,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/ZHMQla8pDH8/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal9">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal9">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -289,7 +289,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/KrUZwXHyavw/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal10">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal10">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -319,7 +319,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/s1GgvsQMOaw/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal11">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal11">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -349,7 +349,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/zRYZ3u9K43c/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal12">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal12">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -379,7 +379,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/M9ruElZA-XE/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal13">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal13">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -409,7 +409,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/SUr9c_7FtrI/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal14">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal14">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -439,7 +439,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/aYVdMlAuFfI/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal15">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal15">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -469,7 +469,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/g9oZ9Hv0yqw/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal16">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal16">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -499,7 +499,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/Q-yu2wdEsdw/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal17">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal17">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -529,7 +529,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/q7LJdq_C4mI/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal18">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal18">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -559,7 +559,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/tFHYwWhzBa4/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal19">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal19">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -589,7 +589,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/SiRYiRPmGVs/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal20">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal20">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -619,7 +619,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/QoHKJnv44GU/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal21">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal21">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -649,7 +649,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/5TOpIQ_9Su0/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal22">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal22">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -679,7 +679,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/IZEB9RbJMjA/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal23">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal23">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -709,7 +709,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/xNOM6z_fI-8/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal24">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal24">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -739,7 +739,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/yfbJ0MNT-bQ/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal25">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal25">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -769,7 +769,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/z4dan7yMX-k/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal26">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal26">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -799,7 +799,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/qLy_gyiJK7A/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal27">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal27">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -829,7 +829,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/vS3lIO5V_So/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal28">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal28">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -859,7 +859,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/ng0zv1okToU/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal29">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal29">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -889,7 +889,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/eb733-czMPQ/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal30">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal30">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -919,7 +919,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/jnFz1Nx4BLU/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal31">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal31">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -949,7 +949,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/tqFtvwmKlg4/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal32">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal32">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -979,7 +979,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/VDuenUfKq1g/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal33">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal33">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -1009,7 +1009,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/XWf1OnJwjbQ/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal34">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal34">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -1039,7 +1039,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/CxcicrZrs84/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal35">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal35">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -1069,7 +1069,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/IizawxM6kzo/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal36">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal36">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">
@@ -1099,7 +1099,7 @@
                         <div class="carousel-caption d-none d-md-block">
                             <div class="col-12 d-flex align-items-center justify-content-center preview">
                                 <img src="//img.youtube.com/vi/jpSlDZPju68/mqdefault.jpg" alt="превью" class="preview-picture">
-                                <img data-src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal37">
+                                <img src="/images/play.png" alt="воспроизвести" class="request-call mx-auto" data-toggle="modal" data-target="#videoModal37">
                             </div>
                             <div class="col-11 js-long-text container">
                                 <div class="row">

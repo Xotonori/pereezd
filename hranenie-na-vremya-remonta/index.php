@@ -4,8 +4,8 @@
 <title>Хранение мебели на время ремонта, хранение вещей на время ремонта в Санкт-Петербурге</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/hranenie-na-vremya-remonta"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
-<img class="man" data-src="/images/header/man.png" alt="грузчик">
+<img class="sofa" src="/images/header/sofa.png" alt="диван">
+<img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Хранение на время ремонта</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -28,7 +28,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -37,7 +37,7 @@
 
         <div class="row d-flex justify-content-center">
             <div class="col-12 order-3 d-flex justify-content-center">
-                <img class="skudki-na-vse" data-src="/images/skudki-na-vse.png" alt="скидки на всё!">
+                <img class="skudki-na-vse w-100 h-auto" src="/images/skudki-na-vse.png" alt="скидки на всё!">
             </div>
         </div>
 
@@ -55,7 +55,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -125,7 +125,7 @@
                 <div class="col-lg-3 benefit1 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img data-src="/images/belive1.png" alt="копилка">
+                            <img src="/images/belive1.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center mainBlueColor">Доступные цены</p>
                         <p class="hint col-12 text-center">Временное хранение мебели на время ремонта не потребует существенных затрат. Мы используем собственные площади, и стоимость услуг минимальна</p>
@@ -134,7 +134,7 @@
                 <div class="col-lg-3 benefit2 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img data-src="/images/nadejnoe.png" alt="копилка">
+                            <img src="/images/nadejnoe.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center mainBlueColor">Надёжное хранение</p>
                         <p class="hint col-12 text-center">Надёжная упаковка, использование современных охранных систем гарантируют безопасность и сохранность ваших вещей.</p>
@@ -143,7 +143,7 @@
                 <div class="col-lg-3 benefit3 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img data-src="/images/belive3.png" alt="копилка">
+                            <img src="/images/belive3.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center mainBlueColor">Аккуратность</p>
                         <p class="hint col-12 text-center">Перевозка и хранение мебели на время ремонта требуют бережного отношения. Мы аккуратно погрузим и перевезём ваши вещи, позаботившись об их сохранности.</p>
@@ -152,7 +152,7 @@
                 <div class="col-lg-3 benefit4 benefit container">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img data-src="/images/belive4.png" alt="копилка">
+                            <img src="/images/belive4.png" alt="копилка">
                         </div>
                         <p class="h-hint col-12 text-center mainBlueColor">Положительные отзывы</p>
                         <p class="hint col-12 text-center">Все, кому доводилось пользоваться нашими услугами, отмечают их высокое качество. Мы уверены, что и ваш отзыв о нашей работе будем положительным!</p>
@@ -193,7 +193,7 @@
                 <div class="carousel-inner">
 
                     <div class="carousel-item active">
-                        <img data-src="/images/hranenie-na-vremya-remonta/hnvr1.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/hranenie-na-vremya-remonta/hnvr1.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Наталья</h5>
                             <p class="text-left text-lg-center">
@@ -202,7 +202,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/hranenie-na-vremya-remonta/hnvr2.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/hranenie-na-vremya-remonta/hnvr2.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Иван и Елена Лебедевы</h5>
                             <p class="text-left text-lg-center">
@@ -211,7 +211,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/hranenie-na-vremya-remonta/hnvr3.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/hranenie-na-vremya-remonta/hnvr3.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Станислав</h5>
                             <p class="text-left text-lg-center">
@@ -220,7 +220,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/hranenie-na-vremya-remonta/hnvr4.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/hranenie-na-vremya-remonta/hnvr4.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Надежда В.</h5>
                             <p class="text-left text-lg-center">
@@ -230,11 +230,11 @@
                     </div>
                 </div>
                 <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                    <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
+                    <img src="/images/left-arrow-type1.png" alt="стрелка влево">
                     <span class="sr-only">Previous</span>
                 </a>
                 <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                    <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                    <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
                     <span class="sr-only">Next</span>
                 </a>
             </div>

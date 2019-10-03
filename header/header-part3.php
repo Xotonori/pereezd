@@ -1,6 +1,6 @@
 <div class="gradient"></div>
-<img class="left-bush" data-src="/images/header/left-bush.png" alt="левый куст">
-<img class="right-bush" data-src="/images/header/right-bush.png" alt="правый куст">
+<img class="left-bush" src="/images/header/left-bush.png" alt="левый куст">
+<img class="right-bush" src="/images/header/right-bush.png" alt="правый куст">
 <div class="row justify-content-between">
     <a href="tel:+79618018881" class="phone text-left">+7 (961) 801-88-81</a>
     <nav class="navbar text-right">
@@ -9,7 +9,7 @@
              aria-controls="wrap-current-city" aria-expanded="false"
              aria-label="Toggle navigation">
             <a class="nav-link text-left" href="#"><?php echo isset($city) ? $city : 'Санкт-Петербург'; ?></a>
-            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+            <img src="/images/header/city-triangle.png" alt="треугольник">
         </div>
         <div class="collapse navbar-collapse wrap-current-city" id="current-city">
             <!-- Links -->

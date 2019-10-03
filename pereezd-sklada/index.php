@@ -4,8 +4,8 @@
 <title>Переезд склада в Санкт-Петербурге - Переезд без хлопот</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/pereezd-sklada/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
-<img class="man" data-src="/images/header/man.png" alt="грузчик">
+<img class="sofa" src="/images/header/sofa.png" alt="диван">
+<img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Переезд склада</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -26,7 +26,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -154,7 +154,7 @@
     <div class="container-fluid header-main-theme discount-block mb-5">
         <div class="row justify-content-center">
             <div class="col-12 d-flex">
-                <img class="rullon mx-auto" data-src="/images/rullon.png" alt="рулон">
+                <img class="rullon mx-auto" src="/images/rullon.png" alt="рулон">
             </div>
             <h6 class="_header-6 col-11 text-center"><span class="important">Закажите услугу</span> по переезду магазина и получите скидку!</h6>
             <span class="additional-info2 col-11 text-center mt-2">Скидка на упаковочный материал <br><span class="big-red">40%</span></span>
@@ -215,52 +215,52 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <a href="/images/pereezd-sklada/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/pereezd-sklada/photo1_mini.jpg" alt="Фото 1">
+                                <img class="d-block" src="/images/pereezd-sklada/photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/pereezd-sklada/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/pereezd-sklada/photo2_mini.jpg" alt="Фото 2">
+                                <img class="d-block" src="/images/pereezd-sklada/photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/pereezd-sklada/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/pereezd-sklada/photo3_mini.jpg" alt="Фото 3">
+                                <img class="d-block" src="/images/pereezd-sklada/photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/pereezd-sklada/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/pereezd-sklada/photo4_mini.jpg" alt="Фото 4">
+                                <img class="d-block" src="/images/pereezd-sklada/photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/pereezd-sklada/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/pereezd-sklada/photo5_mini.jpg" alt="Фото 5">
+                                <img class="d-block" src="/images/pereezd-sklada/photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/pereezd-sklada/photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/pereezd-sklada/photo6_mini.jpg" alt="Фото 6">
+                                <img class="d-block" src="/images/pereezd-sklada/photo6_mini.jpg" alt="Фото 6">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/pereezd-sklada/photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/pereezd-sklada/photo7_mini.jpg" alt="Фото 7">
+                                <img class="d-block" src="/images/pereezd-sklada/photo7_mini.jpg" alt="Фото 7">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/pereezd-sklada/photo8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/pereezd-sklada/photo8_mini.jpg" alt="Фото 8">
+                                <img class="d-block" src="/images/pereezd-sklada/photo8_mini.jpg" alt="Фото 8">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/pereezd-sklada/photo9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/pereezd-sklada/photo9_mini.jpg" alt="Фото 9">
+                                <img class="d-block" src="/images/pereezd-sklada/photo9_mini.jpg" alt="Фото 9">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/pereezd-sklada/photo10.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/pereezd-sklada/photo10_mini.jpg" alt="Фото 10">
+                                <img class="d-block" src="/images/pereezd-sklada/photo10_mini.jpg" alt="Фото 10">
                             </a>
                         </div>
                     </div>
@@ -293,7 +293,7 @@
         <div id="recommendationCaption1" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img data-src="/images/ofisnyy-pereezd/libher.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/ofisnyy-pereezd/libher.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Коновалов Е.А.<br><small>Начальник отдела</small></h5>
                         <p class="text-left text-lg-center">
@@ -303,7 +303,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/ofisnyy-pereezd/megafon.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/ofisnyy-pereezd/megafon.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Калугин А.И.<br><small>Административный директор</small></h5>
                         <p class="text-left text-lg-center">
@@ -313,7 +313,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/ofisnyy-pereezd/casamia.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/ofisnyy-pereezd/casamia.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Кормилина Н.А.<br><small>Директор по персоналу</small></h5>
                         <p class="text-left text-lg-center">
@@ -323,7 +323,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/ofisnyy-pereezd/raskom.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/ofisnyy-pereezd/raskom.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Ганза Д.А.<br><small>Директор Дирекции по продажам</small></h5>
                         <p class="text-left text-lg-center">
@@ -333,7 +333,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/ofisnyy-pereezd/mobius.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/ofisnyy-pereezd/mobius.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Харченко Н.А.<br><small>Генеральный директор</small></h5>
                         <p class="text-left text-lg-center">
@@ -343,7 +343,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/ofisnyy-pereezd/ghelamco.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/ofisnyy-pereezd/ghelamco.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Стивен Уилсон<br><small>Генеральный директор</small></h5>
                         <p class="text-left text-lg-center">
@@ -354,11 +354,11 @@
                 </div>
             </div>
             <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
+                <img src="/images/left-arrow-type1.png" alt="стрелка влево">
                 <span class="sr-only">Previous</span>
             </a>
             <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
                 <span class="sr-only">Next</span>
             </a>
         </div>

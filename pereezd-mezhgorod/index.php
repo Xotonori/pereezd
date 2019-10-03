@@ -4,8 +4,8 @@
 <title>Междугородний переезд</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/pereezd-mezhgorod/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
-<img class="man" data-src="/images/header/man.png" alt="грузчик">
+<img class="sofa" src="/images/header/sofa.png" alt="диван">
+<img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Междугородний переезд</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -29,7 +29,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
                             <img src="//img.youtube.com/vi/cYS16pAi12I/mqdefault.jpg" alt="превью" class="preview-picture">
-                            <img data-src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
+                            <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
                         </div>
                         <h5>Переезд и другого города на склад и в квартиру</h5>
                         <div class="col-11 js-long-text container">
@@ -61,7 +61,7 @@
                                 <div class="col d-flex justify-content-end">
                                     <button class="js-podrobno">
                                         <span>Подробно</span>
-                                        <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                                        <img src="/images/header/city-triangle.png" alt="треугольник">
                                     </button>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
                             <img src="//img.youtube.com/vi/IZEB9RbJMjA/mqdefault.jpg" alt="превью" class="preview-picture">
-                            <img data-src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal2">
+                            <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal2">
                         </div>
                         <h5>Переезд квартиры с области в город</h5>
                         <div class="col-11 js-long-text container">
@@ -123,7 +123,7 @@
                                 <div class="col d-flex justify-content-end">
                                     <button class="js-podrobno">
                                         <span>Подробно</span>
-                                        <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                                        <img src="/images/header/city-triangle.png" alt="треугольник">
                                     </button>
                                 </div>
                             </div>

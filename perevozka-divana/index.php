@@ -4,8 +4,8 @@
     <title>Перевозка дивана с грузчиками по Санкт-Петербургу</title>
     <link rel="canonical" href="https://pereezdy-spb.ru/perevozka-divana/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-    <img class="sofa" data-src="/images/header/sofa.png" alt="диван">
-    <img class="man" data-src="/images/header/man.png" alt="грузчик">
+    <img class="sofa" src="/images/header/sofa.png" alt="диван">
+    <img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
     <h1>Перевозка дивана с грузчиками</h1>
     <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -30,7 +30,7 @@
                         <div class="col d-flex justify-content-end">
                             <button class="js-podrobno">
                                 <span>Подробно</span>
-                                <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                                <img src="/images/header/city-triangle.png" alt="треугольник">
                             </button>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
             <h3 class="_header-3 text-center mb-4"><span class="important">Гарантируем</span> низкие цены</h3>
             <div class="row">
                 <div class="h-100 col-lg-3 d-flex justify-content-lg-start justify-content-center">
-                    <img data-src="/images/garant.png" alt="гарантия">
+                    <img src="/images/garant.png" alt="гарантия">
                 </div>
                 <p class="garant col-lg-9">
                     У нас дешевле, чем у конкурентов, потому что мы имеем собственный автопарк, ежедневно выполняем множество заказов и заботимся о комфорте наших клиентов. Если вам нужна недорогая перевозка диванов по Санкт-Петербургу без лишних хлопот -обратитесь к нам, и мы обещаем приятно удивить вас доступными ценами.
@@ -63,7 +63,7 @@
                 <div class="col-lg-3 d-flex align-items-center flex-lg-wrap align-items-stretch mb-lg-0 mb-3">
                     <div class="col-lg-12 d-flex justify-content-center justify-content-lg-start wrap-check-mark">
                         <div class="h-100 d-inline-block check-mark d-flex align-content-center">
-                            <img data-src="/images/gl.png" alt="галочка" class="mr-4">
+                            <img src="/images/gl.png" alt="галочка" class="mr-4">
                         </div>
                         <div class="d-inline-block">
                             Газель фургон 10 м3
@@ -71,7 +71,7 @@
                     </div>
                     <div class="col-lg-12 d-flex justify-content-center justify-content-lg-start wrap-check-mark">
                         <div class="h-100 d-inline-block check-mark d-flex align-content-center">
-                            <img data-src="/images/gl.png" alt="галочка" class="mr-4">
+                            <img src="/images/gl.png" alt="галочка" class="mr-4">
                         </div>
                         <div class="d-inline-block">
                             2 грузчика
@@ -96,7 +96,7 @@
             <div id="recommendationCaption1" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img data-src="/images/perevozka-divana/req-1.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-divana/req-1.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Юлия</h5>
                             <p class="text-left text-lg-center">
@@ -105,7 +105,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-divana/req-2.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-divana/req-2.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Ксения</h5>
                             <p class="text-left text-lg-center">
@@ -114,7 +114,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-divana/req-3.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-divana/req-3.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Егор</h5>
                             <p class="text-left text-lg-center">
@@ -123,7 +123,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img data-src="/images/perevozka-divana/req-4.png" class="d-block mx-auto" alt="слайд">
+                        <img src="/images/perevozka-divana/req-4.png" class="d-block mx-auto" alt="слайд">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Петр</h5>
                             <p class="text-left text-lg-center">
@@ -133,11 +133,11 @@
                     </div>
                 </div>
                 <a class="_carousel-control carousel-control-prev" href="#recommendationCaption1" role="button" data-slide="prev">
-                    <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
+                    <img src="/images/left-arrow-type1.png" alt="стрелка влево">
                     <span class="sr-only">Previous</span>
                 </a>
                 <a class="_carousel-control carousel-control-next" href="#recommendationCaption1" role="button" data-slide="next">
-                    <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                    <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
                     <span class="sr-only">Next</span>
                 </a>
             </div>

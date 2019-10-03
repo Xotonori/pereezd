@@ -4,8 +4,8 @@
 <title>Перевозка мебели в Санкт-Петербурге, недорого перевезти мебель без хлопот в СПБ</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/perevozka-mebeli/" />
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
-<img class="man" data-src="/images/header/man.png" alt="грузчик">
+<img class="sofa" src="/images/header/sofa.png" alt="диван">
+<img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Перевозка мебели в Санкт-Петербурге</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -24,7 +24,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
             <div class="col-lg-3 benefit1 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/belive1.png" alt="копилка">
+                        <img src="/images/belive1.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center mainBlueColor">Низкая стоимость перевозки мебели в Санкт-Петербурге</p>
                     <p class="hint col-12 text-center">Большой объем заказов и хорошая техническая оснащенность позволяет нам предлагать клиентам низкие цены.</p>
@@ -52,7 +52,7 @@
             <div class="col-lg-3 benefit2 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/belive2.png" alt="копилка">
+                        <img src="/images/belive2.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center mainBlueColor">Подача машины и грузчиков строго по графику</p>
                     <p class="hint col-12 text-center">Опоздание к одному клиенту приводит к срыву сроков исполнения остальных заказов, поэтому мы не можем себе позволить отклоняться от графика.</p>
@@ -61,7 +61,7 @@
             <div class="col-lg-3 benefit3 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/belive3.png" alt="копилка">
+                        <img src="/images/belive3.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center mainBlueColor">Заботливое отношение к мебели во время всего процесса</p>
                     <p class="hint col-12 text-center">Мы предельно аккуратно обращаемся с мебелью клиента, поскольку заботимся о своей репутации и Вашем благополучии.</p>
@@ -70,7 +70,7 @@
             <div class="col-lg-3 benefit4 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/belive4.png" alt="копилка">
+                        <img src="/images/belive4.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center mainBlueColor">Много положительных отзывов от заказчиков</p>
                     <p class="hint col-12 text-center">Клиенты ценят внимательное отношение, поэтому часто решают дополнительно вознаградить нашу компанию, оставив положительный отзыв.</p>
@@ -91,7 +91,7 @@
         <div id="profRelocationCaption1" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img data-src="/images/perevozka-mebeli/1yur.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/1yur.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a href="/perevozka-mebeli">Сборка/разборка мебели</a></h5>
                         <p>
@@ -100,7 +100,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/perevozka-mebeli/2yur.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/2yur.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a>Перевозка офисной мебели</a></h5>
                         <p>
@@ -109,7 +109,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/perevozka-mebeli/3yur.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/3yur.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a>Перевозка кабинета руководителя</a></h5>
                         <p>
@@ -118,7 +118,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/perevozka-mebeli/4yur.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/4yur.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a href="/pereezd_magazina/">Перевозка мебели переговорных комнат</a></h5>
                         <p>
@@ -127,7 +127,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/perevozka-mebeli/5yur.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/5yur.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a href="/pereezd-deshevo/">Перевозка эксклюзивной мебели</a></h5>
                         <p>
@@ -136,7 +136,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/perevozka-mebeli/6yur.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/6yur.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a href="/utilizatsiya-mebeli">Утилизация мебели</a></h5>
                         <p>
@@ -146,11 +146,11 @@
                 </div>
             </div>
             <a class="_carousel-control carousel-control-prev" href="#profRelocationCaption1" role="button" data-slide="prev">
-                <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
+                <img src="/images/left-arrow-type1.png" alt="стрелка влево">
                 <span class="sr-only">Previous</span>
             </a>
             <a class="_carousel-control carousel-control-next" href="#profRelocationCaption1" role="button" data-slide="next">
-                <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
                 <span class="sr-only">Next</span>
             </a>
         </div>
@@ -168,7 +168,7 @@
         <div id="profRelocationCaption12" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img data-src="/images/perevozka-mebeli/1fl.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/1fl.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a href="/perevozka-mebeli/">Сборка/разборка мебели</a></h5>
                         <p>
@@ -177,7 +177,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/perevozka-mebeli/2fl.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/2fl.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a>Перевозка мягкой мебели</a></h5>
                         <p>
@@ -186,7 +186,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/perevozka-mebeli/3fl.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/3fl.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a>Перевозка шкафов</a></h5>
                         <p>
@@ -195,7 +195,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/perevozka-mebeli/2fl.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/2fl.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a href="/dachnyy-pereezd">Перевозка мебели на дачу</a></h5>
                         <p>
@@ -204,7 +204,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/perevozka-mebeli/4dp.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/4dp.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a href="/pereezd-po-oblasti">Перевозка антикварной мебели</a></h5>
                         <p>
@@ -213,7 +213,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img data-src="/images/perevozka-mebeli/6fl.png" class="d-block mx-auto" alt="слайд">
+                    <img src="/images/perevozka-mebeli/6fl.png" class="d-block mx-auto" alt="слайд">
                     <div class="carousel-caption d-none d-md-block">
                         <h5><a href="/utilizatsiya-mebeli">Вывоз старой мебели</a></h5>
                         <p>
@@ -223,11 +223,11 @@
                 </div>
             </div>
             <a class="_carousel-control carousel-control-prev" href="#profRelocationCaption12" role="button" data-slide="prev">
-                <img data-src="/images/left-arrow-type1.png" alt="стрелка влево">
+                <img src="/images/left-arrow-type1.png" alt="стрелка влево">
                 <span class="sr-only">Previous</span>
             </a>
             <a class="_carousel-control carousel-control-next" href="#profRelocationCaption12" role="button" data-slide="next">
-                <img data-src="/images/right-arrow-type1.png" alt="стрелка вправо">
+                <img src="/images/right-arrow-type1.png" alt="стрелка вправо">
                 <span class="sr-only">Next</span>
             </a>
         </div>
@@ -237,7 +237,7 @@
     <div class="container-fluid header-main-theme discount-block mb-5">
         <div class="row justify-content-center">
             <div class="col-12 d-flex">
-                <img class="rullon mx-auto" data-src="/images/rullon.png" alt="рулон">
+                <img class="rullon mx-auto" src="/images/rullon.png" alt="рулон">
             </div>
             <h6 class="_header-6 col-11 text-center"><span class="important">Закажите услугу</span> по переезду магазина и получите скидку!</h6>
             <span class="additional-info2 col-11 text-center mt-2">Скидка на упаковочный материал <br><span class="big-red">40%</span></span>
@@ -262,7 +262,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -377,7 +377,7 @@
             <div class="col-lg-3 benefit1 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/price1.png" alt="копилка">
+                        <img src="/images/price1.png" alt="копилка">
                     </div>
                     <a href="/calculyator" class="h-hint col-12 text-center">Рассчитать стоимость на калькуляторе</a>
                     <p class="hint col-12 text-center">Мы можете самостоятельно
@@ -388,7 +388,7 @@
             <div class="col-lg-3 benefit2 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/price2.png" alt="копилка">
+                        <img src="/images/price2.png" alt="копилка">
                     </div>
                     <a href="/zakaz" class="h-hint col-12 text-center">Вызвать оценщика (бесплатно)</a>
                     <p class="hint col-12 text-center">Наш менеджер рассчитает точную
@@ -399,7 +399,7 @@
             <div class="col-lg-3 benefit3 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/price3.png" alt="копилка">
+                        <img src="/images/price3.png" alt="копилка">
                     </div>
                     <a href="/price" class="h-hint col-12 text-center">Посмотреть цены
                         на наши услуги</a>
@@ -415,11 +415,11 @@
     <div class="person-page">
         <div class="container-fluid header-main-theme person-page-price">
             <h2 class="_header-3 mt-3 text-center"><span class="important">Задайте вопрос</span><br>специалисту</h2>
-            <img class="back-office" data-src="/images/back-office.png" alt="диван">
+            <img class="back-office" src="/images/back-office.png" alt="диван">
         </div>
         <div class="person-page-call">
-            <img class="man mx-auto" data-src="/images/manager.png" alt="менеджер">
-            <img class="man double-quotes mx-auto" data-src="/images/double-quotes.png" alt="менеджер">
+            <img class="man mx-auto" src="/images/manager.png" alt="менеджер">
+            <img class="man double-quotes mx-auto" src="/images/double-quotes.png" alt="менеджер">
             <h6 class="_header-6 text-center">
                 Николай Денисов
             </h6>
@@ -436,7 +436,7 @@
                     <div class="col d-flex justify-content-center">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -495,7 +495,7 @@
                     <div class="carousel-caption d-none d-md-block">
                         <div class="col-12 d-flex align-items-center justify-content-center preview">
                             <img src="//img.youtube.com/vi/i3mR9aGQKyc/mqdefault.jpg" alt="превью" class="preview-picture">
-                            <img data-src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
+                            <img src="/images/play.png" alt="воспроизвести"  class="request-call mx-auto" data-toggle="modal" data-target="#videoModal1">
                         </div>
                         <h5>Перевозка мебели и вещей</h5>
                         <div class="col-11 js-long-text container">
@@ -506,7 +506,7 @@
                                 <div class="col d-flex justify-content-end">
                                     <button class="js-podrobno">
                                         <span>Подробно</span>
-                                        <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                                        <img src="/images/header/city-triangle.png" alt="треугольник">
                                     </button>
                                 </div>
                             </div>
@@ -553,8 +553,8 @@
 
     <!--////infographics////////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="container-fluid wrap-infographics">
-        <img class="ribbon left-ribbon" data-src="/images/ribbon-left.png" alt="левая лента">
-        <img class="ribbon right-ribbon" data-src="/images/ribbon-right.png" alt="правая лента">
+        <img class="ribbon left-ribbon" src="/images/ribbon-left.png" alt="левая лента">
+        <img class="ribbon right-ribbon" src="/images/ribbon-right.png" alt="правая лента">
         <div class="row">
             <div class="col-12 text-center">
                 <h2 class="_header-3">Переезд без хлопот в <span class="important">цифрах</span></h2>
@@ -609,52 +609,52 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <a href="/images/perevozka-mebeli/photo1.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/perevozka-mebeli/photo1_mini.jpg" alt="Фото 1">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo1_mini.jpg" alt="Фото 1">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-mebeli/photo2.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/perevozka-mebeli/photo2_mini.jpg" alt="Фото 2">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo2_mini.jpg" alt="Фото 2">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-mebeli/photo3.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/perevozka-mebeli/photo3_mini.jpg" alt="Фото 3">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo3_mini.jpg" alt="Фото 3">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-mebeli/photo4.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/perevozka-mebeli/photo4_mini.jpg" alt="Фото 4">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo4_mini.jpg" alt="Фото 4">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-mebeli/photo5.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/perevozka-mebeli/photo5_mini.jpg" alt="Фото 5">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo5_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-mebeli/photo6.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/perevozka-mebeli/photo6_mini.jpg" alt="Фото 5">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo6_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-mebeli/photo7.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/perevozka-mebeli/photo7_mini.jpg" alt="Фото 5">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo7_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-mebeli/photo8.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/perevozka-mebeli/photo8_mini.jpg" alt="Фото 5">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo8_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-mebeli/photo9.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/perevozka-mebeli/photo9_mini.jpg" alt="Фото 5">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo9_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                         <div class="carousel-item">
                             <a href="/images/perevozka-mebeli/photo10.jpg" data-toggle="lightbox" data-gallery="review-photo">
-                                <img class="d-block" data-src="/images/perevozka-mebeli/photo10_mini.jpg" alt="Фото 5">
+                                <img class="d-block" src="/images/perevozka-mebeli/photo10_mini.jpg" alt="Фото 5">
                             </a>
                         </div>
                     </div>

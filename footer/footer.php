@@ -2,29 +2,29 @@
         <div class="top-footer overflow-hidden">
             <div class="gradient"></div>
             <h3 class="amount-shipping">Уже сделано уже более <br><span class="blue-text">10 050</span> перевозок</h3>
-            <img class="elephant" data-src="/images/footer/elephant.png" alt="слон">
+            <img class="elephant" src="/images/footer/elephant.png" alt="слон">
             <!-- Modal -->
             <button type="button" class="request-call" data-toggle="modal" data-target="#header-modal">Отправить заявку</button>
             <div class="enjoy">Присоединяйтесь:)</div>
             <div class="social container">
                 <div class="row d-flex justify-content-center">
                     <a href="#" class="col vk">
-                        <img data-src="/images/footer/vk.png" alt="вконтакте">
+                        <img src="/images/footer/vk.png" alt="вконтакте">
                     </a>
                     <a href="#" class="col fb">
-                        <img data-src="/images/footer/fb.png" alt="фейсбук">
+                        <img src="/images/footer/fb.png" alt="фейсбук">
                     </a>
                     <a href="#" class="col ok">
-                        <img data-src="/images/footer/ok.png" alt="однокласники">
+                        <img src="/images/footer/ok.png" alt="однокласники">
                     </a>
                     <a href="#" class="col tw">
-                        <img data-src="/images/footer/tw.png" alt="твиттер">
+                        <img src="/images/footer/tw.png" alt="твиттер">
                     </a>
                     <a href="#" class="col in">
-                        <img data-src="/images/footer/in.png" alt="инстаграм">
+                        <img src="/images/footer/in.png" alt="инстаграм">
                     </a>
                     <a href="#" class="col yo">
-                        <img data-src="/images/footer/yo.png" alt="ютуб">
+                        <img src="/images/footer/yo.png" alt="ютуб">
                     </a>
                 </div>
             </div>

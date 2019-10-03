@@ -4,8 +4,8 @@
 <title>Грузоперевозки на дачу в СПБ и Ленинградской области</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/gruzoperevozki-na-dachu/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<img class="sofa" data-src="/images/header/sofa.png" alt="диван">
-<img class="man" data-src="/images/header/man.png" alt="грузчик">
+<img class="sofa" src="/images/header/sofa.png" alt="диван">
+<img class="man" src="/images/header/man.png" alt="грузчик">
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Грузоперевозки на дачу</h1>
 <div class="urgent-call">Срочный вызов за <span class="red-bold">15 минут</span></div>
@@ -22,7 +22,7 @@
             <div class="col d-flex justify-content-end">
                 <button class="js-podrobno">
                     <span>Подробно</span>
-                    <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                    <img src="/images/header/city-triangle.png" alt="треугольник">
                 </button>
             </div>
         </div>
@@ -39,7 +39,7 @@
             <div class="col-lg-3 benefit1 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/belive1.png" alt="копилка">
+                        <img src="/images/belive1.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center mainBlueColor">Доступная стоимость грузоперевозок на дачу</p>
                     <p class="hint col-12 text-center">
@@ -49,7 +49,7 @@
             <div class="col-lg-3 benefit2 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/belive2.png" alt="копилка">
+                        <img src="/images/belive2.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center mainBlueColor">Работаем с точностью швейцарских часов</p>
                     <p class="hint col-12 text-center">
@@ -59,7 +59,7 @@
             <div class="col-lg-3 benefit3 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/belive3.png" alt="копилка">
+                        <img src="/images/belive3.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center mainBlueColor">Гарантируем сохранность имущества</p>
                     <p class="hint col-12 text-center">
@@ -69,7 +69,7 @@
             <div class="col-lg-3 benefit4 benefit container">
                 <div class="row">
                     <div class="col-12 d-flex justify-content-center">
-                        <img data-src="/images/belive4.png" alt="копилка">
+                        <img src="/images/belive4.png" alt="копилка">
                     </div>
                     <p class="h-hint col-12 text-center mainBlueColor">Нас знают и ценят</p>
                     <p class="hint col-12 text-center">Мы ни разу не подвели своих заказчиков и гордимся этим. Наше кредо – точность и аккуратность во всем.</p>
@@ -81,7 +81,7 @@
     <div class="container-fluid header-main-theme discount-block mb-5">
         <div class="row justify-content-center">
             <div class="col-12 d-flex">
-                <img class="rullon mx-auto" data-src="/images/rullon.png" alt="рулон">
+                <img class="rullon mx-auto" src="/images/rullon.png" alt="рулон">
             </div>
             <h6 class="_header-6 col-11 text-center">При заказе <span class="important">услуг грузчиков</span> сегодня - скидка</h6>
             <span class="additional-info2 col-11 text-center mt-2">Скидка на упаковочный материал <br><span class="big-red">40%</span></span>
@@ -112,7 +112,7 @@
                     <div class="col d-flex justify-content-end">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -187,11 +187,11 @@
     <div class="person-page">
         <div class="container-fluid header-main-theme person-page-price">
             <p class="_header-3 mt-3 text-center"><span class="important">Остались вопросы</span> - спросите специалиста</p>
-            <img class="back-office" data-src="/images/back-office.png" alt="диван">
+            <img class="back-office" src="/images/back-office.png" alt="диван">
         </div>
         <div class="person-page-call">
-            <img class="man mx-auto" data-src="/images/manager.png" alt="менеджер">
-            <img class="man double-quotes mx-auto" data-src="/images/double-quotes.png" alt="менеджер">
+            <img class="man mx-auto" src="/images/manager.png" alt="менеджер">
+            <img class="man double-quotes mx-auto" src="/images/double-quotes.png" alt="менеджер">
             <h6 class="_header-6 text-center">
                 Николай Денисов
             </h6>
@@ -208,7 +208,7 @@
                     <div class="col d-flex justify-content-center">
                         <button class="js-podrobno">
                             <span>Подробно</span>
-                            <img data-src="/images/header/city-triangle.png" alt="треугольник">
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
                         </button>
                     </div>
                 </div>
@@ -260,8 +260,8 @@
 
     <!--////infographics////////////////////////////////////////////////////////////////////////////////////////////////-->
     <div class="container-fluid wrap-infographics">
-        <img class="ribbon left-ribbon" data-src="/images/ribbon-left.png" alt="левая лента">
-        <img class="ribbon right-ribbon" data-src="/images/ribbon-right.png" alt="правая лента">
+        <img class="ribbon left-ribbon" src="/images/ribbon-left.png" alt="левая лента">
+        <img class="ribbon right-ribbon" src="/images/ribbon-right.png" alt="правая лента">
         <div class="row">
             <div class="col-12 text-center">
                 <h2 class="_header-3">Переезд без хлопот в <span class="important">цифрах</span></h2>

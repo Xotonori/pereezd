@@ -4,8 +4,8 @@
 <title>Заказать переезд, онлайн заказ - Переезд без хлопот</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/zakaz/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<!--<img class="sofa" data-src="/images/header/sofa.png" alt="диван">-->
-<!--<img class="man" data-src="/images/header/man.png" alt="грузчик">-->
+<!--<img class="sofa" src="/images/header/sofa.png" alt="диван">-->
+<!--<img class="man" src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Онлайн заказ</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
@@ -13,9 +13,19 @@
 <main class="zakaz">
     <div class="container zakaz">
         <div class="row">
-            <div class="col-12 paragraph">
-                <p>Вы можете заказать переезд не только по телефону, но и с помощью онлайн-заявки. При заполнении полей рекомендуется указывать всю известную информацию о будущем переезде, поскольку это поможет нашим менеджерам точнее рассчитать сроки выполнения работы и общую стоимость услуг.</p>
-                <p>Оформить заказ переезда на сайте можно в любое удобное для вас время. После отправки заполненной формы вам больше не придется ничего делать: получив заявку, наши специалисты сами свяжутся с вами. Такой заказ ни к чему вас не обязывает. После получения бесплатной консультации вы сможете решить, будете ли пользоваться нашими услугами.</p>
+            <div class="js-long-text container">
+                <div class="row">
+                    <div class="col-12 paragraph">
+                        <p>Вы можете заказать переезд не только по телефону, но и с помощью онлайн-заявки. При заполнении полей рекомендуется указывать всю известную информацию о будущем переезде, поскольку это поможет нашим менеджерам точнее рассчитать сроки выполнения работы и общую стоимость услуг.</p>
+                        <p>Оформить заказ переезда на сайте можно в любое удобное для вас время. После отправки заполненной формы вам больше не придется ничего делать: получив заявку, наши специалисты сами свяжутся с вами. Такой заказ ни к чему вас не обязывает. После получения бесплатной консультации вы сможете решить, будете ли пользоваться нашими услугами.</p>
+                    </div>
+                    <div class="col d-flex justify-content-end">
+                        <button class="js-podrobno">
+                            <span>Подробно</span>
+                            <img src="/images/header/city-triangle.png" alt="треугольник">
+                        </button>
+                    </div>
+                </div>
             </div>
             <div class="form-block mx-auto">
                 <form action="https://pereezdy-spb.ru/zakaz/#usermessage2b" id="cforms2form" method="post" class="js-modal">

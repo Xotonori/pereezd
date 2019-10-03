@@ -4,8 +4,8 @@
 <title>Калькулятор переезда</title>
 <link rel="canonical" href="https://pereezdy-spb.ru/kvartirnyy-pereezd/"/>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part2.php'); ?>
-<!--<img class="sofa" data-src="/images/header/sofa.png" alt="диван">-->
-<!--<img class="man" data-src="/images/header/man.png" alt="грузчик">-->
+<!--<img class="sofa" src="/images/header/sofa.png" alt="диван">-->
+<!--<img class="man" src="/images/header/man.png" alt="грузчик">-->
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part3.php'); ?>
 <h1>Калькулятор переезда</h1>
 <?php include_once  ($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'header' . DIRECTORY_SEPARATOR . 'header-part4.php'); ?>
@@ -30,7 +30,7 @@
                                                 <p>Выбор автомобиля</p></div>
                                             <div class="clear"></div>
                                             <p><label style="float: left; margin-right: 15px; margin-left: 10px;"> <b>Выберите автомобиль</b> <select id="avto" tabindex="2" style="width: 290px;" class="chzn-select avto_select" data-placeholder="Порядок"><option cost_mkad="16" hour="3" cost="450" tonaj="1.5 тонны" pic="/calc/img/prev_3_price.png" value="8">Газель-фургон</option><option cost_mkad="20" hour="4" cost="500" tonaj="1.5 тонны" pic="/calc/img/prev_next_price.png" value="11">Газель NEXT</option><option cost_mkad="18" hour="5" cost="550" tonaj="2.5 тонны" pic="/calc/img/prev_5_price.png" value="4">Газель удлиненная</option><option cost_mkad="26" hour="5" cost="800" tonaj="5 тонн" pic="/calc/img/prev_7_price.png" value="7">Mercedes с гидролопатой</option><option cost_mkad="26" hour="6" cost="850" tonaj="5 тонн" pic="/calc/img/prev_16_price.png" value="9">Mercedes с металлической будкой</option><option cost_mkad="30" hour="7" cost="900" tonaj="10 тонн" pic="/calc/img/prev_man_price.png" value="10">MAN с металлической будкой</option></select> </label></p>
-                                            <div class="avto-cont"><img data-src="/images/calc/prev_3_price.png" alt="Выбранная машина для перевозки"></div>
+                                            <div class="avto-cont"><img src="/images/calc/prev_3_price.png" alt="Выбранная машина для перевозки"></div>
                                             <table>
                                                 <tbody><tr>
                                                     <td><label style="margin-right: 26px; float: left; margin-left: 10px;margin-top:15px"><b>Время работы</b><span class="inp-incr"><a class="up"></a><a class="down"></a> <input readonly="readonly" id="avto_time" min="3" style="width: 40px; margin-left: 24px;" value="3" class="inp-txt check only_int" type="text"> </span><span class="smallio"> ч. + 1ч. подача</span></label> <label style="margin-left: 20px;margin-top:15px"><b>Выезд за КАД</b> <span class="inp-incr"><a class="up"></a><a class="down"></a> <input id="avto_mkad" min="0" style="width: 58px; margin-left: 19px;" value="0" class="inp-txt check only_int" type="text"> </span></label><label style="margin-right: 123px; float: left; margin-left: 10px;display:none"><b>Количество</b> <span class="inp-incr"><a class="up"></a><a class="down"></a> <input readonly="readonly" id="avto_count" min="0" style="width: 40px; margin-left: 35px;display:none" value="1" class="inp-txt check only_int" type="text"> </span> </label><label style="display:none"><b>Пропуск в центр</b> <input disabled="disabled" id="avto_center" type="checkbox"> </label> </td>
